@@ -1,0 +1,8805 @@
+{
+  "generated_utc": "2026-10-14T04:00:11.345413+00:00",
+  "files": [
+    {
+      "period": "1880-01",
+      "path": "gistemp/1880-01.json",
+      "size_bytes": 88343
+    },
+    {
+      "period": "1880-02",
+      "path": "gistemp/1880-02.json",
+      "size_bytes": 88492
+    },
+    {
+      "period": "1880-03",
+      "path": "gistemp/1880-03.json",
+      "size_bytes": 87982
+    },
+    {
+      "period": "1880-04",
+      "path": "gistemp/1880-04.json",
+      "size_bytes": 87981
+    },
+    {
+      "period": "1880-05",
+      "path": "gistemp/1880-05.json",
+      "size_bytes": 88826
+    },
+    {
+      "period": "1880-06",
+      "path": "gistemp/1880-06.json",
+      "size_bytes": 88996
+    },
+    {
+      "period": "1880-07",
+      "path": "gistemp/1880-07.json",
+      "size_bytes": 88688
+    },
+    {
+      "period": "1880-08",
+      "path": "gistemp/1880-08.json",
+      "size_bytes": 88427
+    },
+    {
+      "period": "1880-09",
+      "path": "gistemp/1880-09.json",
+      "size_bytes": 88317
+    },
+    {
+      "period": "1880-10",
+      "path": "gistemp/1880-10.json",
+      "size_bytes": 88632
+    },
+    {
+      "period": "1880-11",
+      "path": "gistemp/1880-11.json",
+      "size_bytes": 88734
+    },
+    {
+      "period": "1880-12",
+      "path": "gistemp/1880-12.json",
+      "size_bytes": 88544
+    },
+    {
+      "period": "1881-01",
+      "path": "gistemp/1881-01.json",
+      "size_bytes": 88687
+    },
+    {
+      "period": "1881-02",
+      "path": "gistemp/1881-02.json",
+      "size_bytes": 88571
+    },
+    {
+      "period": "1881-03",
+      "path": "gistemp/1881-03.json",
+      "size_bytes": 87645
+    },
+    {
+      "period": "1881-04",
+      "path": "gistemp/1881-04.json",
+      "size_bytes": 87311
+    },
+    {
+      "period": "1881-05",
+      "path": "gistemp/1881-05.json",
+      "size_bytes": 87722
+    },
+    {
+      "period": "1881-06",
+      "path": "gistemp/1881-06.json",
+      "size_bytes": 88534
+    },
+    {
+      "period": "1881-07",
+      "path": "gistemp/1881-07.json",
+      "size_bytes": 88031
+    },
+    {
+      "period": "1881-08",
+      "path": "gistemp/1881-08.json",
+      "size_bytes": 88188
+    },
+    {
+      "period": "1881-09",
+      "path": "gistemp/1881-09.json",
+      "size_bytes": 88783
+    },
+    {
+      "period": "1881-10",
+      "path": "gistemp/1881-10.json",
+      "size_bytes": 89026
+    },
+    {
+      "period": "1881-11",
+      "path": "gistemp/1881-11.json",
+      "size_bytes": 88487
+    },
+    {
+      "period": "1881-12",
+      "path": "gistemp/1881-12.json",
+      "size_bytes": 87869
+    },
+    {
+      "period": "1882-01",
+      "path": "gistemp/1882-01.json",
+      "size_bytes": 87446
+    },
+    {
+      "period": "1882-02",
+      "path": "gistemp/1882-02.json",
+      "size_bytes": 87836
+    },
+    {
+      "period": "1882-03",
+      "path": "gistemp/1882-03.json",
+      "size_bytes": 87836
+    },
+    {
+      "period": "1882-04",
+      "path": "gistemp/1882-04.json",
+      "size_bytes": 88519
+    },
+    {
+      "period": "1882-05",
+      "path": "gistemp/1882-05.json",
+      "size_bytes": 88406
+    },
+    {
+      "period": "1882-06",
+      "path": "gistemp/1882-06.json",
+      "size_bytes": 88461
+    },
+    {
+      "period": "1882-07",
+      "path": "gistemp/1882-07.json",
+      "size_bytes": 88656
+    },
+    {
+      "period": "1882-08",
+      "path": "gistemp/1882-08.json",
+      "size_bytes": 88579
+    },
+    {
+      "period": "1882-09",
+      "path": "gistemp/1882-09.json",
+      "size_bytes": 88823
+    },
+    {
+      "period": "1882-10",
+      "path": "gistemp/1882-10.json",
+      "size_bytes": 88884
+    },
+    {
+      "period": "1882-11",
+      "path": "gistemp/1882-11.json",
+      "size_bytes": 88827
+    },
+    {
+      "period": "1882-12",
+      "path": "gistemp/1882-12.json",
+      "size_bytes": 88873
+    },
+    {
+      "period": "1883-01",
+      "path": "gistemp/1883-01.json",
+      "size_bytes": 89024
+    },
+    {
+      "period": "1883-02",
+      "path": "gistemp/1883-02.json",
+      "size_bytes": 89290
+    },
+    {
+      "period": "1883-03",
+      "path": "gistemp/1883-03.json",
+      "size_bytes": 88790
+    },
+    {
+      "period": "1883-04",
+      "path": "gistemp/1883-04.json",
+      "size_bytes": 89012
+    },
+    {
+      "period": "1883-05",
+      "path": "gistemp/1883-05.json",
+      "size_bytes": 88769
+    },
+    {
+      "period": "1883-06",
+      "path": "gistemp/1883-06.json",
+      "size_bytes": 87929
+    },
+    {
+      "period": "1883-07",
+      "path": "gistemp/1883-07.json",
+      "size_bytes": 88443
+    },
+    {
+      "period": "1883-08",
+      "path": "gistemp/1883-08.json",
+      "size_bytes": 89318
+    },
+    {
+      "period": "1883-09",
+      "path": "gistemp/1883-09.json",
+      "size_bytes": 89557
+    },
+    {
+      "period": "1883-10",
+      "path": "gistemp/1883-10.json",
+      "size_bytes": 89252
+    },
+    {
+      "period": "1883-11",
+      "path": "gistemp/1883-11.json",
+      "size_bytes": 89032
+    },
+    {
+      "period": "1883-12",
+      "path": "gistemp/1883-12.json",
+      "size_bytes": 88635
+    },
+    {
+      "period": "1884-01",
+      "path": "gistemp/1884-01.json",
+      "size_bytes": 88824
+    },
+    {
+      "period": "1884-02",
+      "path": "gistemp/1884-02.json",
+      "size_bytes": 88374
+    },
+    {
+      "period": "1884-03",
+      "path": "gistemp/1884-03.json",
+      "size_bytes": 89915
+    },
+    {
+      "period": "1884-04",
+      "path": "gistemp/1884-04.json",
+      "size_bytes": 90534
+    },
+    {
+      "period": "1884-05",
+      "path": "gistemp/1884-05.json",
+      "size_bytes": 90118
+    },
+    {
+      "period": "1884-06",
+      "path": "gistemp/1884-06.json",
+      "size_bytes": 90254
+    },
+    {
+      "period": "1884-07",
+      "path": "gistemp/1884-07.json",
+      "size_bytes": 90247
+    },
+    {
+      "period": "1884-08",
+      "path": "gistemp/1884-08.json",
+      "size_bytes": 89859
+    },
+    {
+      "period": "1884-09",
+      "path": "gistemp/1884-09.json",
+      "size_bytes": 89325
+    },
+    {
+      "period": "1884-10",
+      "path": "gistemp/1884-10.json",
+      "size_bytes": 89347
+    },
+    {
+      "period": "1884-11",
+      "path": "gistemp/1884-11.json",
+      "size_bytes": 89739
+    },
+    {
+      "period": "1884-12",
+      "path": "gistemp/1884-12.json",
+      "size_bytes": 89504
+    },
+    {
+      "period": "1885-01",
+      "path": "gistemp/1885-01.json",
+      "size_bytes": 90290
+    },
+    {
+      "period": "1885-02",
+      "path": "gistemp/1885-02.json",
+      "size_bytes": 89555
+    },
+    {
+      "period": "1885-03",
+      "path": "gistemp/1885-03.json",
+      "size_bytes": 89707
+    },
+    {
+      "period": "1885-04",
+      "path": "gistemp/1885-04.json",
+      "size_bytes": 90310
+    },
+    {
+      "period": "1885-05",
+      "path": "gistemp/1885-05.json",
+      "size_bytes": 90272
+    },
+    {
+      "period": "1885-06",
+      "path": "gistemp/1885-06.json",
+      "size_bytes": 90344
+    },
+    {
+      "period": "1885-07",
+      "path": "gistemp/1885-07.json",
+      "size_bytes": 89962
+    },
+    {
+      "period": "1885-08",
+      "path": "gistemp/1885-08.json",
+      "size_bytes": 90085
+    },
+    {
+      "period": "1885-09",
+      "path": "gistemp/1885-09.json",
+      "size_bytes": 90652
+    },
+    {
+      "period": "1885-10",
+      "path": "gistemp/1885-10.json",
+      "size_bytes": 90019
+    },
+    {
+      "period": "1885-11",
+      "path": "gistemp/1885-11.json",
+      "size_bytes": 89377
+    },
+    {
+      "period": "1885-12",
+      "path": "gistemp/1885-12.json",
+      "size_bytes": 88778
+    },
+    {
+      "period": "1886-01",
+      "path": "gistemp/1886-01.json",
+      "size_bytes": 89991
+    },
+    {
+      "period": "1886-02",
+      "path": "gistemp/1886-02.json",
+      "size_bytes": 90762
+    },
+    {
+      "period": "1886-03",
+      "path": "gistemp/1886-03.json",
+      "size_bytes": 91009
+    },
+    {
+      "period": "1886-04",
+      "path": "gistemp/1886-04.json",
+      "size_bytes": 90079
+    },
+    {
+      "period": "1886-05",
+      "path": "gistemp/1886-05.json",
+      "size_bytes": 89732
+    },
+    {
+      "period": "1886-06",
+      "path": "gistemp/1886-06.json",
+      "size_bytes": 89851
+    },
+    {
+      "period": "1886-07",
+      "path": "gistemp/1886-07.json",
+      "size_bytes": 89311
+    },
+    {
+      "period": "1886-08",
+      "path": "gistemp/1886-08.json",
+      "size_bytes": 90104
+    },
+    {
+      "period": "1886-09",
+      "path": "gistemp/1886-09.json",
+      "size_bytes": 90022
+    },
+    {
+      "period": "1886-10",
+      "path": "gistemp/1886-10.json",
+      "size_bytes": 89677
+    },
+    {
+      "period": "1886-11",
+      "path": "gistemp/1886-11.json",
+      "size_bytes": 89940
+    },
+    {
+      "period": "1886-12",
+      "path": "gistemp/1886-12.json",
+      "size_bytes": 89665
+    },
+    {
+      "period": "1887-01",
+      "path": "gistemp/1887-01.json",
+      "size_bytes": 90667
+    },
+    {
+      "period": "1887-02",
+      "path": "gistemp/1887-02.json",
+      "size_bytes": 90353
+    },
+    {
+      "period": "1887-03",
+      "path": "gistemp/1887-03.json",
+      "size_bytes": 90348
+    },
+    {
+      "period": "1887-04",
+      "path": "gistemp/1887-04.json",
+      "size_bytes": 90323
+    },
+    {
+      "period": "1887-05",
+      "path": "gistemp/1887-05.json",
+      "size_bytes": 89877
+    },
+    {
+      "period": "1887-06",
+      "path": "gistemp/1887-06.json",
+      "size_bytes": 89764
+    },
+    {
+      "period": "1887-07",
+      "path": "gistemp/1887-07.json",
+      "size_bytes": 90025
+    },
+    {
+      "period": "1887-08",
+      "path": "gistemp/1887-08.json",
+      "size_bytes": 90935
+    },
+    {
+      "period": "1887-09",
+      "path": "gistemp/1887-09.json",
+      "size_bytes": 90138
+    },
+    {
+      "period": "1887-10",
+      "path": "gistemp/1887-10.json",
+      "size_bytes": 89853
+    },
+    {
+      "period": "1887-11",
+      "path": "gistemp/1887-11.json",
+      "size_bytes": 89805
+    },
+    {
+      "period": "1887-12",
+      "path": "gistemp/1887-12.json",
+      "size_bytes": 89930
+    },
+    {
+      "period": "1888-01",
+      "path": "gistemp/1888-01.json",
+      "size_bytes": 89903
+    },
+    {
+      "period": "1888-02",
+      "path": "gistemp/1888-02.json",
+      "size_bytes": 89915
+    },
+    {
+      "period": "1888-03",
+      "path": "gistemp/1888-03.json",
+      "size_bytes": 90084
+    },
+    {
+      "period": "1888-04",
+      "path": "gistemp/1888-04.json",
+      "size_bytes": 89362
+    },
+    {
+      "period": "1888-05",
+      "path": "gistemp/1888-05.json",
+      "size_bytes": 89744
+    },
+    {
+      "period": "1888-06",
+      "path": "gistemp/1888-06.json",
+      "size_bytes": 88986
+    },
+    {
+      "period": "1888-07",
+      "path": "gistemp/1888-07.json",
+      "size_bytes": 88998
+    },
+    {
+      "period": "1888-08",
+      "path": "gistemp/1888-08.json",
+      "size_bytes": 89457
+    },
+    {
+      "period": "1888-09",
+      "path": "gistemp/1888-09.json",
+      "size_bytes": 89811
+    },
+    {
+      "period": "1888-10",
+      "path": "gistemp/1888-10.json",
+      "size_bytes": 88736
+    },
+    {
+      "period": "1888-11",
+      "path": "gistemp/1888-11.json",
+      "size_bytes": 88689
+    },
+    {
+      "period": "1888-12",
+      "path": "gistemp/1888-12.json",
+      "size_bytes": 88243
+    },
+    {
+      "period": "1889-01",
+      "path": "gistemp/1889-01.json",
+      "size_bytes": 88281
+    },
+    {
+      "period": "1889-02",
+      "path": "gistemp/1889-02.json",
+      "size_bytes": 88228
+    },
+    {
+      "period": "1889-03",
+      "path": "gistemp/1889-03.json",
+      "size_bytes": 88576
+    },
+    {
+      "period": "1889-04",
+      "path": "gistemp/1889-04.json",
+      "size_bytes": 87948
+    },
+    {
+      "period": "1889-05",
+      "path": "gistemp/1889-05.json",
+      "size_bytes": 88606
+    },
+    {
+      "period": "1889-06",
+      "path": "gistemp/1889-06.json",
+      "size_bytes": 88881
+    },
+    {
+      "period": "1889-07",
+      "path": "gistemp/1889-07.json",
+      "size_bytes": 88779
+    },
+    {
+      "period": "1889-08",
+      "path": "gistemp/1889-08.json",
+      "size_bytes": 89501
+    },
+    {
+      "period": "1889-09",
+      "path": "gistemp/1889-09.json",
+      "size_bytes": 89521
+    },
+    {
+      "period": "1889-10",
+      "path": "gistemp/1889-10.json",
+      "size_bytes": 88888
+    },
+    {
+      "period": "1889-11",
+      "path": "gistemp/1889-11.json",
+      "size_bytes": 89272
+    },
+    {
+      "period": "1889-12",
+      "path": "gistemp/1889-12.json",
+      "size_bytes": 89693
+    },
+    {
+      "period": "1890-01",
+      "path": "gistemp/1890-01.json",
+      "size_bytes": 90176
+    },
+    {
+      "period": "1890-02",
+      "path": "gistemp/1890-02.json",
+      "size_bytes": 90424
+    },
+    {
+      "period": "1890-03",
+      "path": "gistemp/1890-03.json",
+      "size_bytes": 90600
+    },
+    {
+      "period": "1890-04",
+      "path": "gistemp/1890-04.json",
+      "size_bytes": 90309
+    },
+    {
+      "period": "1890-05",
+      "path": "gistemp/1890-05.json",
+      "size_bytes": 90126
+    },
+    {
+      "period": "1890-06",
+      "path": "gistemp/1890-06.json",
+      "size_bytes": 90054
+    },
+    {
+      "period": "1890-07",
+      "path": "gistemp/1890-07.json",
+      "size_bytes": 90212
+    },
+    {
+      "period": "1890-08",
+      "path": "gistemp/1890-08.json",
+      "size_bytes": 90453
+    },
+    {
+      "period": "1890-09",
+      "path": "gistemp/1890-09.json",
+      "size_bytes": 89983
+    },
+    {
+      "period": "1890-10",
+      "path": "gistemp/1890-10.json",
+      "size_bytes": 90177
+    },
+    {
+      "period": "1890-11",
+      "path": "gistemp/1890-11.json",
+      "size_bytes": 90130
+    },
+    {
+      "period": "1890-12",
+      "path": "gistemp/1890-12.json",
+      "size_bytes": 89518
+    },
+    {
+      "period": "1891-01",
+      "path": "gistemp/1891-01.json",
+      "size_bytes": 90139
+    },
+    {
+      "period": "1891-02",
+      "path": "gistemp/1891-02.json",
+      "size_bytes": 90333
+    },
+    {
+      "period": "1891-03",
+      "path": "gistemp/1891-03.json",
+      "size_bytes": 89741
+    },
+    {
+      "period": "1891-04",
+      "path": "gistemp/1891-04.json",
+      "size_bytes": 89865
+    },
+    {
+      "period": "1891-05",
+      "path": "gistemp/1891-05.json",
+      "size_bytes": 89677
+    },
+    {
+      "period": "1891-06",
+      "path": "gistemp/1891-06.json",
+      "size_bytes": 89690
+    },
+    {
+      "period": "1891-07",
+      "path": "gistemp/1891-07.json",
+      "size_bytes": 89235
+    },
+    {
+      "period": "1891-08",
+      "path": "gistemp/1891-08.json",
+      "size_bytes": 89354
+    },
+    {
+      "period": "1891-09",
+      "path": "gistemp/1891-09.json",
+      "size_bytes": 89410
+    },
+    {
+      "period": "1891-10",
+      "path": "gistemp/1891-10.json",
+      "size_bytes": 89547
+    },
+    {
+      "period": "1891-11",
+      "path": "gistemp/1891-11.json",
+      "size_bytes": 90055
+    },
+    {
+      "period": "1891-12",
+      "path": "gistemp/1891-12.json",
+      "size_bytes": 88775
+    },
+    {
+      "period": "1892-01",
+      "path": "gistemp/1892-01.json",
+      "size_bytes": 90183
+    },
+    {
+      "period": "1892-02",
+      "path": "gistemp/1892-02.json",
+      "size_bytes": 89428
+    },
+    {
+      "period": "1892-03",
+      "path": "gistemp/1892-03.json",
+      "size_bytes": 90199
+    },
+    {
+      "period": "1892-04",
+      "path": "gistemp/1892-04.json",
+      "size_bytes": 90338
+    },
+    {
+      "period": "1892-05",
+      "path": "gistemp/1892-05.json",
+      "size_bytes": 89653
+    },
+    {
+      "period": "1892-06",
+      "path": "gistemp/1892-06.json",
+      "size_bytes": 89399
+    },
+    {
+      "period": "1892-07",
+      "path": "gistemp/1892-07.json",
+      "size_bytes": 90437
+    },
+    {
+      "period": "1892-08",
+      "path": "gistemp/1892-08.json",
+      "size_bytes": 90237
+    },
+    {
+      "period": "1892-09",
+      "path": "gistemp/1892-09.json",
+      "size_bytes": 89556
+    },
+    {
+      "period": "1892-10",
+      "path": "gistemp/1892-10.json",
+      "size_bytes": 89445
+    },
+    {
+      "period": "1892-11",
+      "path": "gistemp/1892-11.json",
+      "size_bytes": 90050
+    },
+    {
+      "period": "1892-12",
+      "path": "gistemp/1892-12.json",
+      "size_bytes": 90435
+    },
+    {
+      "period": "1893-01",
+      "path": "gistemp/1893-01.json",
+      "size_bytes": 90815
+    },
+    {
+      "period": "1893-02",
+      "path": "gistemp/1893-02.json",
+      "size_bytes": 90951
+    },
+    {
+      "period": "1893-03",
+      "path": "gistemp/1893-03.json",
+      "size_bytes": 90298
+    },
+    {
+      "period": "1893-04",
+      "path": "gistemp/1893-04.json",
+      "size_bytes": 90108
+    },
+    {
+      "period": "1893-05",
+      "path": "gistemp/1893-05.json",
+      "size_bytes": 90346
+    },
+    {
+      "period": "1893-06",
+      "path": "gistemp/1893-06.json",
+      "size_bytes": 89721
+    },
+    {
+      "period": "1893-07",
+      "path": "gistemp/1893-07.json",
+      "size_bytes": 89416
+    },
+    {
+      "period": "1893-08",
+      "path": "gistemp/1893-08.json",
+      "size_bytes": 89871
+    },
+    {
+      "period": "1893-09",
+      "path": "gistemp/1893-09.json",
+      "size_bytes": 89276
+    },
+    {
+      "period": "1893-10",
+      "path": "gistemp/1893-10.json",
+      "size_bytes": 89039
+    },
+    {
+      "period": "1893-11",
+      "path": "gistemp/1893-11.json",
+      "size_bytes": 89512
+    },
+    {
+      "period": "1893-12",
+      "path": "gistemp/1893-12.json",
+      "size_bytes": 89976
+    },
+    {
+      "period": "1894-01",
+      "path": "gistemp/1894-01.json",
+      "size_bytes": 91038
+    },
+    {
+      "period": "1894-02",
+      "path": "gistemp/1894-02.json",
+      "size_bytes": 90955
+    },
+    {
+      "period": "1894-03",
+      "path": "gistemp/1894-03.json",
+      "size_bytes": 90214
+    },
+    {
+      "period": "1894-04",
+      "path": "gistemp/1894-04.json",
+      "size_bytes": 90676
+    },
+    {
+      "period": "1894-05",
+      "path": "gistemp/1894-05.json",
+      "size_bytes": 90155
+    },
+    {
+      "period": "1894-06",
+      "path": "gistemp/1894-06.json",
+      "size_bytes": 90698
+    },
+    {
+      "period": "1894-07",
+      "path": "gistemp/1894-07.json",
+      "size_bytes": 89743
+    },
+    {
+      "period": "1894-08",
+      "path": "gistemp/1894-08.json",
+      "size_bytes": 90230
+    },
+    {
+      "period": "1894-09",
+      "path": "gistemp/1894-09.json",
+      "size_bytes": 89868
+    },
+    {
+      "period": "1894-10",
+      "path": "gistemp/1894-10.json",
+      "size_bytes": 89736
+    },
+    {
+      "period": "1894-11",
+      "path": "gistemp/1894-11.json",
+      "size_bytes": 89890
+    },
+    {
+      "period": "1894-12",
+      "path": "gistemp/1894-12.json",
+      "size_bytes": 89470
+    },
+    {
+      "period": "1895-01",
+      "path": "gistemp/1895-01.json",
+      "size_bytes": 90094
+    },
+    {
+      "period": "1895-02",
+      "path": "gistemp/1895-02.json",
+      "size_bytes": 90023
+    },
+    {
+      "period": "1895-03",
+      "path": "gistemp/1895-03.json",
+      "size_bytes": 90889
+    },
+    {
+      "period": "1895-04",
+      "path": "gistemp/1895-04.json",
+      "size_bytes": 90480
+    },
+    {
+      "period": "1895-05",
+      "path": "gistemp/1895-05.json",
+      "size_bytes": 90445
+    },
+    {
+      "period": "1895-06",
+      "path": "gistemp/1895-06.json",
+      "size_bytes": 89543
+    },
+    {
+      "period": "1895-07",
+      "path": "gistemp/1895-07.json",
+      "size_bytes": 89216
+    },
+    {
+      "period": "1895-08",
+      "path": "gistemp/1895-08.json",
+      "size_bytes": 89855
+    },
+    {
+      "period": "1895-09",
+      "path": "gistemp/1895-09.json",
+      "size_bytes": 89096
+    },
+    {
+      "period": "1895-10",
+      "path": "gistemp/1895-10.json",
+      "size_bytes": 89043
+    },
+    {
+      "period": "1895-11",
+      "path": "gistemp/1895-11.json",
+      "size_bytes": 89101
+    },
+    {
+      "period": "1895-12",
+      "path": "gistemp/1895-12.json",
+      "size_bytes": 88930
+    },
+    {
+      "period": "1896-01",
+      "path": "gistemp/1896-01.json",
+      "size_bytes": 89223
+    },
+    {
+      "period": "1896-02",
+      "path": "gistemp/1896-02.json",
+      "size_bytes": 88828
+    },
+    {
+      "period": "1896-03",
+      "path": "gistemp/1896-03.json",
+      "size_bytes": 89128
+    },
+    {
+      "period": "1896-04",
+      "path": "gistemp/1896-04.json",
+      "size_bytes": 89106
+    },
+    {
+      "period": "1896-05",
+      "path": "gistemp/1896-05.json",
+      "size_bytes": 88980
+    },
+    {
+      "period": "1896-06",
+      "path": "gistemp/1896-06.json",
+      "size_bytes": 88568
+    },
+    {
+      "period": "1896-07",
+      "path": "gistemp/1896-07.json",
+      "size_bytes": 88238
+    },
+    {
+      "period": "1896-08",
+      "path": "gistemp/1896-08.json",
+      "size_bytes": 88383
+    },
+    {
+      "period": "1896-09",
+      "path": "gistemp/1896-09.json",
+      "size_bytes": 88752
+    },
+    {
+      "period": "1896-10",
+      "path": "gistemp/1896-10.json",
+      "size_bytes": 88329
+    },
+    {
+      "period": "1896-11",
+      "path": "gistemp/1896-11.json",
+      "size_bytes": 88844
+    },
+    {
+      "period": "1896-12",
+      "path": "gistemp/1896-12.json",
+      "size_bytes": 88926
+    },
+    {
+      "period": "1897-01",
+      "path": "gistemp/1897-01.json",
+      "size_bytes": 89144
+    },
+    {
+      "period": "1897-02",
+      "path": "gistemp/1897-02.json",
+      "size_bytes": 89467
+    },
+    {
+      "period": "1897-03",
+      "path": "gistemp/1897-03.json",
+      "size_bytes": 89185
+    },
+    {
+      "period": "1897-04",
+      "path": "gistemp/1897-04.json",
+      "size_bytes": 88565
+    },
+    {
+      "period": "1897-05",
+      "path": "gistemp/1897-05.json",
+      "size_bytes": 88910
+    },
+    {
+      "period": "1897-06",
+      "path": "gistemp/1897-06.json",
+      "size_bytes": 88829
+    },
+    {
+      "period": "1897-07",
+      "path": "gistemp/1897-07.json",
+      "size_bytes": 87885
+    },
+    {
+      "period": "1897-08",
+      "path": "gistemp/1897-08.json",
+      "size_bytes": 88870
+    },
+    {
+      "period": "1897-09",
+      "path": "gistemp/1897-09.json",
+      "size_bytes": 88892
+    },
+    {
+      "period": "1897-10",
+      "path": "gistemp/1897-10.json",
+      "size_bytes": 89164
+    },
+    {
+      "period": "1897-11",
+      "path": "gistemp/1897-11.json",
+      "size_bytes": 89754
+    },
+    {
+      "period": "1897-12",
+      "path": "gistemp/1897-12.json",
+      "size_bytes": 89830
+    },
+    {
+      "period": "1898-01",
+      "path": "gistemp/1898-01.json",
+      "size_bytes": 88800
+    },
+    {
+      "period": "1898-02",
+      "path": "gistemp/1898-02.json",
+      "size_bytes": 90134
+    },
+    {
+      "period": "1898-03",
+      "path": "gistemp/1898-03.json",
+      "size_bytes": 90416
+    },
+    {
+      "period": "1898-04",
+      "path": "gistemp/1898-04.json",
+      "size_bytes": 90396
+    },
+    {
+      "period": "1898-05",
+      "path": "gistemp/1898-05.json",
+      "size_bytes": 90439
+    },
+    {
+      "period": "1898-06",
+      "path": "gistemp/1898-06.json",
+      "size_bytes": 89749
+    },
+    {
+      "period": "1898-07",
+      "path": "gistemp/1898-07.json",
+      "size_bytes": 90089
+    },
+    {
+      "period": "1898-08",
+      "path": "gistemp/1898-08.json",
+      "size_bytes": 90079
+    },
+    {
+      "period": "1898-09",
+      "path": "gistemp/1898-09.json",
+      "size_bytes": 90307
+    },
+    {
+      "period": "1898-10",
+      "path": "gistemp/1898-10.json",
+      "size_bytes": 90224
+    },
+    {
+      "period": "1898-11",
+      "path": "gistemp/1898-11.json",
+      "size_bytes": 90314
+    },
+    {
+      "period": "1898-12",
+      "path": "gistemp/1898-12.json",
+      "size_bytes": 89967
+    },
+    {
+      "period": "1899-01",
+      "path": "gistemp/1899-01.json",
+      "size_bytes": 89852
+    },
+    {
+      "period": "1899-02",
+      "path": "gistemp/1899-02.json",
+      "size_bytes": 90171
+    },
+    {
+      "period": "1899-03",
+      "path": "gistemp/1899-03.json",
+      "size_bytes": 90299
+    },
+    {
+      "period": "1899-04",
+      "path": "gistemp/1899-04.json",
+      "size_bytes": 89991
+    },
+    {
+      "period": "1899-05",
+      "path": "gistemp/1899-05.json",
+      "size_bytes": 89794
+    },
+    {
+      "period": "1899-06",
+      "path": "gistemp/1899-06.json",
+      "size_bytes": 90434
+    },
+    {
+      "period": "1899-07",
+      "path": "gistemp/1899-07.json",
+      "size_bytes": 89991
+    },
+    {
+      "period": "1899-08",
+      "path": "gistemp/1899-08.json",
+      "size_bytes": 89477
+    },
+    {
+      "period": "1899-09",
+      "path": "gistemp/1899-09.json",
+      "size_bytes": 89041
+    },
+    {
+      "period": "1899-10",
+      "path": "gistemp/1899-10.json",
+      "size_bytes": 89392
+    },
+    {
+      "period": "1899-11",
+      "path": "gistemp/1899-11.json",
+      "size_bytes": 88814
+    },
+    {
+      "period": "1899-12",
+      "path": "gistemp/1899-12.json",
+      "size_bytes": 89766
+    },
+    {
+      "period": "1900-01",
+      "path": "gistemp/1900-01.json",
+      "size_bytes": 90027
+    },
+    {
+      "period": "1900-02",
+      "path": "gistemp/1900-02.json",
+      "size_bytes": 89467
+    },
+    {
+      "period": "1900-03",
+      "path": "gistemp/1900-03.json",
+      "size_bytes": 88625
+    },
+    {
+      "period": "1900-04",
+      "path": "gistemp/1900-04.json",
+      "size_bytes": 89103
+    },
+    {
+      "period": "1900-05",
+      "path": "gistemp/1900-05.json",
+      "size_bytes": 89354
+    },
+    {
+      "period": "1900-06",
+      "path": "gistemp/1900-06.json",
+      "size_bytes": 89083
+    },
+    {
+      "period": "1900-07",
+      "path": "gistemp/1900-07.json",
+      "size_bytes": 89005
+    },
+    {
+      "period": "1900-08",
+      "path": "gistemp/1900-08.json",
+      "size_bytes": 88954
+    },
+    {
+      "period": "1900-09",
+      "path": "gistemp/1900-09.json",
+      "size_bytes": 88915
+    },
+    {
+      "period": "1900-10",
+      "path": "gistemp/1900-10.json",
+      "size_bytes": 88359
+    },
+    {
+      "period": "1900-11",
+      "path": "gistemp/1900-11.json",
+      "size_bytes": 88492
+    },
+    {
+      "period": "1900-12",
+      "path": "gistemp/1900-12.json",
+      "size_bytes": 88570
+    },
+    {
+      "period": "1901-01",
+      "path": "gistemp/1901-01.json",
+      "size_bytes": 89026
+    },
+    {
+      "period": "1901-02",
+      "path": "gistemp/1901-02.json",
+      "size_bytes": 89035
+    },
+    {
+      "period": "1901-03",
+      "path": "gistemp/1901-03.json",
+      "size_bytes": 88606
+    },
+    {
+      "period": "1901-04",
+      "path": "gistemp/1901-04.json",
+      "size_bytes": 88884
+    },
+    {
+      "period": "1901-05",
+      "path": "gistemp/1901-05.json",
+      "size_bytes": 89862
+    },
+    {
+      "period": "1901-06",
+      "path": "gistemp/1901-06.json",
+      "size_bytes": 89155
+    },
+    {
+      "period": "1901-07",
+      "path": "gistemp/1901-07.json",
+      "size_bytes": 89547
+    },
+    {
+      "period": "1901-08",
+      "path": "gistemp/1901-08.json",
+      "size_bytes": 89950
+    },
+    {
+      "period": "1901-09",
+      "path": "gistemp/1901-09.json",
+      "size_bytes": 89824
+    },
+    {
+      "period": "1901-10",
+      "path": "gistemp/1901-10.json",
+      "size_bytes": 90172
+    },
+    {
+      "period": "1901-11",
+      "path": "gistemp/1901-11.json",
+      "size_bytes": 89727
+    },
+    {
+      "period": "1901-12",
+      "path": "gistemp/1901-12.json",
+      "size_bytes": 89995
+    },
+    {
+      "period": "1902-01",
+      "path": "gistemp/1902-01.json",
+      "size_bytes": 89779
+    },
+    {
+      "period": "1902-02",
+      "path": "gistemp/1902-02.json",
+      "size_bytes": 89696
+    },
+    {
+      "period": "1902-03",
+      "path": "gistemp/1902-03.json",
+      "size_bytes": 90695
+    },
+    {
+      "period": "1902-04",
+      "path": "gistemp/1902-04.json",
+      "size_bytes": 90481
+    },
+    {
+      "period": "1902-05",
+      "path": "gistemp/1902-05.json",
+      "size_bytes": 90672
+    },
+    {
+      "period": "1902-06",
+      "path": "gistemp/1902-06.json",
+      "size_bytes": 90369
+    },
+    {
+      "period": "1902-07",
+      "path": "gistemp/1902-07.json",
+      "size_bytes": 90450
+    },
+    {
+      "period": "1902-08",
+      "path": "gistemp/1902-08.json",
+      "size_bytes": 90259
+    },
+    {
+      "period": "1902-09",
+      "path": "gistemp/1902-09.json",
+      "size_bytes": 90664
+    },
+    {
+      "period": "1902-10",
+      "path": "gistemp/1902-10.json",
+      "size_bytes": 90322
+    },
+    {
+      "period": "1902-11",
+      "path": "gistemp/1902-11.json",
+      "size_bytes": 90039
+    },
+    {
+      "period": "1902-12",
+      "path": "gistemp/1902-12.json",
+      "size_bytes": 90719
+    },
+    {
+      "period": "1903-01",
+      "path": "gistemp/1903-01.json",
+      "size_bytes": 90362
+    },
+    {
+      "period": "1903-02",
+      "path": "gistemp/1903-02.json",
+      "size_bytes": 90144
+    },
+    {
+      "period": "1903-03",
+      "path": "gistemp/1903-03.json",
+      "size_bytes": 90111
+    },
+    {
+      "period": "1903-04",
+      "path": "gistemp/1903-04.json",
+      "size_bytes": 91220
+    },
+    {
+      "period": "1903-05",
+      "path": "gistemp/1903-05.json",
+      "size_bytes": 91453
+    },
+    {
+      "period": "1903-06",
+      "path": "gistemp/1903-06.json",
+      "size_bytes": 91045
+    },
+    {
+      "period": "1903-07",
+      "path": "gistemp/1903-07.json",
+      "size_bytes": 90749
+    },
+    {
+      "period": "1903-08",
+      "path": "gistemp/1903-08.json",
+      "size_bytes": 91573
+    },
+    {
+      "period": "1903-09",
+      "path": "gistemp/1903-09.json",
+      "size_bytes": 91982
+    },
+    {
+      "period": "1903-10",
+      "path": "gistemp/1903-10.json",
+      "size_bytes": 91655
+    },
+    {
+      "period": "1903-11",
+      "path": "gistemp/1903-11.json",
+      "size_bytes": 91635
+    },
+    {
+      "period": "1903-12",
+      "path": "gistemp/1903-12.json",
+      "size_bytes": 91439
+    },
+    {
+      "period": "1904-01",
+      "path": "gistemp/1904-01.json",
+      "size_bytes": 91569
+    },
+    {
+      "period": "1904-02",
+      "path": "gistemp/1904-02.json",
+      "size_bytes": 92078
+    },
+    {
+      "period": "1904-03",
+      "path": "gistemp/1904-03.json",
+      "size_bytes": 92393
+    },
+    {
+      "period": "1904-04",
+      "path": "gistemp/1904-04.json",
+      "size_bytes": 91559
+    },
+    {
+      "period": "1904-05",
+      "path": "gistemp/1904-05.json",
+      "size_bytes": 92038
+    },
+    {
+      "period": "1904-06",
+      "path": "gistemp/1904-06.json",
+      "size_bytes": 91533
+    },
+    {
+      "period": "1904-07",
+      "path": "gistemp/1904-07.json",
+      "size_bytes": 92088
+    },
+    {
+      "period": "1904-08",
+      "path": "gistemp/1904-08.json",
+      "size_bytes": 91592
+    },
+    {
+      "period": "1904-09",
+      "path": "gistemp/1904-09.json",
+      "size_bytes": 91960
+    },
+    {
+      "period": "1904-10",
+      "path": "gistemp/1904-10.json",
+      "size_bytes": 90655
+    },
+    {
+      "period": "1904-11",
+      "path": "gistemp/1904-11.json",
+      "size_bytes": 90142
+    },
+    {
+      "period": "1904-12",
+      "path": "gistemp/1904-12.json",
+      "size_bytes": 90320
+    },
+    {
+      "period": "1905-01",
+      "path": "gistemp/1905-01.json",
+      "size_bytes": 90449
+    },
+    {
+      "period": "1905-02",
+      "path": "gistemp/1905-02.json",
+      "size_bytes": 91194
+    },
+    {
+      "period": "1905-03",
+      "path": "gistemp/1905-03.json",
+      "size_bytes": 89470
+    },
+    {
+      "period": "1905-04",
+      "path": "gistemp/1905-04.json",
+      "size_bytes": 90355
+    },
+    {
+      "period": "1905-05",
+      "path": "gistemp/1905-05.json",
+      "size_bytes": 90534
+    },
+    {
+      "period": "1905-06",
+      "path": "gistemp/1905-06.json",
+      "size_bytes": 90702
+    },
+    {
+      "period": "1905-07",
+      "path": "gistemp/1905-07.json",
+      "size_bytes": 90340
+    },
+    {
+      "period": "1905-08",
+      "path": "gistemp/1905-08.json",
+      "size_bytes": 90145
+    },
+    {
+      "period": "1905-09",
+      "path": "gistemp/1905-09.json",
+      "size_bytes": 89984
+    },
+    {
+      "period": "1905-10",
+      "path": "gistemp/1905-10.json",
+      "size_bytes": 90219
+    },
+    {
+      "period": "1905-11",
+      "path": "gistemp/1905-11.json",
+      "size_bytes": 89474
+    },
+    {
+      "period": "1905-12",
+      "path": "gistemp/1905-12.json",
+      "size_bytes": 89741
+    },
+    {
+      "period": "1906-01",
+      "path": "gistemp/1906-01.json",
+      "size_bytes": 90033
+    },
+    {
+      "period": "1906-02",
+      "path": "gistemp/1906-02.json",
+      "size_bytes": 90145
+    },
+    {
+      "period": "1906-03",
+      "path": "gistemp/1906-03.json",
+      "size_bytes": 90298
+    },
+    {
+      "period": "1906-04",
+      "path": "gistemp/1906-04.json",
+      "size_bytes": 89443
+    },
+    {
+      "period": "1906-05",
+      "path": "gistemp/1906-05.json",
+      "size_bytes": 90276
+    },
+    {
+      "period": "1906-06",
+      "path": "gistemp/1906-06.json",
+      "size_bytes": 89674
+    },
+    {
+      "period": "1906-07",
+      "path": "gistemp/1906-07.json",
+      "size_bytes": 90368
+    },
+    {
+      "period": "1906-08",
+      "path": "gistemp/1906-08.json",
+      "size_bytes": 89966
+    },
+    {
+      "period": "1906-09",
+      "path": "gistemp/1906-09.json",
+      "size_bytes": 90500
+    },
+    {
+      "period": "1906-10",
+      "path": "gistemp/1906-10.json",
+      "size_bytes": 90188
+    },
+    {
+      "period": "1906-11",
+      "path": "gistemp/1906-11.json",
+      "size_bytes": 90872
+    },
+    {
+      "period": "1906-12",
+      "path": "gistemp/1906-12.json",
+      "size_bytes": 90203
+    },
+    {
+      "period": "1907-01",
+      "path": "gistemp/1907-01.json",
+      "size_bytes": 91190
+    },
+    {
+      "period": "1907-02",
+      "path": "gistemp/1907-02.json",
+      "size_bytes": 91479
+    },
+    {
+      "period": "1907-03",
+      "path": "gistemp/1907-03.json",
+      "size_bytes": 90947
+    },
+    {
+      "period": "1907-04",
+      "path": "gistemp/1907-04.json",
+      "size_bytes": 90780
+    },
+    {
+      "period": "1907-05",
+      "path": "gistemp/1907-05.json",
+      "size_bytes": 91300
+    },
+    {
+      "period": "1907-06",
+      "path": "gistemp/1907-06.json",
+      "size_bytes": 91524
+    },
+    {
+      "period": "1907-07",
+      "path": "gistemp/1907-07.json",
+      "size_bytes": 91417
+    },
+    {
+      "period": "1907-08",
+      "path": "gistemp/1907-08.json",
+      "size_bytes": 91060
+    },
+    {
+      "period": "1907-09",
+      "path": "gistemp/1907-09.json",
+      "size_bytes": 91322
+    },
+    {
+      "period": "1907-10",
+      "path": "gistemp/1907-10.json",
+      "size_bytes": 90451
+    },
+    {
+      "period": "1907-11",
+      "path": "gistemp/1907-11.json",
+      "size_bytes": 91310
+    },
+    {
+      "period": "1907-12",
+      "path": "gistemp/1907-12.json",
+      "size_bytes": 91210
+    },
+    {
+      "period": "1908-01",
+      "path": "gistemp/1908-01.json",
+      "size_bytes": 91439
+    },
+    {
+      "period": "1908-02",
+      "path": "gistemp/1908-02.json",
+      "size_bytes": 90771
+    },
+    {
+      "period": "1908-03",
+      "path": "gistemp/1908-03.json",
+      "size_bytes": 91602
+    },
+    {
+      "period": "1908-04",
+      "path": "gistemp/1908-04.json",
+      "size_bytes": 91268
+    },
+    {
+      "period": "1908-05",
+      "path": "gistemp/1908-05.json",
+      "size_bytes": 91413
+    },
+    {
+      "period": "1908-06",
+      "path": "gistemp/1908-06.json",
+      "size_bytes": 91275
+    },
+    {
+      "period": "1908-07",
+      "path": "gistemp/1908-07.json",
+      "size_bytes": 91158
+    },
+    {
+      "period": "1908-08",
+      "path": "gistemp/1908-08.json",
+      "size_bytes": 92213
+    },
+    {
+      "period": "1908-09",
+      "path": "gistemp/1908-09.json",
+      "size_bytes": 91422
+    },
+    {
+      "period": "1908-10",
+      "path": "gistemp/1908-10.json",
+      "size_bytes": 91675
+    },
+    {
+      "period": "1908-11",
+      "path": "gistemp/1908-11.json",
+      "size_bytes": 92214
+    },
+    {
+      "period": "1908-12",
+      "path": "gistemp/1908-12.json",
+      "size_bytes": 91776
+    },
+    {
+      "period": "1909-01",
+      "path": "gistemp/1909-01.json",
+      "size_bytes": 92095
+    },
+    {
+      "period": "1909-02",
+      "path": "gistemp/1909-02.json",
+      "size_bytes": 91729
+    },
+    {
+      "period": "1909-03",
+      "path": "gistemp/1909-03.json",
+      "size_bytes": 92281
+    },
+    {
+      "period": "1909-04",
+      "path": "gistemp/1909-04.json",
+      "size_bytes": 92284
+    },
+    {
+      "period": "1909-05",
+      "path": "gistemp/1909-05.json",
+      "size_bytes": 92539
+    },
+    {
+      "period": "1909-06",
+      "path": "gistemp/1909-06.json",
+      "size_bytes": 92356
+    },
+    {
+      "period": "1909-07",
+      "path": "gistemp/1909-07.json",
+      "size_bytes": 91785
+    },
+    {
+      "period": "1909-08",
+      "path": "gistemp/1909-08.json",
+      "size_bytes": 91287
+    },
+    {
+      "period": "1909-09",
+      "path": "gistemp/1909-09.json",
+      "size_bytes": 91182
+    },
+    {
+      "period": "1909-10",
+      "path": "gistemp/1909-10.json",
+      "size_bytes": 91481
+    },
+    {
+      "period": "1909-11",
+      "path": "gistemp/1909-11.json",
+      "size_bytes": 91123
+    },
+    {
+      "period": "1909-12",
+      "path": "gistemp/1909-12.json",
+      "size_bytes": 91577
+    },
+    {
+      "period": "1910-01",
+      "path": "gistemp/1910-01.json",
+      "size_bytes": 91456
+    },
+    {
+      "period": "1910-02",
+      "path": "gistemp/1910-02.json",
+      "size_bytes": 91734
+    },
+    {
+      "period": "1910-03",
+      "path": "gistemp/1910-03.json",
+      "size_bytes": 92409
+    },
+    {
+      "period": "1910-04",
+      "path": "gistemp/1910-04.json",
+      "size_bytes": 91613
+    },
+    {
+      "period": "1910-05",
+      "path": "gistemp/1910-05.json",
+      "size_bytes": 91191
+    },
+    {
+      "period": "1910-06",
+      "path": "gistemp/1910-06.json",
+      "size_bytes": 91915
+    },
+    {
+      "period": "1910-07",
+      "path": "gistemp/1910-07.json",
+      "size_bytes": 91242
+    },
+    {
+      "period": "1910-08",
+      "path": "gistemp/1910-08.json",
+      "size_bytes": 91460
+    },
+    {
+      "period": "1910-09",
+      "path": "gistemp/1910-09.json",
+      "size_bytes": 91534
+    },
+    {
+      "period": "1910-10",
+      "path": "gistemp/1910-10.json",
+      "size_bytes": 91765
+    },
+    {
+      "period": "1910-11",
+      "path": "gistemp/1910-11.json",
+      "size_bytes": 92177
+    },
+    {
+      "period": "1910-12",
+      "path": "gistemp/1910-12.json",
+      "size_bytes": 92509
+    },
+    {
+      "period": "1911-01",
+      "path": "gistemp/1911-01.json",
+      "size_bytes": 92741
+    },
+    {
+      "period": "1911-02",
+      "path": "gistemp/1911-02.json",
+      "size_bytes": 92400
+    },
+    {
+      "period": "1911-03",
+      "path": "gistemp/1911-03.json",
+      "size_bytes": 92259
+    },
+    {
+      "period": "1911-04",
+      "path": "gistemp/1911-04.json",
+      "size_bytes": 92544
+    },
+    {
+      "period": "1911-05",
+      "path": "gistemp/1911-05.json",
+      "size_bytes": 92247
+    },
+    {
+      "period": "1911-06",
+      "path": "gistemp/1911-06.json",
+      "size_bytes": 91899
+    },
+    {
+      "period": "1911-07",
+      "path": "gistemp/1911-07.json",
+      "size_bytes": 91527
+    },
+    {
+      "period": "1911-08",
+      "path": "gistemp/1911-08.json",
+      "size_bytes": 91916
+    },
+    {
+      "period": "1911-09",
+      "path": "gistemp/1911-09.json",
+      "size_bytes": 91469
+    },
+    {
+      "period": "1911-10",
+      "path": "gistemp/1911-10.json",
+      "size_bytes": 90973
+    },
+    {
+      "period": "1911-11",
+      "path": "gistemp/1911-11.json",
+      "size_bytes": 90284
+    },
+    {
+      "period": "1911-12",
+      "path": "gistemp/1911-12.json",
+      "size_bytes": 90416
+    },
+    {
+      "period": "1912-01",
+      "path": "gistemp/1912-01.json",
+      "size_bytes": 90194
+    },
+    {
+      "period": "1912-02",
+      "path": "gistemp/1912-02.json",
+      "size_bytes": 89942
+    },
+    {
+      "period": "1912-03",
+      "path": "gistemp/1912-03.json",
+      "size_bytes": 90521
+    },
+    {
+      "period": "1912-04",
+      "path": "gistemp/1912-04.json",
+      "size_bytes": 89936
+    },
+    {
+      "period": "1912-05",
+      "path": "gistemp/1912-05.json",
+      "size_bytes": 89966
+    },
+    {
+      "period": "1912-06",
+      "path": "gistemp/1912-06.json",
+      "size_bytes": 90792
+    },
+    {
+      "period": "1912-07",
+      "path": "gistemp/1912-07.json",
+      "size_bytes": 92199
+    },
+    {
+      "period": "1912-08",
+      "path": "gistemp/1912-08.json",
+      "size_bytes": 92520
+    },
+    {
+      "period": "1912-09",
+      "path": "gistemp/1912-09.json",
+      "size_bytes": 91921
+    },
+    {
+      "period": "1912-10",
+      "path": "gistemp/1912-10.json",
+      "size_bytes": 92253
+    },
+    {
+      "period": "1912-11",
+      "path": "gistemp/1912-11.json",
+      "size_bytes": 91608
+    },
+    {
+      "period": "1912-12",
+      "path": "gistemp/1912-12.json",
+      "size_bytes": 91880
+    },
+    {
+      "period": "1913-01",
+      "path": "gistemp/1913-01.json",
+      "size_bytes": 91508
+    },
+    {
+      "period": "1913-02",
+      "path": "gistemp/1913-02.json",
+      "size_bytes": 91548
+    },
+    {
+      "period": "1913-03",
+      "path": "gistemp/1913-03.json",
+      "size_bytes": 91725
+    },
+    {
+      "period": "1913-04",
+      "path": "gistemp/1913-04.json",
+      "size_bytes": 91462
+    },
+    {
+      "period": "1913-05",
+      "path": "gistemp/1913-05.json",
+      "size_bytes": 91678
+    },
+    {
+      "period": "1913-06",
+      "path": "gistemp/1913-06.json",
+      "size_bytes": 91343
+    },
+    {
+      "period": "1913-07",
+      "path": "gistemp/1913-07.json",
+      "size_bytes": 91879
+    },
+    {
+      "period": "1913-08",
+      "path": "gistemp/1913-08.json",
+      "size_bytes": 91647
+    },
+    {
+      "period": "1913-09",
+      "path": "gistemp/1913-09.json",
+      "size_bytes": 91405
+    },
+    {
+      "period": "1913-10",
+      "path": "gistemp/1913-10.json",
+      "size_bytes": 91483
+    },
+    {
+      "period": "1913-11",
+      "path": "gistemp/1913-11.json",
+      "size_bytes": 90928
+    },
+    {
+      "period": "1913-12",
+      "path": "gistemp/1913-12.json",
+      "size_bytes": 90202
+    },
+    {
+      "period": "1914-01",
+      "path": "gistemp/1914-01.json",
+      "size_bytes": 90113
+    },
+    {
+      "period": "1914-02",
+      "path": "gistemp/1914-02.json",
+      "size_bytes": 90226
+    },
+    {
+      "period": "1914-03",
+      "path": "gistemp/1914-03.json",
+      "size_bytes": 90897
+    },
+    {
+      "period": "1914-04",
+      "path": "gistemp/1914-04.json",
+      "size_bytes": 91016
+    },
+    {
+      "period": "1914-05",
+      "path": "gistemp/1914-05.json",
+      "size_bytes": 90602
+    },
+    {
+      "period": "1914-06",
+      "path": "gistemp/1914-06.json",
+      "size_bytes": 90419
+    },
+    {
+      "period": "1914-07",
+      "path": "gistemp/1914-07.json",
+      "size_bytes": 90391
+    },
+    {
+      "period": "1914-08",
+      "path": "gistemp/1914-08.json",
+      "size_bytes": 90092
+    },
+    {
+      "period": "1914-09",
+      "path": "gistemp/1914-09.json",
+      "size_bytes": 90404
+    },
+    {
+      "period": "1914-10",
+      "path": "gistemp/1914-10.json",
+      "size_bytes": 89000
+    },
+    {
+      "period": "1914-11",
+      "path": "gistemp/1914-11.json",
+      "size_bytes": 89815
+    },
+    {
+      "period": "1914-12",
+      "path": "gistemp/1914-12.json",
+      "size_bytes": 89167
+    },
+    {
+      "period": "1915-01",
+      "path": "gistemp/1915-01.json",
+      "size_bytes": 89813
+    },
+    {
+      "period": "1915-02",
+      "path": "gistemp/1915-02.json",
+      "size_bytes": 89366
+    },
+    {
+      "period": "1915-03",
+      "path": "gistemp/1915-03.json",
+      "size_bytes": 89159
+    },
+    {
+      "period": "1915-04",
+      "path": "gistemp/1915-04.json",
+      "size_bytes": 88517
+    },
+    {
+      "period": "1915-05",
+      "path": "gistemp/1915-05.json",
+      "size_bytes": 88648
+    },
+    {
+      "period": "1915-06",
+      "path": "gistemp/1915-06.json",
+      "size_bytes": 89427
+    },
+    {
+      "period": "1915-07",
+      "path": "gistemp/1915-07.json",
+      "size_bytes": 89321
+    },
+    {
+      "period": "1915-08",
+      "path": "gistemp/1915-08.json",
+      "size_bytes": 89615
+    },
+    {
+      "period": "1915-09",
+      "path": "gistemp/1915-09.json",
+      "size_bytes": 90406
+    },
+    {
+      "period": "1915-10",
+      "path": "gistemp/1915-10.json",
+      "size_bytes": 89850
+    },
+    {
+      "period": "1915-11",
+      "path": "gistemp/1915-11.json",
+      "size_bytes": 89681
+    },
+    {
+      "period": "1915-12",
+      "path": "gistemp/1915-12.json",
+      "size_bytes": 89940
+    },
+    {
+      "period": "1916-01",
+      "path": "gistemp/1916-01.json",
+      "size_bytes": 89892
+    },
+    {
+      "period": "1916-02",
+      "path": "gistemp/1916-02.json",
+      "size_bytes": 90141
+    },
+    {
+      "period": "1916-03",
+      "path": "gistemp/1916-03.json",
+      "size_bytes": 90661
+    },
+    {
+      "period": "1916-04",
+      "path": "gistemp/1916-04.json",
+      "size_bytes": 90678
+    },
+    {
+      "period": "1916-05",
+      "path": "gistemp/1916-05.json",
+      "size_bytes": 91195
+    },
+    {
+      "period": "1916-06",
+      "path": "gistemp/1916-06.json",
+      "size_bytes": 91652
+    },
+    {
+      "period": "1916-07",
+      "path": "gistemp/1916-07.json",
+      "size_bytes": 90714
+    },
+    {
+      "period": "1916-08",
+      "path": "gistemp/1916-08.json",
+      "size_bytes": 90149
+    },
+    {
+      "period": "1916-09",
+      "path": "gistemp/1916-09.json",
+      "size_bytes": 90756
+    },
+    {
+      "period": "1916-10",
+      "path": "gistemp/1916-10.json",
+      "size_bytes": 90529
+    },
+    {
+      "period": "1916-11",
+      "path": "gistemp/1916-11.json",
+      "size_bytes": 90757
+    },
+    {
+      "period": "1916-12",
+      "path": "gistemp/1916-12.json",
+      "size_bytes": 91925
+    },
+    {
+      "period": "1917-01",
+      "path": "gistemp/1917-01.json",
+      "size_bytes": 91690
+    },
+    {
+      "period": "1917-02",
+      "path": "gistemp/1917-02.json",
+      "size_bytes": 91447
+    },
+    {
+      "period": "1917-03",
+      "path": "gistemp/1917-03.json",
+      "size_bytes": 91583
+    },
+    {
+      "period": "1917-04",
+      "path": "gistemp/1917-04.json",
+      "size_bytes": 91610
+    },
+    {
+      "period": "1917-05",
+      "path": "gistemp/1917-05.json",
+      "size_bytes": 91352
+    },
+    {
+      "period": "1917-06",
+      "path": "gistemp/1917-06.json",
+      "size_bytes": 91071
+    },
+    {
+      "period": "1917-07",
+      "path": "gistemp/1917-07.json",
+      "size_bytes": 89827
+    },
+    {
+      "period": "1917-08",
+      "path": "gistemp/1917-08.json",
+      "size_bytes": 89857
+    },
+    {
+      "period": "1917-09",
+      "path": "gistemp/1917-09.json",
+      "size_bytes": 90481
+    },
+    {
+      "period": "1917-10",
+      "path": "gistemp/1917-10.json",
+      "size_bytes": 91235
+    },
+    {
+      "period": "1917-11",
+      "path": "gistemp/1917-11.json",
+      "size_bytes": 90762
+    },
+    {
+      "period": "1917-12",
+      "path": "gistemp/1917-12.json",
+      "size_bytes": 91413
+    },
+    {
+      "period": "1918-01",
+      "path": "gistemp/1918-01.json",
+      "size_bytes": 91364
+    },
+    {
+      "period": "1918-02",
+      "path": "gistemp/1918-02.json",
+      "size_bytes": 91013
+    },
+    {
+      "period": "1918-03",
+      "path": "gistemp/1918-03.json",
+      "size_bytes": 91078
+    },
+    {
+      "period": "1918-04",
+      "path": "gistemp/1918-04.json",
+      "size_bytes": 91237
+    },
+    {
+      "period": "1918-05",
+      "path": "gistemp/1918-05.json",
+      "size_bytes": 91062
+    },
+    {
+      "period": "1918-06",
+      "path": "gistemp/1918-06.json",
+      "size_bytes": 91260
+    },
+    {
+      "period": "1918-07",
+      "path": "gistemp/1918-07.json",
+      "size_bytes": 91166
+    },
+    {
+      "period": "1918-08",
+      "path": "gistemp/1918-08.json",
+      "size_bytes": 91227
+    },
+    {
+      "period": "1918-09",
+      "path": "gistemp/1918-09.json",
+      "size_bytes": 89889
+    },
+    {
+      "period": "1918-10",
+      "path": "gistemp/1918-10.json",
+      "size_bytes": 90197
+    },
+    {
+      "period": "1918-11",
+      "path": "gistemp/1918-11.json",
+      "size_bytes": 89481
+    },
+    {
+      "period": "1918-12",
+      "path": "gistemp/1918-12.json",
+      "size_bytes": 89665
+    },
+    {
+      "period": "1919-01",
+      "path": "gistemp/1919-01.json",
+      "size_bytes": 89489
+    },
+    {
+      "period": "1919-02",
+      "path": "gistemp/1919-02.json",
+      "size_bytes": 90153
+    },
+    {
+      "period": "1919-03",
+      "path": "gistemp/1919-03.json",
+      "size_bytes": 90067
+    },
+    {
+      "period": "1919-04",
+      "path": "gistemp/1919-04.json",
+      "size_bytes": 89846
+    },
+    {
+      "period": "1919-05",
+      "path": "gistemp/1919-05.json",
+      "size_bytes": 90393
+    },
+    {
+      "period": "1919-06",
+      "path": "gistemp/1919-06.json",
+      "size_bytes": 91124
+    },
+    {
+      "period": "1919-07",
+      "path": "gistemp/1919-07.json",
+      "size_bytes": 91060
+    },
+    {
+      "period": "1919-08",
+      "path": "gistemp/1919-08.json",
+      "size_bytes": 90449
+    },
+    {
+      "period": "1919-09",
+      "path": "gistemp/1919-09.json",
+      "size_bytes": 90437
+    },
+    {
+      "period": "1919-10",
+      "path": "gistemp/1919-10.json",
+      "size_bytes": 90142
+    },
+    {
+      "period": "1919-11",
+      "path": "gistemp/1919-11.json",
+      "size_bytes": 91308
+    },
+    {
+      "period": "1919-12",
+      "path": "gistemp/1919-12.json",
+      "size_bytes": 91160
+    },
+    {
+      "period": "1920-01",
+      "path": "gistemp/1920-01.json",
+      "size_bytes": 90449
+    },
+    {
+      "period": "1920-02",
+      "path": "gistemp/1920-02.json",
+      "size_bytes": 90664
+    },
+    {
+      "period": "1920-03",
+      "path": "gistemp/1920-03.json",
+      "size_bytes": 90238
+    },
+    {
+      "period": "1920-04",
+      "path": "gistemp/1920-04.json",
+      "size_bytes": 90529
+    },
+    {
+      "period": "1920-05",
+      "path": "gistemp/1920-05.json",
+      "size_bytes": 90912
+    },
+    {
+      "period": "1920-06",
+      "path": "gistemp/1920-06.json",
+      "size_bytes": 90978
+    },
+    {
+      "period": "1920-07",
+      "path": "gistemp/1920-07.json",
+      "size_bytes": 90649
+    },
+    {
+      "period": "1920-08",
+      "path": "gistemp/1920-08.json",
+      "size_bytes": 90502
+    },
+    {
+      "period": "1920-09",
+      "path": "gistemp/1920-09.json",
+      "size_bytes": 90430
+    },
+    {
+      "period": "1920-10",
+      "path": "gistemp/1920-10.json",
+      "size_bytes": 90661
+    },
+    {
+      "period": "1920-11",
+      "path": "gistemp/1920-11.json",
+      "size_bytes": 89982
+    },
+    {
+      "period": "1920-12",
+      "path": "gistemp/1920-12.json",
+      "size_bytes": 91337
+    },
+    {
+      "period": "1921-01",
+      "path": "gistemp/1921-01.json",
+      "size_bytes": 90657
+    },
+    {
+      "period": "1921-02",
+      "path": "gistemp/1921-02.json",
+      "size_bytes": 90640
+    },
+    {
+      "period": "1921-03",
+      "path": "gistemp/1921-03.json",
+      "size_bytes": 90844
+    },
+    {
+      "period": "1921-04",
+      "path": "gistemp/1921-04.json",
+      "size_bytes": 91255
+    },
+    {
+      "period": "1921-05",
+      "path": "gistemp/1921-05.json",
+      "size_bytes": 91231
+    },
+    {
+      "period": "1921-06",
+      "path": "gistemp/1921-06.json",
+      "size_bytes": 90436
+    },
+    {
+      "period": "1921-07",
+      "path": "gistemp/1921-07.json",
+      "size_bytes": 90033
+    },
+    {
+      "period": "1921-08",
+      "path": "gistemp/1921-08.json",
+      "size_bytes": 90831
+    },
+    {
+      "period": "1921-09",
+      "path": "gistemp/1921-09.json",
+      "size_bytes": 90653
+    },
+    {
+      "period": "1921-10",
+      "path": "gistemp/1921-10.json",
+      "size_bytes": 89357
+    },
+    {
+      "period": "1921-11",
+      "path": "gistemp/1921-11.json",
+      "size_bytes": 90273
+    },
+    {
+      "period": "1921-12",
+      "path": "gistemp/1921-12.json",
+      "size_bytes": 90439
+    },
+    {
+      "period": "1922-01",
+      "path": "gistemp/1922-01.json",
+      "size_bytes": 90767
+    },
+    {
+      "period": "1922-02",
+      "path": "gistemp/1922-02.json",
+      "size_bytes": 91264
+    },
+    {
+      "period": "1922-03",
+      "path": "gistemp/1922-03.json",
+      "size_bytes": 90282
+    },
+    {
+      "period": "1922-04",
+      "path": "gistemp/1922-04.json",
+      "size_bytes": 90520
+    },
+    {
+      "period": "1922-05",
+      "path": "gistemp/1922-05.json",
+      "size_bytes": 91096
+    },
+    {
+      "period": "1922-06",
+      "path": "gistemp/1922-06.json",
+      "size_bytes": 91321
+    },
+    {
+      "period": "1922-07",
+      "path": "gistemp/1922-07.json",
+      "size_bytes": 91219
+    },
+    {
+      "period": "1922-08",
+      "path": "gistemp/1922-08.json",
+      "size_bytes": 91296
+    },
+    {
+      "period": "1922-09",
+      "path": "gistemp/1922-09.json",
+      "size_bytes": 91537
+    },
+    {
+      "period": "1922-10",
+      "path": "gistemp/1922-10.json",
+      "size_bytes": 91104
+    },
+    {
+      "period": "1922-11",
+      "path": "gistemp/1922-11.json",
+      "size_bytes": 89759
+    },
+    {
+      "period": "1922-12",
+      "path": "gistemp/1922-12.json",
+      "size_bytes": 90338
+    },
+    {
+      "period": "1923-01",
+      "path": "gistemp/1923-01.json",
+      "size_bytes": 91507
+    },
+    {
+      "period": "1923-02",
+      "path": "gistemp/1923-02.json",
+      "size_bytes": 91447
+    },
+    {
+      "period": "1923-03",
+      "path": "gistemp/1923-03.json",
+      "size_bytes": 91300
+    },
+    {
+      "period": "1923-04",
+      "path": "gistemp/1923-04.json",
+      "size_bytes": 91612
+    },
+    {
+      "period": "1923-05",
+      "path": "gistemp/1923-05.json",
+      "size_bytes": 91785
+    },
+    {
+      "period": "1923-06",
+      "path": "gistemp/1923-06.json",
+      "size_bytes": 90661
+    },
+    {
+      "period": "1923-07",
+      "path": "gistemp/1923-07.json",
+      "size_bytes": 91119
+    },
+    {
+      "period": "1923-08",
+      "path": "gistemp/1923-08.json",
+      "size_bytes": 91301
+    },
+    {
+      "period": "1923-09",
+      "path": "gistemp/1923-09.json",
+      "size_bytes": 90745
+    },
+    {
+      "period": "1923-10",
+      "path": "gistemp/1923-10.json",
+      "size_bytes": 90420
+    },
+    {
+      "period": "1923-11",
+      "path": "gistemp/1923-11.json",
+      "size_bytes": 89543
+    },
+    {
+      "period": "1923-12",
+      "path": "gistemp/1923-12.json",
+      "size_bytes": 89356
+    },
+    {
+      "period": "1924-01",
+      "path": "gistemp/1924-01.json",
+      "size_bytes": 89982
+    },
+    {
+      "period": "1924-02",
+      "path": "gistemp/1924-02.json",
+      "size_bytes": 90387
+    },
+    {
+      "period": "1924-03",
+      "path": "gistemp/1924-03.json",
+      "size_bytes": 89436
+    },
+    {
+      "period": "1924-04",
+      "path": "gistemp/1924-04.json",
+      "size_bytes": 90558
+    },
+    {
+      "period": "1924-05",
+      "path": "gistemp/1924-05.json",
+      "size_bytes": 89905
+    },
+    {
+      "period": "1924-06",
+      "path": "gistemp/1924-06.json",
+      "size_bytes": 90812
+    },
+    {
+      "period": "1924-07",
+      "path": "gistemp/1924-07.json",
+      "size_bytes": 91016
+    },
+    {
+      "period": "1924-08",
+      "path": "gistemp/1924-08.json",
+      "size_bytes": 91254
+    },
+    {
+      "period": "1924-09",
+      "path": "gistemp/1924-09.json",
+      "size_bytes": 90947
+    },
+    {
+      "period": "1924-10",
+      "path": "gistemp/1924-10.json",
+      "size_bytes": 91204
+    },
+    {
+      "period": "1924-11",
+      "path": "gistemp/1924-11.json",
+      "size_bytes": 90879
+    },
+    {
+      "period": "1924-12",
+      "path": "gistemp/1924-12.json",
+      "size_bytes": 91504
+    },
+    {
+      "period": "1925-01",
+      "path": "gistemp/1925-01.json",
+      "size_bytes": 91433
+    },
+    {
+      "period": "1925-02",
+      "path": "gistemp/1925-02.json",
+      "size_bytes": 91569
+    },
+    {
+      "period": "1925-03",
+      "path": "gistemp/1925-03.json",
+      "size_bytes": 91268
+    },
+    {
+      "period": "1925-04",
+      "path": "gistemp/1925-04.json",
+      "size_bytes": 90747
+    },
+    {
+      "period": "1925-05",
+      "path": "gistemp/1925-05.json",
+      "size_bytes": 91300
+    },
+    {
+      "period": "1925-06",
+      "path": "gistemp/1925-06.json",
+      "size_bytes": 90985
+    },
+    {
+      "period": "1925-07",
+      "path": "gistemp/1925-07.json",
+      "size_bytes": 90984
+    },
+    {
+      "period": "1925-08",
+      "path": "gistemp/1925-08.json",
+      "size_bytes": 90424
+    },
+    {
+      "period": "1925-09",
+      "path": "gistemp/1925-09.json",
+      "size_bytes": 89914
+    },
+    {
+      "period": "1925-10",
+      "path": "gistemp/1925-10.json",
+      "size_bytes": 89448
+    },
+    {
+      "period": "1925-11",
+      "path": "gistemp/1925-11.json",
+      "size_bytes": 88890
+    },
+    {
+      "period": "1925-12",
+      "path": "gistemp/1925-12.json",
+      "size_bytes": 88750
+    },
+    {
+      "period": "1926-01",
+      "path": "gistemp/1926-01.json",
+      "size_bytes": 88487
+    },
+    {
+      "period": "1926-02",
+      "path": "gistemp/1926-02.json",
+      "size_bytes": 89392
+    },
+    {
+      "period": "1926-03",
+      "path": "gistemp/1926-03.json",
+      "size_bytes": 89267
+    },
+    {
+      "period": "1926-04",
+      "path": "gistemp/1926-04.json",
+      "size_bytes": 89235
+    },
+    {
+      "period": "1926-05",
+      "path": "gistemp/1926-05.json",
+      "size_bytes": 89833
+    },
+    {
+      "period": "1926-06",
+      "path": "gistemp/1926-06.json",
+      "size_bytes": 89957
+    },
+    {
+      "period": "1926-07",
+      "path": "gistemp/1926-07.json",
+      "size_bytes": 90068
+    },
+    {
+      "period": "1926-08",
+      "path": "gistemp/1926-08.json",
+      "size_bytes": 89204
+    },
+    {
+      "period": "1926-09",
+      "path": "gistemp/1926-09.json",
+      "size_bytes": 89778
+    },
+    {
+      "period": "1926-10",
+      "path": "gistemp/1926-10.json",
+      "size_bytes": 89375
+    },
+    {
+      "period": "1926-11",
+      "path": "gistemp/1926-11.json",
+      "size_bytes": 89381
+    },
+    {
+      "period": "1926-12",
+      "path": "gistemp/1926-12.json",
+      "size_bytes": 90797
+    },
+    {
+      "period": "1927-01",
+      "path": "gistemp/1927-01.json",
+      "size_bytes": 91025
+    },
+    {
+      "period": "1927-02",
+      "path": "gistemp/1927-02.json",
+      "size_bytes": 90626
+    },
+    {
+      "period": "1927-03",
+      "path": "gistemp/1927-03.json",
+      "size_bytes": 91548
+    },
+    {
+      "period": "1927-04",
+      "path": "gistemp/1927-04.json",
+      "size_bytes": 91269
+    },
+    {
+      "period": "1927-05",
+      "path": "gistemp/1927-05.json",
+      "size_bytes": 91259
+    },
+    {
+      "period": "1927-06",
+      "path": "gistemp/1927-06.json",
+      "size_bytes": 90770
+    },
+    {
+      "period": "1927-07",
+      "path": "gistemp/1927-07.json",
+      "size_bytes": 90836
+    },
+    {
+      "period": "1927-08",
+      "path": "gistemp/1927-08.json",
+      "size_bytes": 90155
+    },
+    {
+      "period": "1927-09",
+      "path": "gistemp/1927-09.json",
+      "size_bytes": 89914
+    },
+    {
+      "period": "1927-10",
+      "path": "gistemp/1927-10.json",
+      "size_bytes": 89379
+    },
+    {
+      "period": "1927-11",
+      "path": "gistemp/1927-11.json",
+      "size_bytes": 89195
+    },
+    {
+      "period": "1927-12",
+      "path": "gistemp/1927-12.json",
+      "size_bytes": 90019
+    },
+    {
+      "period": "1928-01",
+      "path": "gistemp/1928-01.json",
+      "size_bytes": 89275
+    },
+    {
+      "period": "1928-02",
+      "path": "gistemp/1928-02.json",
+      "size_bytes": 89832
+    },
+    {
+      "period": "1928-03",
+      "path": "gistemp/1928-03.json",
+      "size_bytes": 90268
+    },
+    {
+      "period": "1928-04",
+      "path": "gistemp/1928-04.json",
+      "size_bytes": 90818
+    },
+    {
+      "period": "1928-05",
+      "path": "gistemp/1928-05.json",
+      "size_bytes": 91392
+    },
+    {
+      "period": "1928-06",
+      "path": "gistemp/1928-06.json",
+      "size_bytes": 91430
+    },
+    {
+      "period": "1928-07",
+      "path": "gistemp/1928-07.json",
+      "size_bytes": 90676
+    },
+    {
+      "period": "1928-08",
+      "path": "gistemp/1928-08.json",
+      "size_bytes": 90957
+    },
+    {
+      "period": "1928-09",
+      "path": "gistemp/1928-09.json",
+      "size_bytes": 90722
+    },
+    {
+      "period": "1928-10",
+      "path": "gistemp/1928-10.json",
+      "size_bytes": 90593
+    },
+    {
+      "period": "1928-11",
+      "path": "gistemp/1928-11.json",
+      "size_bytes": 90488
+    },
+    {
+      "period": "1928-12",
+      "path": "gistemp/1928-12.json",
+      "size_bytes": 90707
+    },
+    {
+      "period": "1929-01",
+      "path": "gistemp/1929-01.json",
+      "size_bytes": 91818
+    },
+    {
+      "period": "1929-02",
+      "path": "gistemp/1929-02.json",
+      "size_bytes": 91363
+    },
+    {
+      "period": "1929-03",
+      "path": "gistemp/1929-03.json",
+      "size_bytes": 91656
+    },
+    {
+      "period": "1929-04",
+      "path": "gistemp/1929-04.json",
+      "size_bytes": 91872
+    },
+    {
+      "period": "1929-05",
+      "path": "gistemp/1929-05.json",
+      "size_bytes": 91861
+    },
+    {
+      "period": "1929-06",
+      "path": "gistemp/1929-06.json",
+      "size_bytes": 92211
+    },
+    {
+      "period": "1929-07",
+      "path": "gistemp/1929-07.json",
+      "size_bytes": 91809
+    },
+    {
+      "period": "1929-08",
+      "path": "gistemp/1929-08.json",
+      "size_bytes": 91710
+    },
+    {
+      "period": "1929-09",
+      "path": "gistemp/1929-09.json",
+      "size_bytes": 90849
+    },
+    {
+      "period": "1929-10",
+      "path": "gistemp/1929-10.json",
+      "size_bytes": 90440
+    },
+    {
+      "period": "1929-11",
+      "path": "gistemp/1929-11.json",
+      "size_bytes": 89988
+    },
+    {
+      "period": "1929-12",
+      "path": "gistemp/1929-12.json",
+      "size_bytes": 91047
+    },
+    {
+      "period": "1930-01",
+      "path": "gistemp/1930-01.json",
+      "size_bytes": 90951
+    },
+    {
+      "period": "1930-02",
+      "path": "gistemp/1930-02.json",
+      "size_bytes": 91390
+    },
+    {
+      "period": "1930-03",
+      "path": "gistemp/1930-03.json",
+      "size_bytes": 90543
+    },
+    {
+      "period": "1930-04",
+      "path": "gistemp/1930-04.json",
+      "size_bytes": 90759
+    },
+    {
+      "period": "1930-05",
+      "path": "gistemp/1930-05.json",
+      "size_bytes": 90667
+    },
+    {
+      "period": "1930-06",
+      "path": "gistemp/1930-06.json",
+      "size_bytes": 90279
+    },
+    {
+      "period": "1930-07",
+      "path": "gistemp/1930-07.json",
+      "size_bytes": 90330
+    },
+    {
+      "period": "1930-08",
+      "path": "gistemp/1930-08.json",
+      "size_bytes": 89826
+    },
+    {
+      "period": "1930-09",
+      "path": "gistemp/1930-09.json",
+      "size_bytes": 89558
+    },
+    {
+      "period": "1930-10",
+      "path": "gistemp/1930-10.json",
+      "size_bytes": 89982
+    },
+    {
+      "period": "1930-11",
+      "path": "gistemp/1930-11.json",
+      "size_bytes": 88152
+    },
+    {
+      "period": "1930-12",
+      "path": "gistemp/1930-12.json",
+      "size_bytes": 88700
+    },
+    {
+      "period": "1931-01",
+      "path": "gistemp/1931-01.json",
+      "size_bytes": 89520
+    },
+    {
+      "period": "1931-02",
+      "path": "gistemp/1931-02.json",
+      "size_bytes": 89574
+    },
+    {
+      "period": "1931-03",
+      "path": "gistemp/1931-03.json",
+      "size_bytes": 90026
+    },
+    {
+      "period": "1931-04",
+      "path": "gistemp/1931-04.json",
+      "size_bytes": 90573
+    },
+    {
+      "period": "1931-05",
+      "path": "gistemp/1931-05.json",
+      "size_bytes": 89417
+    },
+    {
+      "period": "1931-06",
+      "path": "gistemp/1931-06.json",
+      "size_bytes": 88920
+    },
+    {
+      "period": "1931-07",
+      "path": "gistemp/1931-07.json",
+      "size_bytes": 88683
+    },
+    {
+      "period": "1931-08",
+      "path": "gistemp/1931-08.json",
+      "size_bytes": 88815
+    },
+    {
+      "period": "1931-09",
+      "path": "gistemp/1931-09.json",
+      "size_bytes": 88241
+    },
+    {
+      "period": "1931-10",
+      "path": "gistemp/1931-10.json",
+      "size_bytes": 88970
+    },
+    {
+      "period": "1931-11",
+      "path": "gistemp/1931-11.json",
+      "size_bytes": 89669
+    },
+    {
+      "period": "1931-12",
+      "path": "gistemp/1931-12.json",
+      "size_bytes": 89057
+    },
+    {
+      "period": "1932-01",
+      "path": "gistemp/1932-01.json",
+      "size_bytes": 89592
+    },
+    {
+      "period": "1932-02",
+      "path": "gistemp/1932-02.json",
+      "size_bytes": 90264
+    },
+    {
+      "period": "1932-03",
+      "path": "gistemp/1932-03.json",
+      "size_bytes": 90258
+    },
+    {
+      "period": "1932-04",
+      "path": "gistemp/1932-04.json",
+      "size_bytes": 89944
+    },
+    {
+      "period": "1932-05",
+      "path": "gistemp/1932-05.json",
+      "size_bytes": 90168
+    },
+    {
+      "period": "1932-06",
+      "path": "gistemp/1932-06.json",
+      "size_bytes": 91036
+    },
+    {
+      "period": "1932-07",
+      "path": "gistemp/1932-07.json",
+      "size_bytes": 90509
+    },
+    {
+      "period": "1932-08",
+      "path": "gistemp/1932-08.json",
+      "size_bytes": 89209
+    },
+    {
+      "period": "1932-09",
+      "path": "gistemp/1932-09.json",
+      "size_bytes": 88830
+    },
+    {
+      "period": "1932-10",
+      "path": "gistemp/1932-10.json",
+      "size_bytes": 89621
+    },
+    {
+      "period": "1932-11",
+      "path": "gistemp/1932-11.json",
+      "size_bytes": 91090
+    },
+    {
+      "period": "1932-12",
+      "path": "gistemp/1932-12.json",
+      "size_bytes": 90623
+    },
+    {
+      "period": "1933-01",
+      "path": "gistemp/1933-01.json",
+      "size_bytes": 91852
+    },
+    {
+      "period": "1933-02",
+      "path": "gistemp/1933-02.json",
+      "size_bytes": 91116
+    },
+    {
+      "period": "1933-03",
+      "path": "gistemp/1933-03.json",
+      "size_bytes": 90876
+    },
+    {
+      "period": "1933-04",
+      "path": "gistemp/1933-04.json",
+      "size_bytes": 90710
+    },
+    {
+      "period": "1933-05",
+      "path": "gistemp/1933-05.json",
+      "size_bytes": 91177
+    },
+    {
+      "period": "1933-06",
+      "path": "gistemp/1933-06.json",
+      "size_bytes": 92359
+    },
+    {
+      "period": "1933-07",
+      "path": "gistemp/1933-07.json",
+      "size_bytes": 91195
+    },
+    {
+      "period": "1933-08",
+      "path": "gistemp/1933-08.json",
+      "size_bytes": 91362
+    },
+    {
+      "period": "1933-09",
+      "path": "gistemp/1933-09.json",
+      "size_bytes": 90525
+    },
+    {
+      "period": "1933-10",
+      "path": "gistemp/1933-10.json",
+      "size_bytes": 91221
+    },
+    {
+      "period": "1933-11",
+      "path": "gistemp/1933-11.json",
+      "size_bytes": 91426
+    },
+    {
+      "period": "1933-12",
+      "path": "gistemp/1933-12.json",
+      "size_bytes": 90733
+    },
+    {
+      "period": "1934-01",
+      "path": "gistemp/1934-01.json",
+      "size_bytes": 90556
+    },
+    {
+      "period": "1934-02",
+      "path": "gistemp/1934-02.json",
+      "size_bytes": 90677
+    },
+    {
+      "period": "1934-03",
+      "path": "gistemp/1934-03.json",
+      "size_bytes": 91282
+    },
+    {
+      "period": "1934-04",
+      "path": "gistemp/1934-04.json",
+      "size_bytes": 91647
+    },
+    {
+      "period": "1934-05",
+      "path": "gistemp/1934-05.json",
+      "size_bytes": 89894
+    },
+    {
+      "period": "1934-06",
+      "path": "gistemp/1934-06.json",
+      "size_bytes": 90206
+    },
+    {
+      "period": "1934-07",
+      "path": "gistemp/1934-07.json",
+      "size_bytes": 90676
+    },
+    {
+      "period": "1934-08",
+      "path": "gistemp/1934-08.json",
+      "size_bytes": 89613
+    },
+    {
+      "period": "1934-09",
+      "path": "gistemp/1934-09.json",
+      "size_bytes": 89644
+    },
+    {
+      "period": "1934-10",
+      "path": "gistemp/1934-10.json",
+      "size_bytes": 89070
+    },
+    {
+      "period": "1934-11",
+      "path": "gistemp/1934-11.json",
+      "size_bytes": 88740
+    },
+    {
+      "period": "1934-12",
+      "path": "gistemp/1934-12.json",
+      "size_bytes": 89788
+    },
+    {
+      "period": "1935-01",
+      "path": "gistemp/1935-01.json",
+      "size_bytes": 91266
+    },
+    {
+      "period": "1935-02",
+      "path": "gistemp/1935-02.json",
+      "size_bytes": 89992
+    },
+    {
+      "period": "1935-03",
+      "path": "gistemp/1935-03.json",
+      "size_bytes": 90979
+    },
+    {
+      "period": "1935-04",
+      "path": "gistemp/1935-04.json",
+      "size_bytes": 91864
+    },
+    {
+      "period": "1935-05",
+      "path": "gistemp/1935-05.json",
+      "size_bytes": 91048
+    },
+    {
+      "period": "1935-06",
+      "path": "gistemp/1935-06.json",
+      "size_bytes": 90859
+    },
+    {
+      "period": "1935-07",
+      "path": "gistemp/1935-07.json",
+      "size_bytes": 90750
+    },
+    {
+      "period": "1935-08",
+      "path": "gistemp/1935-08.json",
+      "size_bytes": 90219
+    },
+    {
+      "period": "1935-09",
+      "path": "gistemp/1935-09.json",
+      "size_bytes": 89869
+    },
+    {
+      "period": "1935-10",
+      "path": "gistemp/1935-10.json",
+      "size_bytes": 89221
+    },
+    {
+      "period": "1935-11",
+      "path": "gistemp/1935-11.json",
+      "size_bytes": 89976
+    },
+    {
+      "period": "1935-12",
+      "path": "gistemp/1935-12.json",
+      "size_bytes": 89264
+    },
+    {
+      "period": "1936-01",
+      "path": "gistemp/1936-01.json",
+      "size_bytes": 90672
+    },
+    {
+      "period": "1936-02",
+      "path": "gistemp/1936-02.json",
+      "size_bytes": 90421
+    },
+    {
+      "period": "1936-03",
+      "path": "gistemp/1936-03.json",
+      "size_bytes": 90554
+    },
+    {
+      "period": "1936-04",
+      "path": "gistemp/1936-04.json",
+      "size_bytes": 89411
+    },
+    {
+      "period": "1936-05",
+      "path": "gistemp/1936-05.json",
+      "size_bytes": 90257
+    },
+    {
+      "period": "1936-06",
+      "path": "gistemp/1936-06.json",
+      "size_bytes": 90039
+    },
+    {
+      "period": "1936-07",
+      "path": "gistemp/1936-07.json",
+      "size_bytes": 90646
+    },
+    {
+      "period": "1936-08",
+      "path": "gistemp/1936-08.json",
+      "size_bytes": 90260
+    },
+    {
+      "period": "1936-09",
+      "path": "gistemp/1936-09.json",
+      "size_bytes": 89612
+    },
+    {
+      "period": "1936-10",
+      "path": "gistemp/1936-10.json",
+      "size_bytes": 89325
+    },
+    {
+      "period": "1936-11",
+      "path": "gistemp/1936-11.json",
+      "size_bytes": 89152
+    },
+    {
+      "period": "1936-12",
+      "path": "gistemp/1936-12.json",
+      "size_bytes": 89780
+    },
+    {
+      "period": "1937-01",
+      "path": "gistemp/1937-01.json",
+      "size_bytes": 91081
+    },
+    {
+      "period": "1937-02",
+      "path": "gistemp/1937-02.json",
+      "size_bytes": 89652
+    },
+    {
+      "period": "1937-03",
+      "path": "gistemp/1937-03.json",
+      "size_bytes": 91149
+    },
+    {
+      "period": "1937-04",
+      "path": "gistemp/1937-04.json",
+      "size_bytes": 90009
+    },
+    {
+      "period": "1937-05",
+      "path": "gistemp/1937-05.json",
+      "size_bytes": 88804
+    },
+    {
+      "period": "1937-06",
+      "path": "gistemp/1937-06.json",
+      "size_bytes": 88721
+    },
+    {
+      "period": "1937-07",
+      "path": "gistemp/1937-07.json",
+      "size_bytes": 89311
+    },
+    {
+      "period": "1937-08",
+      "path": "gistemp/1937-08.json",
+      "size_bytes": 89422
+    },
+    {
+      "period": "1937-09",
+      "path": "gistemp/1937-09.json",
+      "size_bytes": 88545
+    },
+    {
+      "period": "1937-10",
+      "path": "gistemp/1937-10.json",
+      "size_bytes": 88951
+    },
+    {
+      "period": "1937-11",
+      "path": "gistemp/1937-11.json",
+      "size_bytes": 88329
+    },
+    {
+      "period": "1937-12",
+      "path": "gistemp/1937-12.json",
+      "size_bytes": 89514
+    },
+    {
+      "period": "1938-01",
+      "path": "gistemp/1938-01.json",
+      "size_bytes": 88867
+    },
+    {
+      "period": "1938-02",
+      "path": "gistemp/1938-02.json",
+      "size_bytes": 89027
+    },
+    {
+      "period": "1938-03",
+      "path": "gistemp/1938-03.json",
+      "size_bytes": 89130
+    },
+    {
+      "period": "1938-04",
+      "path": "gistemp/1938-04.json",
+      "size_bytes": 88603
+    },
+    {
+      "period": "1938-05",
+      "path": "gistemp/1938-05.json",
+      "size_bytes": 89385
+    },
+    {
+      "period": "1938-06",
+      "path": "gistemp/1938-06.json",
+      "size_bytes": 89563
+    },
+    {
+      "period": "1938-07",
+      "path": "gistemp/1938-07.json",
+      "size_bytes": 89832
+    },
+    {
+      "period": "1938-08",
+      "path": "gistemp/1938-08.json",
+      "size_bytes": 89660
+    },
+    {
+      "period": "1938-09",
+      "path": "gistemp/1938-09.json",
+      "size_bytes": 89196
+    },
+    {
+      "period": "1938-10",
+      "path": "gistemp/1938-10.json",
+      "size_bytes": 88303
+    },
+    {
+      "period": "1938-11",
+      "path": "gistemp/1938-11.json",
+      "size_bytes": 89649
+    },
+    {
+      "period": "1938-12",
+      "path": "gistemp/1938-12.json",
+      "size_bytes": 89560
+    },
+    {
+      "period": "1939-01",
+      "path": "gistemp/1939-01.json",
+      "size_bytes": 89702
+    },
+    {
+      "period": "1939-02",
+      "path": "gistemp/1939-02.json",
+      "size_bytes": 89548
+    },
+    {
+      "period": "1939-03",
+      "path": "gistemp/1939-03.json",
+      "size_bytes": 89987
+    },
+    {
+      "period": "1939-04",
+      "path": "gistemp/1939-04.json",
+      "size_bytes": 89479
+    },
+    {
+      "period": "1939-05",
+      "path": "gistemp/1939-05.json",
+      "size_bytes": 90152
+    },
+    {
+      "period": "1939-06",
+      "path": "gistemp/1939-06.json",
+      "size_bytes": 89969
+    },
+    {
+      "period": "1939-07",
+      "path": "gistemp/1939-07.json",
+      "size_bytes": 89346
+    },
+    {
+      "period": "1939-08",
+      "path": "gistemp/1939-08.json",
+      "size_bytes": 88341
+    },
+    {
+      "period": "1939-09",
+      "path": "gistemp/1939-09.json",
+      "size_bytes": 89720
+    },
+    {
+      "period": "1939-10",
+      "path": "gistemp/1939-10.json",
+      "size_bytes": 88618
+    },
+    {
+      "period": "1939-11",
+      "path": "gistemp/1939-11.json",
+      "size_bytes": 88412
+    },
+    {
+      "period": "1939-12",
+      "path": "gistemp/1939-12.json",
+      "size_bytes": 87944
+    },
+    {
+      "period": "1940-01",
+      "path": "gistemp/1940-01.json",
+      "size_bytes": 88331
+    },
+    {
+      "period": "1940-02",
+      "path": "gistemp/1940-02.json",
+      "size_bytes": 88706
+    },
+    {
+      "period": "1940-03",
+      "path": "gistemp/1940-03.json",
+      "size_bytes": 88680
+    },
+    {
+      "period": "1940-04",
+      "path": "gistemp/1940-04.json",
+      "size_bytes": 87358
+    },
+    {
+      "period": "1940-05",
+      "path": "gistemp/1940-05.json",
+      "size_bytes": 88188
+    },
+    {
+      "period": "1940-06",
+      "path": "gistemp/1940-06.json",
+      "size_bytes": 87288
+    },
+    {
+      "period": "1940-07",
+      "path": "gistemp/1940-07.json",
+      "size_bytes": 87158
+    },
+    {
+      "period": "1940-08",
+      "path": "gistemp/1940-08.json",
+      "size_bytes": 88066
+    },
+    {
+      "period": "1940-09",
+      "path": "gistemp/1940-09.json",
+      "size_bytes": 87379
+    },
+    {
+      "period": "1940-10",
+      "path": "gistemp/1940-10.json",
+      "size_bytes": 87591
+    },
+    {
+      "period": "1940-11",
+      "path": "gistemp/1940-11.json",
+      "size_bytes": 87695
+    },
+    {
+      "period": "1940-12",
+      "path": "gistemp/1940-12.json",
+      "size_bytes": 87172
+    },
+    {
+      "period": "1941-01",
+      "path": "gistemp/1941-01.json",
+      "size_bytes": 88283
+    },
+    {
+      "period": "1941-02",
+      "path": "gistemp/1941-02.json",
+      "size_bytes": 87604
+    },
+    {
+      "period": "1941-03",
+      "path": "gistemp/1941-03.json",
+      "size_bytes": 87884
+    },
+    {
+      "period": "1941-04",
+      "path": "gistemp/1941-04.json",
+      "size_bytes": 88399
+    },
+    {
+      "period": "1941-05",
+      "path": "gistemp/1941-05.json",
+      "size_bytes": 87551
+    },
+    {
+      "period": "1941-06",
+      "path": "gistemp/1941-06.json",
+      "size_bytes": 87578
+    },
+    {
+      "period": "1941-07",
+      "path": "gistemp/1941-07.json",
+      "size_bytes": 86430
+    },
+    {
+      "period": "1941-08",
+      "path": "gistemp/1941-08.json",
+      "size_bytes": 86952
+    },
+    {
+      "period": "1941-09",
+      "path": "gistemp/1941-09.json",
+      "size_bytes": 88468
+    },
+    {
+      "period": "1941-10",
+      "path": "gistemp/1941-10.json",
+      "size_bytes": 86378
+    },
+    {
+      "period": "1941-11",
+      "path": "gistemp/1941-11.json",
+      "size_bytes": 87556
+    },
+    {
+      "period": "1941-12",
+      "path": "gistemp/1941-12.json",
+      "size_bytes": 86872
+    },
+    {
+      "period": "1942-01",
+      "path": "gistemp/1942-01.json",
+      "size_bytes": 87747
+    },
+    {
+      "period": "1942-02",
+      "path": "gistemp/1942-02.json",
+      "size_bytes": 87880
+    },
+    {
+      "period": "1942-03",
+      "path": "gistemp/1942-03.json",
+      "size_bytes": 88555
+    },
+    {
+      "period": "1942-04",
+      "path": "gistemp/1942-04.json",
+      "size_bytes": 87553
+    },
+    {
+      "period": "1942-05",
+      "path": "gistemp/1942-05.json",
+      "size_bytes": 87630
+    },
+    {
+      "period": "1942-06",
+      "path": "gistemp/1942-06.json",
+      "size_bytes": 87569
+    },
+    {
+      "period": "1942-07",
+      "path": "gistemp/1942-07.json",
+      "size_bytes": 87620
+    },
+    {
+      "period": "1942-08",
+      "path": "gistemp/1942-08.json",
+      "size_bytes": 88892
+    },
+    {
+      "period": "1942-09",
+      "path": "gistemp/1942-09.json",
+      "size_bytes": 87239
+    },
+    {
+      "period": "1942-10",
+      "path": "gistemp/1942-10.json",
+      "size_bytes": 87932
+    },
+    {
+      "period": "1942-11",
+      "path": "gistemp/1942-11.json",
+      "size_bytes": 87739
+    },
+    {
+      "period": "1942-12",
+      "path": "gistemp/1942-12.json",
+      "size_bytes": 88013
+    },
+    {
+      "period": "1943-01",
+      "path": "gistemp/1943-01.json",
+      "size_bytes": 88193
+    },
+    {
+      "period": "1943-02",
+      "path": "gistemp/1943-02.json",
+      "size_bytes": 88357
+    },
+    {
+      "period": "1943-03",
+      "path": "gistemp/1943-03.json",
+      "size_bytes": 89321
+    },
+    {
+      "period": "1943-04",
+      "path": "gistemp/1943-04.json",
+      "size_bytes": 88534
+    },
+    {
+      "period": "1943-05",
+      "path": "gistemp/1943-05.json",
+      "size_bytes": 88466
+    },
+    {
+      "period": "1943-06",
+      "path": "gistemp/1943-06.json",
+      "size_bytes": 88721
+    },
+    {
+      "period": "1943-07",
+      "path": "gistemp/1943-07.json",
+      "size_bytes": 87599
+    },
+    {
+      "period": "1943-08",
+      "path": "gistemp/1943-08.json",
+      "size_bytes": 88026
+    },
+    {
+      "period": "1943-09",
+      "path": "gistemp/1943-09.json",
+      "size_bytes": 87877
+    },
+    {
+      "period": "1943-10",
+      "path": "gistemp/1943-10.json",
+      "size_bytes": 87088
+    },
+    {
+      "period": "1943-11",
+      "path": "gistemp/1943-11.json",
+      "size_bytes": 87471
+    },
+    {
+      "period": "1943-12",
+      "path": "gistemp/1943-12.json",
+      "size_bytes": 87246
+    },
+    {
+      "period": "1944-01",
+      "path": "gistemp/1944-01.json",
+      "size_bytes": 87577
+    },
+    {
+      "period": "1944-02",
+      "path": "gistemp/1944-02.json",
+      "size_bytes": 88009
+    },
+    {
+      "period": "1944-03",
+      "path": "gistemp/1944-03.json",
+      "size_bytes": 87235
+    },
+    {
+      "period": "1944-04",
+      "path": "gistemp/1944-04.json",
+      "size_bytes": 87479
+    },
+    {
+      "period": "1944-05",
+      "path": "gistemp/1944-05.json",
+      "size_bytes": 87181
+    },
+    {
+      "period": "1944-06",
+      "path": "gistemp/1944-06.json",
+      "size_bytes": 87171
+    },
+    {
+      "period": "1944-07",
+      "path": "gistemp/1944-07.json",
+      "size_bytes": 87610
+    },
+    {
+      "period": "1944-08",
+      "path": "gistemp/1944-08.json",
+      "size_bytes": 87268
+    },
+    {
+      "period": "1944-09",
+      "path": "gistemp/1944-09.json",
+      "size_bytes": 86404
+    },
+    {
+      "period": "1944-10",
+      "path": "gistemp/1944-10.json",
+      "size_bytes": 86862
+    },
+    {
+      "period": "1944-11",
+      "path": "gistemp/1944-11.json",
+      "size_bytes": 87601
+    },
+    {
+      "period": "1944-12",
+      "path": "gistemp/1944-12.json",
+      "size_bytes": 87606
+    },
+    {
+      "period": "1945-01",
+      "path": "gistemp/1945-01.json",
+      "size_bytes": 87789
+    },
+    {
+      "period": "1945-02",
+      "path": "gistemp/1945-02.json",
+      "size_bytes": 87409
+    },
+    {
+      "period": "1945-03",
+      "path": "gistemp/1945-03.json",
+      "size_bytes": 88429
+    },
+    {
+      "period": "1945-04",
+      "path": "gistemp/1945-04.json",
+      "size_bytes": 87741
+    },
+    {
+      "period": "1945-05",
+      "path": "gistemp/1945-05.json",
+      "size_bytes": 88404
+    },
+    {
+      "period": "1945-06",
+      "path": "gistemp/1945-06.json",
+      "size_bytes": 88474
+    },
+    {
+      "period": "1945-07",
+      "path": "gistemp/1945-07.json",
+      "size_bytes": 88161
+    },
+    {
+      "period": "1945-08",
+      "path": "gistemp/1945-08.json",
+      "size_bytes": 86709
+    },
+    {
+      "period": "1945-09",
+      "path": "gistemp/1945-09.json",
+      "size_bytes": 87206
+    },
+    {
+      "period": "1945-10",
+      "path": "gistemp/1945-10.json",
+      "size_bytes": 87292
+    },
+    {
+      "period": "1945-11",
+      "path": "gistemp/1945-11.json",
+      "size_bytes": 87669
+    },
+    {
+      "period": "1945-12",
+      "path": "gistemp/1945-12.json",
+      "size_bytes": 88399
+    },
+    {
+      "period": "1946-01",
+      "path": "gistemp/1946-01.json",
+      "size_bytes": 87955
+    },
+    {
+      "period": "1946-02",
+      "path": "gistemp/1946-02.json",
+      "size_bytes": 89974
+    },
+    {
+      "period": "1946-03",
+      "path": "gistemp/1946-03.json",
+      "size_bytes": 89128
+    },
+    {
+      "period": "1946-04",
+      "path": "gistemp/1946-04.json",
+      "size_bytes": 88541
+    },
+    {
+      "period": "1946-05",
+      "path": "gistemp/1946-05.json",
+      "size_bytes": 89788
+    },
+    {
+      "period": "1946-06",
+      "path": "gistemp/1946-06.json",
+      "size_bytes": 90411
+    },
+    {
+      "period": "1946-07",
+      "path": "gistemp/1946-07.json",
+      "size_bytes": 90286
+    },
+    {
+      "period": "1946-08",
+      "path": "gistemp/1946-08.json",
+      "size_bytes": 90198
+    },
+    {
+      "period": "1946-09",
+      "path": "gistemp/1946-09.json",
+      "size_bytes": 89625
+    },
+    {
+      "period": "1946-10",
+      "path": "gistemp/1946-10.json",
+      "size_bytes": 89529
+    },
+    {
+      "period": "1946-11",
+      "path": "gistemp/1946-11.json",
+      "size_bytes": 88960
+    },
+    {
+      "period": "1946-12",
+      "path": "gistemp/1946-12.json",
+      "size_bytes": 90093
+    },
+    {
+      "period": "1947-01",
+      "path": "gistemp/1947-01.json",
+      "size_bytes": 89571
+    },
+    {
+      "period": "1947-02",
+      "path": "gistemp/1947-02.json",
+      "size_bytes": 89715
+    },
+    {
+      "period": "1947-03",
+      "path": "gistemp/1947-03.json",
+      "size_bytes": 89119
+    },
+    {
+      "period": "1947-04",
+      "path": "gistemp/1947-04.json",
+      "size_bytes": 89133
+    },
+    {
+      "period": "1947-05",
+      "path": "gistemp/1947-05.json",
+      "size_bytes": 88897
+    },
+    {
+      "period": "1947-06",
+      "path": "gistemp/1947-06.json",
+      "size_bytes": 88789
+    },
+    {
+      "period": "1947-07",
+      "path": "gistemp/1947-07.json",
+      "size_bytes": 88831
+    },
+    {
+      "period": "1947-08",
+      "path": "gistemp/1947-08.json",
+      "size_bytes": 89552
+    },
+    {
+      "period": "1947-09",
+      "path": "gistemp/1947-09.json",
+      "size_bytes": 90685
+    },
+    {
+      "period": "1947-10",
+      "path": "gistemp/1947-10.json",
+      "size_bytes": 89011
+    },
+    {
+      "period": "1947-11",
+      "path": "gistemp/1947-11.json",
+      "size_bytes": 88791
+    },
+    {
+      "period": "1947-12",
+      "path": "gistemp/1947-12.json",
+      "size_bytes": 89954
+    },
+    {
+      "period": "1948-01",
+      "path": "gistemp/1948-01.json",
+      "size_bytes": 90199
+    },
+    {
+      "period": "1948-02",
+      "path": "gistemp/1948-02.json",
+      "size_bytes": 90533
+    },
+    {
+      "period": "1948-03",
+      "path": "gistemp/1948-03.json",
+      "size_bytes": 90046
+    },
+    {
+      "period": "1948-04",
+      "path": "gistemp/1948-04.json",
+      "size_bytes": 90879
+    },
+    {
+      "period": "1948-05",
+      "path": "gistemp/1948-05.json",
+      "size_bytes": 89135
+    },
+    {
+      "period": "1948-06",
+      "path": "gistemp/1948-06.json",
+      "size_bytes": 89673
+    },
+    {
+      "period": "1948-07",
+      "path": "gistemp/1948-07.json",
+      "size_bytes": 89593
+    },
+    {
+      "period": "1948-08",
+      "path": "gistemp/1948-08.json",
+      "size_bytes": 90714
+    },
+    {
+      "period": "1948-09",
+      "path": "gistemp/1948-09.json",
+      "size_bytes": 90552
+    },
+    {
+      "period": "1948-10",
+      "path": "gistemp/1948-10.json",
+      "size_bytes": 90067
+    },
+    {
+      "period": "1948-11",
+      "path": "gistemp/1948-11.json",
+      "size_bytes": 91046
+    },
+    {
+      "period": "1948-12",
+      "path": "gistemp/1948-12.json",
+      "size_bytes": 90841
+    },
+    {
+      "period": "1949-01",
+      "path": "gistemp/1949-01.json",
+      "size_bytes": 90374
+    },
+    {
+      "period": "1949-02",
+      "path": "gistemp/1949-02.json",
+      "size_bytes": 90001
+    },
+    {
+      "period": "1949-03",
+      "path": "gistemp/1949-03.json",
+      "size_bytes": 89483
+    },
+    {
+      "period": "1949-04",
+      "path": "gistemp/1949-04.json",
+      "size_bytes": 89981
+    },
+    {
+      "period": "1949-05",
+      "path": "gistemp/1949-05.json",
+      "size_bytes": 90488
+    },
+    {
+      "period": "1949-06",
+      "path": "gistemp/1949-06.json",
+      "size_bytes": 90990
+    },
+    {
+      "period": "1949-07",
+      "path": "gistemp/1949-07.json",
+      "size_bytes": 90814
+    },
+    {
+      "period": "1949-08",
+      "path": "gistemp/1949-08.json",
+      "size_bytes": 90954
+    },
+    {
+      "period": "1949-09",
+      "path": "gistemp/1949-09.json",
+      "size_bytes": 90589
+    },
+    {
+      "period": "1949-10",
+      "path": "gistemp/1949-10.json",
+      "size_bytes": 89700
+    },
+    {
+      "period": "1949-11",
+      "path": "gistemp/1949-11.json",
+      "size_bytes": 89716
+    },
+    {
+      "period": "1949-12",
+      "path": "gistemp/1949-12.json",
+      "size_bytes": 89575
+    },
+    {
+      "period": "1950-01",
+      "path": "gistemp/1950-01.json",
+      "size_bytes": 90202
+    },
+    {
+      "period": "1950-02",
+      "path": "gistemp/1950-02.json",
+      "size_bytes": 90790
+    },
+    {
+      "period": "1950-03",
+      "path": "gistemp/1950-03.json",
+      "size_bytes": 89078
+    },
+    {
+      "period": "1950-04",
+      "path": "gistemp/1950-04.json",
+      "size_bytes": 90351
+    },
+    {
+      "period": "1950-05",
+      "path": "gistemp/1950-05.json",
+      "size_bytes": 89108
+    },
+    {
+      "period": "1950-06",
+      "path": "gistemp/1950-06.json",
+      "size_bytes": 89598
+    },
+    {
+      "period": "1950-07",
+      "path": "gistemp/1950-07.json",
+      "size_bytes": 89669
+    },
+    {
+      "period": "1950-08",
+      "path": "gistemp/1950-08.json",
+      "size_bytes": 90089
+    },
+    {
+      "period": "1950-09",
+      "path": "gistemp/1950-09.json",
+      "size_bytes": 89958
+    },
+    {
+      "period": "1950-10",
+      "path": "gistemp/1950-10.json",
+      "size_bytes": 90659
+    },
+    {
+      "period": "1950-11",
+      "path": "gistemp/1950-11.json",
+      "size_bytes": 89691
+    },
+    {
+      "period": "1950-12",
+      "path": "gistemp/1950-12.json",
+      "size_bytes": 90820
+    },
+    {
+      "period": "1951-01",
+      "path": "gistemp/1951-01.json",
+      "size_bytes": 92391
+    },
+    {
+      "period": "1951-02",
+      "path": "gistemp/1951-02.json",
+      "size_bytes": 91593
+    },
+    {
+      "period": "1951-03",
+      "path": "gistemp/1951-03.json",
+      "size_bytes": 90967
+    },
+    {
+      "period": "1951-04",
+      "path": "gistemp/1951-04.json",
+      "size_bytes": 89964
+    },
+    {
+      "period": "1951-05",
+      "path": "gistemp/1951-05.json",
+      "size_bytes": 88459
+    },
+    {
+      "period": "1951-06",
+      "path": "gistemp/1951-06.json",
+      "size_bytes": 89258
+    },
+    {
+      "period": "1951-07",
+      "path": "gistemp/1951-07.json",
+      "size_bytes": 89760
+    },
+    {
+      "period": "1951-08",
+      "path": "gistemp/1951-08.json",
+      "size_bytes": 89046
+    },
+    {
+      "period": "1951-09",
+      "path": "gistemp/1951-09.json",
+      "size_bytes": 87396
+    },
+    {
+      "period": "1951-10",
+      "path": "gistemp/1951-10.json",
+      "size_bytes": 87790
+    },
+    {
+      "period": "1951-11",
+      "path": "gistemp/1951-11.json",
+      "size_bytes": 89062
+    },
+    {
+      "period": "1951-12",
+      "path": "gistemp/1951-12.json",
+      "size_bytes": 88780
+    },
+    {
+      "period": "1952-01",
+      "path": "gistemp/1952-01.json",
+      "size_bytes": 87909
+    },
+    {
+      "period": "1952-02",
+      "path": "gistemp/1952-02.json",
+      "size_bytes": 87818
+    },
+    {
+      "period": "1952-03",
+      "path": "gistemp/1952-03.json",
+      "size_bytes": 89774
+    },
+    {
+      "period": "1952-04",
+      "path": "gistemp/1952-04.json",
+      "size_bytes": 88283
+    },
+    {
+      "period": "1952-05",
+      "path": "gistemp/1952-05.json",
+      "size_bytes": 88847
+    },
+    {
+      "period": "1952-06",
+      "path": "gistemp/1952-06.json",
+      "size_bytes": 88592
+    },
+    {
+      "period": "1952-07",
+      "path": "gistemp/1952-07.json",
+      "size_bytes": 88607
+    },
+    {
+      "period": "1952-08",
+      "path": "gistemp/1952-08.json",
+      "size_bytes": 88506
+    },
+    {
+      "period": "1952-09",
+      "path": "gistemp/1952-09.json",
+      "size_bytes": 88077
+    },
+    {
+      "period": "1952-10",
+      "path": "gistemp/1952-10.json",
+      "size_bytes": 89355
+    },
+    {
+      "period": "1952-11",
+      "path": "gistemp/1952-11.json",
+      "size_bytes": 88852
+    },
+    {
+      "period": "1952-12",
+      "path": "gistemp/1952-12.json",
+      "size_bytes": 89237
+    },
+    {
+      "period": "1953-01",
+      "path": "gistemp/1953-01.json",
+      "size_bytes": 88987
+    },
+    {
+      "period": "1953-02",
+      "path": "gistemp/1953-02.json",
+      "size_bytes": 88009
+    },
+    {
+      "period": "1953-03",
+      "path": "gistemp/1953-03.json",
+      "size_bytes": 89156
+    },
+    {
+      "period": "1953-04",
+      "path": "gistemp/1953-04.json",
+      "size_bytes": 88113
+    },
+    {
+      "period": "1953-05",
+      "path": "gistemp/1953-05.json",
+      "size_bytes": 87568
+    },
+    {
+      "period": "1953-06",
+      "path": "gistemp/1953-06.json",
+      "size_bytes": 86806
+    },
+    {
+      "period": "1953-07",
+      "path": "gistemp/1953-07.json",
+      "size_bytes": 88215
+    },
+    {
+      "period": "1953-08",
+      "path": "gistemp/1953-08.json",
+      "size_bytes": 88986
+    },
+    {
+      "period": "1953-09",
+      "path": "gistemp/1953-09.json",
+      "size_bytes": 88021
+    },
+    {
+      "period": "1953-10",
+      "path": "gistemp/1953-10.json",
+      "size_bytes": 88052
+    },
+    {
+      "period": "1953-11",
+      "path": "gistemp/1953-11.json",
+      "size_bytes": 88615
+    },
+    {
+      "period": "1953-12",
+      "path": "gistemp/1953-12.json",
+      "size_bytes": 88568
+    },
+    {
+      "period": "1954-01",
+      "path": "gistemp/1954-01.json",
+      "size_bytes": 90262
+    },
+    {
+      "period": "1954-02",
+      "path": "gistemp/1954-02.json",
+      "size_bytes": 89753
+    },
+    {
+      "period": "1954-03",
+      "path": "gistemp/1954-03.json",
+      "size_bytes": 91017
+    },
+    {
+      "period": "1954-04",
+      "path": "gistemp/1954-04.json",
+      "size_bytes": 89069
+    },
+    {
+      "period": "1954-05",
+      "path": "gistemp/1954-05.json",
+      "size_bytes": 90057
+    },
+    {
+      "period": "1954-06",
+      "path": "gistemp/1954-06.json",
+      "size_bytes": 90220
+    },
+    {
+      "period": "1954-07",
+      "path": "gistemp/1954-07.json",
+      "size_bytes": 90265
+    },
+    {
+      "period": "1954-08",
+      "path": "gistemp/1954-08.json",
+      "size_bytes": 90128
+    },
+    {
+      "period": "1954-09",
+      "path": "gistemp/1954-09.json",
+      "size_bytes": 89900
+    },
+    {
+      "period": "1954-10",
+      "path": "gistemp/1954-10.json",
+      "size_bytes": 89279
+    },
+    {
+      "period": "1954-11",
+      "path": "gistemp/1954-11.json",
+      "size_bytes": 88817
+    },
+    {
+      "period": "1954-12",
+      "path": "gistemp/1954-12.json",
+      "size_bytes": 90187
+    },
+    {
+      "period": "1955-01",
+      "path": "gistemp/1955-01.json",
+      "size_bytes": 89708
+    },
+    {
+      "period": "1955-02",
+      "path": "gistemp/1955-02.json",
+      "size_bytes": 90932
+    },
+    {
+      "period": "1955-03",
+      "path": "gistemp/1955-03.json",
+      "size_bytes": 90625
+    },
+    {
+      "period": "1955-04",
+      "path": "gistemp/1955-04.json",
+      "size_bytes": 91302
+    },
+    {
+      "period": "1955-05",
+      "path": "gistemp/1955-05.json",
+      "size_bytes": 91837
+    },
+    {
+      "period": "1955-06",
+      "path": "gistemp/1955-06.json",
+      "size_bytes": 90162
+    },
+    {
+      "period": "1955-07",
+      "path": "gistemp/1955-07.json",
+      "size_bytes": 90937
+    },
+    {
+      "period": "1955-08",
+      "path": "gistemp/1955-08.json",
+      "size_bytes": 89874
+    },
+    {
+      "period": "1955-09",
+      "path": "gistemp/1955-09.json",
+      "size_bytes": 89955
+    },
+    {
+      "period": "1955-10",
+      "path": "gistemp/1955-10.json",
+      "size_bytes": 89387
+    },
+    {
+      "period": "1955-11",
+      "path": "gistemp/1955-11.json",
+      "size_bytes": 90768
+    },
+    {
+      "period": "1955-12",
+      "path": "gistemp/1955-12.json",
+      "size_bytes": 90993
+    },
+    {
+      "period": "1956-01",
+      "path": "gistemp/1956-01.json",
+      "size_bytes": 89304
+    },
+    {
+      "period": "1956-02",
+      "path": "gistemp/1956-02.json",
+      "size_bytes": 90096
+    },
+    {
+      "period": "1956-03",
+      "path": "gistemp/1956-03.json",
+      "size_bytes": 90861
+    },
+    {
+      "period": "1956-04",
+      "path": "gistemp/1956-04.json",
+      "size_bytes": 91598
+    },
+    {
+      "period": "1956-05",
+      "path": "gistemp/1956-05.json",
+      "size_bytes": 91598
+    },
+    {
+      "period": "1956-06",
+      "path": "gistemp/1956-06.json",
+      "size_bytes": 91625
+    },
+    {
+      "period": "1956-07",
+      "path": "gistemp/1956-07.json",
+      "size_bytes": 89951
+    },
+    {
+      "period": "1956-08",
+      "path": "gistemp/1956-08.json",
+      "size_bytes": 91864
+    },
+    {
+      "period": "1956-09",
+      "path": "gistemp/1956-09.json",
+      "size_bytes": 91615
+    },
+    {
+      "period": "1956-10",
+      "path": "gistemp/1956-10.json",
+      "size_bytes": 92336
+    },
+    {
+      "period": "1956-11",
+      "path": "gistemp/1956-11.json",
+      "size_bytes": 89760
+    },
+    {
+      "period": "1956-12",
+      "path": "gistemp/1956-12.json",
+      "size_bytes": 89531
+    },
+    {
+      "period": "1957-01",
+      "path": "gistemp/1957-01.json",
+      "size_bytes": 89541
+    },
+    {
+      "period": "1957-02",
+      "path": "gistemp/1957-02.json",
+      "size_bytes": 89543
+    },
+    {
+      "period": "1957-03",
+      "path": "gistemp/1957-03.json",
+      "size_bytes": 89573
+    },
+    {
+      "period": "1957-04",
+      "path": "gistemp/1957-04.json",
+      "size_bytes": 89672
+    },
+    {
+      "period": "1957-05",
+      "path": "gistemp/1957-05.json",
+      "size_bytes": 88352
+    },
+    {
+      "period": "1957-06",
+      "path": "gistemp/1957-06.json",
+      "size_bytes": 87344
+    },
+    {
+      "period": "1957-07",
+      "path": "gistemp/1957-07.json",
+      "size_bytes": 89195
+    },
+    {
+      "period": "1957-08",
+      "path": "gistemp/1957-08.json",
+      "size_bytes": 88204
+    },
+    {
+      "period": "1957-09",
+      "path": "gistemp/1957-09.json",
+      "size_bytes": 90026
+    },
+    {
+      "period": "1957-10",
+      "path": "gistemp/1957-10.json",
+      "size_bytes": 89046
+    },
+    {
+      "period": "1957-11",
+      "path": "gistemp/1957-11.json",
+      "size_bytes": 89283
+    },
+    {
+      "period": "1957-12",
+      "path": "gistemp/1957-12.json",
+      "size_bytes": 89368
+    },
+    {
+      "period": "1958-01",
+      "path": "gistemp/1958-01.json",
+      "size_bytes": 87440
+    },
+    {
+      "period": "1958-02",
+      "path": "gistemp/1958-02.json",
+      "size_bytes": 88032
+    },
+    {
+      "period": "1958-03",
+      "path": "gistemp/1958-03.json",
+      "size_bytes": 88036
+    },
+    {
+      "period": "1958-04",
+      "path": "gistemp/1958-04.json",
+      "size_bytes": 89310
+    },
+    {
+      "period": "1958-05",
+      "path": "gistemp/1958-05.json",
+      "size_bytes": 87420
+    },
+    {
+      "period": "1958-06",
+      "path": "gistemp/1958-06.json",
+      "size_bytes": 89817
+    },
+    {
+      "period": "1958-07",
+      "path": "gistemp/1958-07.json",
+      "size_bytes": 88640
+    },
+    {
+      "period": "1958-08",
+      "path": "gistemp/1958-08.json",
+      "size_bytes": 90159
+    },
+    {
+      "period": "1958-09",
+      "path": "gistemp/1958-09.json",
+      "size_bytes": 88833
+    },
+    {
+      "period": "1958-10",
+      "path": "gistemp/1958-10.json",
+      "size_bytes": 88669
+    },
+    {
+      "period": "1958-11",
+      "path": "gistemp/1958-11.json",
+      "size_bytes": 89011
+    },
+    {
+      "period": "1958-12",
+      "path": "gistemp/1958-12.json",
+      "size_bytes": 90327
+    },
+    {
+      "period": "1959-01",
+      "path": "gistemp/1959-01.json",
+      "size_bytes": 90605
+    },
+    {
+      "period": "1959-02",
+      "path": "gistemp/1959-02.json",
+      "size_bytes": 89458
+    },
+    {
+      "period": "1959-03",
+      "path": "gistemp/1959-03.json",
+      "size_bytes": 89569
+    },
+    {
+      "period": "1959-04",
+      "path": "gistemp/1959-04.json",
+      "size_bytes": 88090
+    },
+    {
+      "period": "1959-05",
+      "path": "gistemp/1959-05.json",
+      "size_bytes": 89557
+    },
+    {
+      "period": "1959-06",
+      "path": "gistemp/1959-06.json",
+      "size_bytes": 89438
+    },
+    {
+      "period": "1959-07",
+      "path": "gistemp/1959-07.json",
+      "size_bytes": 88894
+    },
+    {
+      "period": "1959-08",
+      "path": "gistemp/1959-08.json",
+      "size_bytes": 91066
+    },
+    {
+      "period": "1959-09",
+      "path": "gistemp/1959-09.json",
+      "size_bytes": 91203
+    },
+    {
+      "period": "1959-10",
+      "path": "gistemp/1959-10.json",
+      "size_bytes": 89327
+    },
+    {
+      "period": "1959-11",
+      "path": "gistemp/1959-11.json",
+      "size_bytes": 90160
+    },
+    {
+      "period": "1959-12",
+      "path": "gistemp/1959-12.json",
+      "size_bytes": 88924
+    },
+    {
+      "period": "1960-01",
+      "path": "gistemp/1960-01.json",
+      "size_bytes": 90452
+    },
+    {
+      "period": "1960-02",
+      "path": "gistemp/1960-02.json",
+      "size_bytes": 90095
+    },
+    {
+      "period": "1960-03",
+      "path": "gistemp/1960-03.json",
+      "size_bytes": 92626
+    },
+    {
+      "period": "1960-04",
+      "path": "gistemp/1960-04.json",
+      "size_bytes": 91286
+    },
+    {
+      "period": "1960-05",
+      "path": "gistemp/1960-05.json",
+      "size_bytes": 89462
+    },
+    {
+      "period": "1960-06",
+      "path": "gistemp/1960-06.json",
+      "size_bytes": 90325
+    },
+    {
+      "period": "1960-07",
+      "path": "gistemp/1960-07.json",
+      "size_bytes": 88982
+    },
+    {
+      "period": "1960-08",
+      "path": "gistemp/1960-08.json",
+      "size_bytes": 89135
+    },
+    {
+      "period": "1960-09",
+      "path": "gistemp/1960-09.json",
+      "size_bytes": 88183
+    },
+    {
+      "period": "1960-10",
+      "path": "gistemp/1960-10.json",
+      "size_bytes": 90164
+    },
+    {
+      "period": "1960-11",
+      "path": "gistemp/1960-11.json",
+      "size_bytes": 91505
+    },
+    {
+      "period": "1960-12",
+      "path": "gistemp/1960-12.json",
+      "size_bytes": 89664
+    },
+    {
+      "period": "1961-01",
+      "path": "gistemp/1961-01.json",
+      "size_bytes": 90540
+    },
+    {
+      "period": "1961-02",
+      "path": "gistemp/1961-02.json",
+      "size_bytes": 89760
+    },
+    {
+      "period": "1961-03",
+      "path": "gistemp/1961-03.json",
+      "size_bytes": 89641
+    },
+    {
+      "period": "1961-04",
+      "path": "gistemp/1961-04.json",
+      "size_bytes": 89600
+    },
+    {
+      "period": "1961-05",
+      "path": "gistemp/1961-05.json",
+      "size_bytes": 89276
+    },
+    {
+      "period": "1961-06",
+      "path": "gistemp/1961-06.json",
+      "size_bytes": 89066
+    },
+    {
+      "period": "1961-07",
+      "path": "gistemp/1961-07.json",
+      "size_bytes": 89220
+    },
+    {
+      "period": "1961-08",
+      "path": "gistemp/1961-08.json",
+      "size_bytes": 89056
+    },
+    {
+      "period": "1961-09",
+      "path": "gistemp/1961-09.json",
+      "size_bytes": 89208
+    },
+    {
+      "period": "1961-10",
+      "path": "gistemp/1961-10.json",
+      "size_bytes": 89518
+    },
+    {
+      "period": "1961-11",
+      "path": "gistemp/1961-11.json",
+      "size_bytes": 89838
+    },
+    {
+      "period": "1961-12",
+      "path": "gistemp/1961-12.json",
+      "size_bytes": 92059
+    },
+    {
+      "period": "1962-01",
+      "path": "gistemp/1962-01.json",
+      "size_bytes": 91291
+    },
+    {
+      "period": "1962-02",
+      "path": "gistemp/1962-02.json",
+      "size_bytes": 89238
+    },
+    {
+      "period": "1962-03",
+      "path": "gistemp/1962-03.json",
+      "size_bytes": 88858
+    },
+    {
+      "period": "1962-04",
+      "path": "gistemp/1962-04.json",
+      "size_bytes": 89280
+    },
+    {
+      "period": "1962-05",
+      "path": "gistemp/1962-05.json",
+      "size_bytes": 91303
+    },
+    {
+      "period": "1962-06",
+      "path": "gistemp/1962-06.json",
+      "size_bytes": 89471
+    },
+    {
+      "period": "1962-07",
+      "path": "gistemp/1962-07.json",
+      "size_bytes": 88921
+    },
+    {
+      "period": "1962-08",
+      "path": "gistemp/1962-08.json",
+      "size_bytes": 90200
+    },
+    {
+      "period": "1962-09",
+      "path": "gistemp/1962-09.json",
+      "size_bytes": 89808
+    },
+    {
+      "period": "1962-10",
+      "path": "gistemp/1962-10.json",
+      "size_bytes": 89642
+    },
+    {
+      "period": "1962-11",
+      "path": "gistemp/1962-11.json",
+      "size_bytes": 88903
+    },
+    {
+      "period": "1962-12",
+      "path": "gistemp/1962-12.json",
+      "size_bytes": 91238
+    },
+    {
+      "period": "1963-01",
+      "path": "gistemp/1963-01.json",
+      "size_bytes": 90874
+    },
+    {
+      "period": "1963-02",
+      "path": "gistemp/1963-02.json",
+      "size_bytes": 90841
+    },
+    {
+      "period": "1963-03",
+      "path": "gistemp/1963-03.json",
+      "size_bytes": 91868
+    },
+    {
+      "period": "1963-04",
+      "path": "gistemp/1963-04.json",
+      "size_bytes": 89736
+    },
+    {
+      "period": "1963-05",
+      "path": "gistemp/1963-05.json",
+      "size_bytes": 90562
+    },
+    {
+      "period": "1963-06",
+      "path": "gistemp/1963-06.json",
+      "size_bytes": 90119
+    },
+    {
+      "period": "1963-07",
+      "path": "gistemp/1963-07.json",
+      "size_bytes": 89104
+    },
+    {
+      "period": "1963-08",
+      "path": "gistemp/1963-08.json",
+      "size_bytes": 86829
+    },
+    {
+      "period": "1963-09",
+      "path": "gistemp/1963-09.json",
+      "size_bytes": 89150
+    },
+    {
+      "period": "1963-10",
+      "path": "gistemp/1963-10.json",
+      "size_bytes": 88823
+    },
+    {
+      "period": "1963-11",
+      "path": "gistemp/1963-11.json",
+      "size_bytes": 89180
+    },
+    {
+      "period": "1963-12",
+      "path": "gistemp/1963-12.json",
+      "size_bytes": 89605
+    },
+    {
+      "period": "1964-01",
+      "path": "gistemp/1964-01.json",
+      "size_bytes": 91013
+    },
+    {
+      "period": "1964-02",
+      "path": "gistemp/1964-02.json",
+      "size_bytes": 90415
+    },
+    {
+      "period": "1964-03",
+      "path": "gistemp/1964-03.json",
+      "size_bytes": 91203
+    },
+    {
+      "period": "1964-04",
+      "path": "gistemp/1964-04.json",
+      "size_bytes": 92870
+    },
+    {
+      "period": "1964-05",
+      "path": "gistemp/1964-05.json",
+      "size_bytes": 92796
+    },
+    {
+      "period": "1964-06",
+      "path": "gistemp/1964-06.json",
+      "size_bytes": 89381
+    },
+    {
+      "period": "1964-07",
+      "path": "gistemp/1964-07.json",
+      "size_bytes": 90730
+    },
+    {
+      "period": "1964-08",
+      "path": "gistemp/1964-08.json",
+      "size_bytes": 90882
+    },
+    {
+      "period": "1964-09",
+      "path": "gistemp/1964-09.json",
+      "size_bytes": 92933
+    },
+    {
+      "period": "1964-10",
+      "path": "gistemp/1964-10.json",
+      "size_bytes": 93144
+    },
+    {
+      "period": "1964-11",
+      "path": "gistemp/1964-11.json",
+      "size_bytes": 92226
+    },
+    {
+      "period": "1964-12",
+      "path": "gistemp/1964-12.json",
+      "size_bytes": 91106
+    },
+    {
+      "period": "1965-01",
+      "path": "gistemp/1965-01.json",
+      "size_bytes": 90290
+    },
+    {
+      "period": "1965-02",
+      "path": "gistemp/1965-02.json",
+      "size_bytes": 90556
+    },
+    {
+      "period": "1965-03",
+      "path": "gistemp/1965-03.json",
+      "size_bytes": 91866
+    },
+    {
+      "period": "1965-04",
+      "path": "gistemp/1965-04.json",
+      "size_bytes": 90798
+    },
+    {
+      "period": "1965-05",
+      "path": "gistemp/1965-05.json",
+      "size_bytes": 91073
+    },
+    {
+      "period": "1965-06",
+      "path": "gistemp/1965-06.json",
+      "size_bytes": 91849
+    },
+    {
+      "period": "1965-07",
+      "path": "gistemp/1965-07.json",
+      "size_bytes": 92298
+    },
+    {
+      "period": "1965-08",
+      "path": "gistemp/1965-08.json",
+      "size_bytes": 91320
+    },
+    {
+      "period": "1965-09",
+      "path": "gistemp/1965-09.json",
+      "size_bytes": 90380
+    },
+    {
+      "period": "1965-10",
+      "path": "gistemp/1965-10.json",
+      "size_bytes": 91522
+    },
+    {
+      "period": "1965-11",
+      "path": "gistemp/1965-11.json",
+      "size_bytes": 90921
+    },
+    {
+      "period": "1965-12",
+      "path": "gistemp/1965-12.json",
+      "size_bytes": 90411
+    },
+    {
+      "period": "1966-01",
+      "path": "gistemp/1966-01.json",
+      "size_bytes": 92140
+    },
+    {
+      "period": "1966-02",
+      "path": "gistemp/1966-02.json",
+      "size_bytes": 90473
+    },
+    {
+      "period": "1966-03",
+      "path": "gistemp/1966-03.json",
+      "size_bytes": 90198
+    },
+    {
+      "period": "1966-04",
+      "path": "gistemp/1966-04.json",
+      "size_bytes": 91258
+    },
+    {
+      "period": "1966-05",
+      "path": "gistemp/1966-05.json",
+      "size_bytes": 91916
+    },
+    {
+      "period": "1966-06",
+      "path": "gistemp/1966-06.json",
+      "size_bytes": 90930
+    },
+    {
+      "period": "1966-07",
+      "path": "gistemp/1966-07.json",
+      "size_bytes": 88635
+    },
+    {
+      "period": "1966-08",
+      "path": "gistemp/1966-08.json",
+      "size_bytes": 90628
+    },
+    {
+      "period": "1966-09",
+      "path": "gistemp/1966-09.json",
+      "size_bytes": 90351
+    },
+    {
+      "period": "1966-10",
+      "path": "gistemp/1966-10.json",
+      "size_bytes": 91415
+    },
+    {
+      "period": "1966-11",
+      "path": "gistemp/1966-11.json",
+      "size_bytes": 89214
+    },
+    {
+      "period": "1966-12",
+      "path": "gistemp/1966-12.json",
+      "size_bytes": 88387
+    },
+    {
+      "period": "1967-01",
+      "path": "gistemp/1967-01.json",
+      "size_bytes": 89974
+    },
+    {
+      "period": "1967-02",
+      "path": "gistemp/1967-02.json",
+      "size_bytes": 90729
+    },
+    {
+      "period": "1967-03",
+      "path": "gistemp/1967-03.json",
+      "size_bytes": 89000
+    },
+    {
+      "period": "1967-04",
+      "path": "gistemp/1967-04.json",
+      "size_bytes": 90565
+    },
+    {
+      "period": "1967-05",
+      "path": "gistemp/1967-05.json",
+      "size_bytes": 89405
+    },
+    {
+      "period": "1967-06",
+      "path": "gistemp/1967-06.json",
+      "size_bytes": 90494
+    },
+    {
+      "period": "1967-07",
+      "path": "gistemp/1967-07.json",
+      "size_bytes": 89383
+    },
+    {
+      "period": "1967-08",
+      "path": "gistemp/1967-08.json",
+      "size_bytes": 90704
+    },
+    {
+      "period": "1967-09",
+      "path": "gistemp/1967-09.json",
+      "size_bytes": 90078
+    },
+    {
+      "period": "1967-10",
+      "path": "gistemp/1967-10.json",
+      "size_bytes": 90405
+    },
+    {
+      "period": "1967-11",
+      "path": "gistemp/1967-11.json",
+      "size_bytes": 90064
+    },
+    {
+      "period": "1967-12",
+      "path": "gistemp/1967-12.json",
+      "size_bytes": 88940
+    },
+    {
+      "period": "1968-01",
+      "path": "gistemp/1968-01.json",
+      "size_bytes": 93024
+    },
+    {
+      "period": "1968-02",
+      "path": "gistemp/1968-02.json",
+      "size_bytes": 90388
+    },
+    {
+      "period": "1968-03",
+      "path": "gistemp/1968-03.json",
+      "size_bytes": 90011
+    },
+    {
+      "period": "1968-04",
+      "path": "gistemp/1968-04.json",
+      "size_bytes": 90960
+    },
+    {
+      "period": "1968-05",
+      "path": "gistemp/1968-05.json",
+      "size_bytes": 90991
+    },
+    {
+      "period": "1968-06",
+      "path": "gistemp/1968-06.json",
+      "size_bytes": 91040
+    },
+    {
+      "period": "1968-07",
+      "path": "gistemp/1968-07.json",
+      "size_bytes": 92136
+    },
+    {
+      "period": "1968-08",
+      "path": "gistemp/1968-08.json",
+      "size_bytes": 90622
+    },
+    {
+      "period": "1968-09",
+      "path": "gistemp/1968-09.json",
+      "size_bytes": 90873
+    },
+    {
+      "period": "1968-10",
+      "path": "gistemp/1968-10.json",
+      "size_bytes": 88014
+    },
+    {
+      "period": "1968-11",
+      "path": "gistemp/1968-11.json",
+      "size_bytes": 88698
+    },
+    {
+      "period": "1968-12",
+      "path": "gistemp/1968-12.json",
+      "size_bytes": 91012
+    },
+    {
+      "period": "1969-01",
+      "path": "gistemp/1969-01.json",
+      "size_bytes": 86481
+    },
+    {
+      "period": "1969-02",
+      "path": "gistemp/1969-02.json",
+      "size_bytes": 89600
+    },
+    {
+      "period": "1969-03",
+      "path": "gistemp/1969-03.json",
+      "size_bytes": 88992
+    },
+    {
+      "period": "1969-04",
+      "path": "gistemp/1969-04.json",
+      "size_bytes": 88267
+    },
+    {
+      "period": "1969-05",
+      "path": "gistemp/1969-05.json",
+      "size_bytes": 87317
+    },
+    {
+      "period": "1969-06",
+      "path": "gistemp/1969-06.json",
+      "size_bytes": 89760
+    },
+    {
+      "period": "1969-07",
+      "path": "gistemp/1969-07.json",
+      "size_bytes": 89352
+    },
+    {
+      "period": "1969-08",
+      "path": "gistemp/1969-08.json",
+      "size_bytes": 87549
+    },
+    {
+      "period": "1969-09",
+      "path": "gistemp/1969-09.json",
+      "size_bytes": 88426
+    },
+    {
+      "period": "1969-10",
+      "path": "gistemp/1969-10.json",
+      "size_bytes": 88963
+    },
+    {
+      "period": "1969-11",
+      "path": "gistemp/1969-11.json",
+      "size_bytes": 89311
+    },
+    {
+      "period": "1969-12",
+      "path": "gistemp/1969-12.json",
+      "size_bytes": 87758
+    },
+    {
+      "period": "1970-01",
+      "path": "gistemp/1970-01.json",
+      "size_bytes": 88482
+    },
+    {
+      "period": "1970-02",
+      "path": "gistemp/1970-02.json",
+      "size_bytes": 88946
+    },
+    {
+      "period": "1970-03",
+      "path": "gistemp/1970-03.json",
+      "size_bytes": 88007
+    },
+    {
+      "period": "1970-04",
+      "path": "gistemp/1970-04.json",
+      "size_bytes": 89804
+    },
+    {
+      "period": "1970-05",
+      "path": "gistemp/1970-05.json",
+      "size_bytes": 89856
+    },
+    {
+      "period": "1970-06",
+      "path": "gistemp/1970-06.json",
+      "size_bytes": 90822
+    },
+    {
+      "period": "1970-07",
+      "path": "gistemp/1970-07.json",
+      "size_bytes": 88925
+    },
+    {
+      "period": "1970-08",
+      "path": "gistemp/1970-08.json",
+      "size_bytes": 91025
+    },
+    {
+      "period": "1970-09",
+      "path": "gistemp/1970-09.json",
+      "size_bytes": 88424
+    },
+    {
+      "period": "1970-10",
+      "path": "gistemp/1970-10.json",
+      "size_bytes": 88707
+    },
+    {
+      "period": "1970-11",
+      "path": "gistemp/1970-11.json",
+      "size_bytes": 90065
+    },
+    {
+      "period": "1970-12",
+      "path": "gistemp/1970-12.json",
+      "size_bytes": 90267
+    },
+    {
+      "period": "1971-01",
+      "path": "gistemp/1971-01.json",
+      "size_bytes": 89404
+    },
+    {
+      "period": "1971-02",
+      "path": "gistemp/1971-02.json",
+      "size_bytes": 89016
+    },
+    {
+      "period": "1971-03",
+      "path": "gistemp/1971-03.json",
+      "size_bytes": 91422
+    },
+    {
+      "period": "1971-04",
+      "path": "gistemp/1971-04.json",
+      "size_bytes": 90154
+    },
+    {
+      "period": "1971-05",
+      "path": "gistemp/1971-05.json",
+      "size_bytes": 88903
+    },
+    {
+      "period": "1971-06",
+      "path": "gistemp/1971-06.json",
+      "size_bytes": 90997
+    },
+    {
+      "period": "1971-07",
+      "path": "gistemp/1971-07.json",
+      "size_bytes": 90982
+    },
+    {
+      "period": "1971-08",
+      "path": "gistemp/1971-08.json",
+      "size_bytes": 90491
+    },
+    {
+      "period": "1971-09",
+      "path": "gistemp/1971-09.json",
+      "size_bytes": 90539
+    },
+    {
+      "period": "1971-10",
+      "path": "gistemp/1971-10.json",
+      "size_bytes": 89761
+    },
+    {
+      "period": "1971-11",
+      "path": "gistemp/1971-11.json",
+      "size_bytes": 91076
+    },
+    {
+      "period": "1971-12",
+      "path": "gistemp/1971-12.json",
+      "size_bytes": 90501
+    },
+    {
+      "period": "1972-01",
+      "path": "gistemp/1972-01.json",
+      "size_bytes": 90130
+    },
+    {
+      "period": "1972-02",
+      "path": "gistemp/1972-02.json",
+      "size_bytes": 89584
+    },
+    {
+      "period": "1972-03",
+      "path": "gistemp/1972-03.json",
+      "size_bytes": 89687
+    },
+    {
+      "period": "1972-04",
+      "path": "gistemp/1972-04.json",
+      "size_bytes": 89834
+    },
+    {
+      "period": "1972-05",
+      "path": "gistemp/1972-05.json",
+      "size_bytes": 90900
+    },
+    {
+      "period": "1972-06",
+      "path": "gistemp/1972-06.json",
+      "size_bytes": 89915
+    },
+    {
+      "period": "1972-07",
+      "path": "gistemp/1972-07.json",
+      "size_bytes": 89202
+    },
+    {
+      "period": "1972-08",
+      "path": "gistemp/1972-08.json",
+      "size_bytes": 89745
+    },
+    {
+      "period": "1972-09",
+      "path": "gistemp/1972-09.json",
+      "size_bytes": 89773
+    },
+    {
+      "period": "1972-10",
+      "path": "gistemp/1972-10.json",
+      "size_bytes": 87991
+    },
+    {
+      "period": "1972-11",
+      "path": "gistemp/1972-11.json",
+      "size_bytes": 89220
+    },
+    {
+      "period": "1972-12",
+      "path": "gistemp/1972-12.json",
+      "size_bytes": 89080
+    },
+    {
+      "period": "1973-01",
+      "path": "gistemp/1973-01.json",
+      "size_bytes": 87820
+    },
+    {
+      "period": "1973-02",
+      "path": "gistemp/1973-02.json",
+      "size_bytes": 88965
+    },
+    {
+      "period": "1973-03",
+      "path": "gistemp/1973-03.json",
+      "size_bytes": 88950
+    },
+    {
+      "period": "1973-04",
+      "path": "gistemp/1973-04.json",
+      "size_bytes": 87892
+    },
+    {
+      "period": "1973-05",
+      "path": "gistemp/1973-05.json",
+      "size_bytes": 87346
+    },
+    {
+      "period": "1973-06",
+      "path": "gistemp/1973-06.json",
+      "size_bytes": 87792
+    },
+    {
+      "period": "1973-07",
+      "path": "gistemp/1973-07.json",
+      "size_bytes": 88984
+    },
+    {
+      "period": "1973-08",
+      "path": "gistemp/1973-08.json",
+      "size_bytes": 89947
+    },
+    {
+      "period": "1973-09",
+      "path": "gistemp/1973-09.json",
+      "size_bytes": 88834
+    },
+    {
+      "period": "1973-10",
+      "path": "gistemp/1973-10.json",
+      "size_bytes": 88676
+    },
+    {
+      "period": "1973-11",
+      "path": "gistemp/1973-11.json",
+      "size_bytes": 89154
+    },
+    {
+      "period": "1973-12",
+      "path": "gistemp/1973-12.json",
+      "size_bytes": 91563
+    },
+    {
+      "period": "1974-01",
+      "path": "gistemp/1974-01.json",
+      "size_bytes": 89687
+    },
+    {
+      "period": "1974-02",
+      "path": "gistemp/1974-02.json",
+      "size_bytes": 92743
+    },
+    {
+      "period": "1974-03",
+      "path": "gistemp/1974-03.json",
+      "size_bytes": 90148
+    },
+    {
+      "period": "1974-04",
+      "path": "gistemp/1974-04.json",
+      "size_bytes": 90042
+    },
+    {
+      "period": "1974-05",
+      "path": "gistemp/1974-05.json",
+      "size_bytes": 90608
+    },
+    {
+      "period": "1974-06",
+      "path": "gistemp/1974-06.json",
+      "size_bytes": 90541
+    },
+    {
+      "period": "1974-07",
+      "path": "gistemp/1974-07.json",
+      "size_bytes": 91056
+    },
+    {
+      "period": "1974-08",
+      "path": "gistemp/1974-08.json",
+      "size_bytes": 87250
+    },
+    {
+      "period": "1974-09",
+      "path": "gistemp/1974-09.json",
+      "size_bytes": 90486
+    },
+    {
+      "period": "1974-10",
+      "path": "gistemp/1974-10.json",
+      "size_bytes": 89223
+    },
+    {
+      "period": "1974-11",
+      "path": "gistemp/1974-11.json",
+      "size_bytes": 89907
+    },
+    {
+      "period": "1974-12",
+      "path": "gistemp/1974-12.json",
+      "size_bytes": 89520
+    },
+    {
+      "period": "1975-01",
+      "path": "gistemp/1975-01.json",
+      "size_bytes": 89683
+    },
+    {
+      "period": "1975-02",
+      "path": "gistemp/1975-02.json",
+      "size_bytes": 88649
+    },
+    {
+      "period": "1975-03",
+      "path": "gistemp/1975-03.json",
+      "size_bytes": 89299
+    },
+    {
+      "period": "1975-04",
+      "path": "gistemp/1975-04.json",
+      "size_bytes": 89542
+    },
+    {
+      "period": "1975-05",
+      "path": "gistemp/1975-05.json",
+      "size_bytes": 88993
+    },
+    {
+      "period": "1975-06",
+      "path": "gistemp/1975-06.json",
+      "size_bytes": 90637
+    },
+    {
+      "period": "1975-07",
+      "path": "gistemp/1975-07.json",
+      "size_bytes": 89262
+    },
+    {
+      "period": "1975-08",
+      "path": "gistemp/1975-08.json",
+      "size_bytes": 91545
+    },
+    {
+      "period": "1975-09",
+      "path": "gistemp/1975-09.json",
+      "size_bytes": 90394
+    },
+    {
+      "period": "1975-10",
+      "path": "gistemp/1975-10.json",
+      "size_bytes": 90989
+    },
+    {
+      "period": "1975-11",
+      "path": "gistemp/1975-11.json",
+      "size_bytes": 90849
+    },
+    {
+      "period": "1975-12",
+      "path": "gistemp/1975-12.json",
+      "size_bytes": 89999
+    },
+    {
+      "period": "1976-01",
+      "path": "gistemp/1976-01.json",
+      "size_bytes": 89722
+    },
+    {
+      "period": "1976-02",
+      "path": "gistemp/1976-02.json",
+      "size_bytes": 90574
+    },
+    {
+      "period": "1976-03",
+      "path": "gistemp/1976-03.json",
+      "size_bytes": 90887
+    },
+    {
+      "period": "1976-04",
+      "path": "gistemp/1976-04.json",
+      "size_bytes": 91235
+    },
+    {
+      "period": "1976-05",
+      "path": "gistemp/1976-05.json",
+      "size_bytes": 92139
+    },
+    {
+      "period": "1976-06",
+      "path": "gistemp/1976-06.json",
+      "size_bytes": 92055
+    },
+    {
+      "period": "1976-07",
+      "path": "gistemp/1976-07.json",
+      "size_bytes": 91070
+    },
+    {
+      "period": "1976-08",
+      "path": "gistemp/1976-08.json",
+      "size_bytes": 90527
+    },
+    {
+      "period": "1976-09",
+      "path": "gistemp/1976-09.json",
+      "size_bytes": 90228
+    },
+    {
+      "period": "1976-10",
+      "path": "gistemp/1976-10.json",
+      "size_bytes": 91147
+    },
+    {
+      "period": "1976-11",
+      "path": "gistemp/1976-11.json",
+      "size_bytes": 89325
+    },
+    {
+      "period": "1976-12",
+      "path": "gistemp/1976-12.json",
+      "size_bytes": 88062
+    },
+    {
+      "period": "1977-01",
+      "path": "gistemp/1977-01.json",
+      "size_bytes": 86464
+    },
+    {
+      "period": "1977-02",
+      "path": "gistemp/1977-02.json",
+      "size_bytes": 89045
+    },
+    {
+      "period": "1977-03",
+      "path": "gistemp/1977-03.json",
+      "size_bytes": 87425
+    },
+    {
+      "period": "1977-04",
+      "path": "gistemp/1977-04.json",
+      "size_bytes": 88514
+    },
+    {
+      "period": "1977-05",
+      "path": "gistemp/1977-05.json",
+      "size_bytes": 86654
+    },
+    {
+      "period": "1977-06",
+      "path": "gistemp/1977-06.json",
+      "size_bytes": 87459
+    },
+    {
+      "period": "1977-07",
+      "path": "gistemp/1977-07.json",
+      "size_bytes": 88077
+    },
+    {
+      "period": "1977-08",
+      "path": "gistemp/1977-08.json",
+      "size_bytes": 88760
+    },
+    {
+      "period": "1977-09",
+      "path": "gistemp/1977-09.json",
+      "size_bytes": 90046
+    },
+    {
+      "period": "1977-10",
+      "path": "gistemp/1977-10.json",
+      "size_bytes": 89920
+    },
+    {
+      "period": "1977-11",
+      "path": "gistemp/1977-11.json",
+      "size_bytes": 88302
+    },
+    {
+      "period": "1977-12",
+      "path": "gistemp/1977-12.json",
+      "size_bytes": 89953
+    },
+    {
+      "period": "1978-01",
+      "path": "gistemp/1978-01.json",
+      "size_bytes": 90205
+    },
+    {
+      "period": "1978-02",
+      "path": "gistemp/1978-02.json",
+      "size_bytes": 87426
+    },
+    {
+      "period": "1978-03",
+      "path": "gistemp/1978-03.json",
+      "size_bytes": 88668
+    },
+    {
+      "period": "1978-04",
+      "path": "gistemp/1978-04.json",
+      "size_bytes": 88751
+    },
+    {
+      "period": "1978-05",
+      "path": "gistemp/1978-05.json",
+      "size_bytes": 87805
+    },
+    {
+      "period": "1978-06",
+      "path": "gistemp/1978-06.json",
+      "size_bytes": 90843
+    },
+    {
+      "period": "1978-07",
+      "path": "gistemp/1978-07.json",
+      "size_bytes": 89885
+    },
+    {
+      "period": "1978-08",
+      "path": "gistemp/1978-08.json",
+      "size_bytes": 90111
+    },
+    {
+      "period": "1978-09",
+      "path": "gistemp/1978-09.json",
+      "size_bytes": 90243
+    },
+    {
+      "period": "1978-10",
+      "path": "gistemp/1978-10.json",
+      "size_bytes": 89143
+    },
+    {
+      "period": "1978-11",
+      "path": "gistemp/1978-11.json",
+      "size_bytes": 89745
+    },
+    {
+      "period": "1978-12",
+      "path": "gistemp/1978-12.json",
+      "size_bytes": 88408
+    },
+    {
+      "period": "1979-01",
+      "path": "gistemp/1979-01.json",
+      "size_bytes": 88235
+    },
+    {
+      "period": "1979-02",
+      "path": "gistemp/1979-02.json",
+      "size_bytes": 89604
+    },
+    {
+      "period": "1979-03",
+      "path": "gistemp/1979-03.json",
+      "size_bytes": 87972
+    },
+    {
+      "period": "1979-04",
+      "path": "gistemp/1979-04.json",
+      "size_bytes": 87326
+    },
+    {
+      "period": "1979-05",
+      "path": "gistemp/1979-05.json",
+      "size_bytes": 89165
+    },
+    {
+      "period": "1979-06",
+      "path": "gistemp/1979-06.json",
+      "size_bytes": 88216
+    },
+    {
+      "period": "1979-07",
+      "path": "gistemp/1979-07.json",
+      "size_bytes": 88467
+    },
+    {
+      "period": "1979-08",
+      "path": "gistemp/1979-08.json",
+      "size_bytes": 88130
+    },
+    {
+      "period": "1979-09",
+      "path": "gistemp/1979-09.json",
+      "size_bytes": 86716
+    },
+    {
+      "period": "1979-10",
+      "path": "gistemp/1979-10.json",
+      "size_bytes": 87547
+    },
+    {
+      "period": "1979-11",
+      "path": "gistemp/1979-11.json",
+      "size_bytes": 86899
+    },
+    {
+      "period": "1979-12",
+      "path": "gistemp/1979-12.json",
+      "size_bytes": 86347
+    },
+    {
+      "period": "1980-01",
+      "path": "gistemp/1980-01.json",
+      "size_bytes": 86863
+    },
+    {
+      "period": "1980-02",
+      "path": "gistemp/1980-02.json",
+      "size_bytes": 85734
+    },
+    {
+      "period": "1980-03",
+      "path": "gistemp/1980-03.json",
+      "size_bytes": 86368
+    },
+    {
+      "period": "1980-04",
+      "path": "gistemp/1980-04.json",
+      "size_bytes": 86452
+    },
+    {
+      "period": "1980-05",
+      "path": "gistemp/1980-05.json",
+      "size_bytes": 85153
+    },
+    {
+      "period": "1980-06",
+      "path": "gistemp/1980-06.json",
+      "size_bytes": 87182
+    },
+    {
+      "period": "1980-07",
+      "path": "gistemp/1980-07.json",
+      "size_bytes": 87398
+    },
+    {
+      "period": "1980-08",
+      "path": "gistemp/1980-08.json",
+      "size_bytes": 88045
+    },
+    {
+      "period": "1980-09",
+      "path": "gistemp/1980-09.json",
+      "size_bytes": 87956
+    },
+    {
+      "period": "1980-10",
+      "path": "gistemp/1980-10.json",
+      "size_bytes": 88390
+    },
+    {
+      "period": "1980-11",
+      "path": "gistemp/1980-11.json",
+      "size_bytes": 86961
+    },
+    {
+      "period": "1980-12",
+      "path": "gistemp/1980-12.json",
+      "size_bytes": 87333
+    },
+    {
+      "period": "1981-01",
+      "path": "gistemp/1981-01.json",
+      "size_bytes": 88063
+    },
+    {
+      "period": "1981-02",
+      "path": "gistemp/1981-02.json",
+      "size_bytes": 86461
+    },
+    {
+      "period": "1981-03",
+      "path": "gistemp/1981-03.json",
+      "size_bytes": 86708
+    },
+    {
+      "period": "1981-04",
+      "path": "gistemp/1981-04.json",
+      "size_bytes": 87822
+    },
+    {
+      "period": "1981-05",
+      "path": "gistemp/1981-05.json",
+      "size_bytes": 86915
+    },
+    {
+      "period": "1981-06",
+      "path": "gistemp/1981-06.json",
+      "size_bytes": 86500
+    },
+    {
+      "period": "1981-07",
+      "path": "gistemp/1981-07.json",
+      "size_bytes": 87351
+    },
+    {
+      "period": "1981-08",
+      "path": "gistemp/1981-08.json",
+      "size_bytes": 86647
+    },
+    {
+      "period": "1981-09",
+      "path": "gistemp/1981-09.json",
+      "size_bytes": 88008
+    },
+    {
+      "period": "1981-10",
+      "path": "gistemp/1981-10.json",
+      "size_bytes": 88282
+    },
+    {
+      "period": "1981-11",
+      "path": "gistemp/1981-11.json",
+      "size_bytes": 87010
+    },
+    {
+      "period": "1981-12",
+      "path": "gistemp/1981-12.json",
+      "size_bytes": 86931
+    },
+    {
+      "period": "1982-01",
+      "path": "gistemp/1982-01.json",
+      "size_bytes": 88906
+    },
+    {
+      "period": "1982-02",
+      "path": "gistemp/1982-02.json",
+      "size_bytes": 89301
+    },
+    {
+      "period": "1982-03",
+      "path": "gistemp/1982-03.json",
+      "size_bytes": 89111
+    },
+    {
+      "period": "1982-04",
+      "path": "gistemp/1982-04.json",
+      "size_bytes": 88973
+    },
+    {
+      "period": "1982-05",
+      "path": "gistemp/1982-05.json",
+      "size_bytes": 88647
+    },
+    {
+      "period": "1982-06",
+      "path": "gistemp/1982-06.json",
+      "size_bytes": 89956
+    },
+    {
+      "period": "1982-07",
+      "path": "gistemp/1982-07.json",
+      "size_bytes": 88477
+    },
+    {
+      "period": "1982-08",
+      "path": "gistemp/1982-08.json",
+      "size_bytes": 90377
+    },
+    {
+      "period": "1982-09",
+      "path": "gistemp/1982-09.json",
+      "size_bytes": 89923
+    },
+    {
+      "period": "1982-10",
+      "path": "gistemp/1982-10.json",
+      "size_bytes": 89209
+    },
+    {
+      "period": "1982-11",
+      "path": "gistemp/1982-11.json",
+      "size_bytes": 88975
+    },
+    {
+      "period": "1982-12",
+      "path": "gistemp/1982-12.json",
+      "size_bytes": 86846
+    },
+    {
+      "period": "1983-01",
+      "path": "gistemp/1983-01.json",
+      "size_bytes": 87574
+    },
+    {
+      "period": "1983-02",
+      "path": "gistemp/1983-02.json",
+      "size_bytes": 88318
+    },
+    {
+      "period": "1983-03",
+      "path": "gistemp/1983-03.json",
+      "size_bytes": 87559
+    },
+    {
+      "period": "1983-04",
+      "path": "gistemp/1983-04.json",
+      "size_bytes": 88087
+    },
+    {
+      "period": "1983-05",
+      "path": "gistemp/1983-05.json",
+      "size_bytes": 87619
+    },
+    {
+      "period": "1983-06",
+      "path": "gistemp/1983-06.json",
+      "size_bytes": 89021
+    },
+    {
+      "period": "1983-07",
+      "path": "gistemp/1983-07.json",
+      "size_bytes": 89193
+    },
+    {
+      "period": "1983-08",
+      "path": "gistemp/1983-08.json",
+      "size_bytes": 87378
+    },
+    {
+      "period": "1983-09",
+      "path": "gistemp/1983-09.json",
+      "size_bytes": 86218
+    },
+    {
+      "period": "1983-10",
+      "path": "gistemp/1983-10.json",
+      "size_bytes": 87898
+    },
+    {
+      "period": "1983-11",
+      "path": "gistemp/1983-11.json",
+      "size_bytes": 88838
+    },
+    {
+      "period": "1983-12",
+      "path": "gistemp/1983-12.json",
+      "size_bytes": 88698
+    },
+    {
+      "period": "1984-01",
+      "path": "gistemp/1984-01.json",
+      "size_bytes": 87168
+    },
+    {
+      "period": "1984-02",
+      "path": "gistemp/1984-02.json",
+      "size_bytes": 88737
+    },
+    {
+      "period": "1984-03",
+      "path": "gistemp/1984-03.json",
+      "size_bytes": 87326
+    },
+    {
+      "period": "1984-04",
+      "path": "gistemp/1984-04.json",
+      "size_bytes": 89000
+    },
+    {
+      "period": "1984-05",
+      "path": "gistemp/1984-05.json",
+      "size_bytes": 86433
+    },
+    {
+      "period": "1984-06",
+      "path": "gistemp/1984-06.json",
+      "size_bytes": 88894
+    },
+    {
+      "period": "1984-07",
+      "path": "gistemp/1984-07.json",
+      "size_bytes": 87755
+    },
+    {
+      "period": "1984-08",
+      "path": "gistemp/1984-08.json",
+      "size_bytes": 87991
+    },
+    {
+      "period": "1984-09",
+      "path": "gistemp/1984-09.json",
+      "size_bytes": 87055
+    },
+    {
+      "period": "1984-10",
+      "path": "gistemp/1984-10.json",
+      "size_bytes": 88312
+    },
+    {
+      "period": "1984-11",
+      "path": "gistemp/1984-11.json",
+      "size_bytes": 87965
+    },
+    {
+      "period": "1984-12",
+      "path": "gistemp/1984-12.json",
+      "size_bytes": 87499
+    },
+    {
+      "period": "1985-01",
+      "path": "gistemp/1985-01.json",
+      "size_bytes": 86952
+    },
+    {
+      "period": "1985-02",
+      "path": "gistemp/1985-02.json",
+      "size_bytes": 88365
+    },
+    {
+      "period": "1985-03",
+      "path": "gistemp/1985-03.json",
+      "size_bytes": 87127
+    },
+    {
+      "period": "1985-04",
+      "path": "gistemp/1985-04.json",
+      "size_bytes": 88790
+    },
+    {
+      "period": "1985-05",
+      "path": "gistemp/1985-05.json",
+      "size_bytes": 88726
+    },
+    {
+      "period": "1985-06",
+      "path": "gistemp/1985-06.json",
+      "size_bytes": 88122
+    },
+    {
+      "period": "1985-07",
+      "path": "gistemp/1985-07.json",
+      "size_bytes": 89059
+    },
+    {
+      "period": "1985-08",
+      "path": "gistemp/1985-08.json",
+      "size_bytes": 88265
+    },
+    {
+      "period": "1985-09",
+      "path": "gistemp/1985-09.json",
+      "size_bytes": 88038
+    },
+    {
+      "period": "1985-10",
+      "path": "gistemp/1985-10.json",
+      "size_bytes": 88004
+    },
+    {
+      "period": "1985-11",
+      "path": "gistemp/1985-11.json",
+      "size_bytes": 89298
+    },
+    {
+      "period": "1985-12",
+      "path": "gistemp/1985-12.json",
+      "size_bytes": 89397
+    },
+    {
+      "period": "1986-01",
+      "path": "gistemp/1986-01.json",
+      "size_bytes": 88920
+    },
+    {
+      "period": "1986-02",
+      "path": "gistemp/1986-02.json",
+      "size_bytes": 86557
+    },
+    {
+      "period": "1986-03",
+      "path": "gistemp/1986-03.json",
+      "size_bytes": 87895
+    },
+    {
+      "period": "1986-04",
+      "path": "gistemp/1986-04.json",
+      "size_bytes": 87928
+    },
+    {
+      "period": "1986-05",
+      "path": "gistemp/1986-05.json",
+      "size_bytes": 87659
+    },
+    {
+      "period": "1986-06",
+      "path": "gistemp/1986-06.json",
+      "size_bytes": 89293
+    },
+    {
+      "period": "1986-07",
+      "path": "gistemp/1986-07.json",
+      "size_bytes": 88226
+    },
+    {
+      "period": "1986-08",
+      "path": "gistemp/1986-08.json",
+      "size_bytes": 88289
+    },
+    {
+      "period": "1986-09",
+      "path": "gistemp/1986-09.json",
+      "size_bytes": 89165
+    },
+    {
+      "period": "1986-10",
+      "path": "gistemp/1986-10.json",
+      "size_bytes": 87954
+    },
+    {
+      "period": "1986-11",
+      "path": "gistemp/1986-11.json",
+      "size_bytes": 88977
+    },
+    {
+      "period": "1986-12",
+      "path": "gistemp/1986-12.json",
+      "size_bytes": 87325
+    },
+    {
+      "period": "1987-01",
+      "path": "gistemp/1987-01.json",
+      "size_bytes": 86376
+    },
+    {
+      "period": "1987-02",
+      "path": "gistemp/1987-02.json",
+      "size_bytes": 88235
+    },
+    {
+      "period": "1987-03",
+      "path": "gistemp/1987-03.json",
+      "size_bytes": 88404
+    },
+    {
+      "period": "1987-04",
+      "path": "gistemp/1987-04.json",
+      "size_bytes": 87975
+    },
+    {
+      "period": "1987-05",
+      "path": "gistemp/1987-05.json",
+      "size_bytes": 88068
+    },
+    {
+      "period": "1987-06",
+      "path": "gistemp/1987-06.json",
+      "size_bytes": 87006
+    },
+    {
+      "period": "1987-07",
+      "path": "gistemp/1987-07.json",
+      "size_bytes": 86418
+    },
+    {
+      "period": "1987-08",
+      "path": "gistemp/1987-08.json",
+      "size_bytes": 87851
+    },
+    {
+      "period": "1987-09",
+      "path": "gistemp/1987-09.json",
+      "size_bytes": 87047
+    },
+    {
+      "period": "1987-10",
+      "path": "gistemp/1987-10.json",
+      "size_bytes": 88313
+    },
+    {
+      "period": "1987-11",
+      "path": "gistemp/1987-11.json",
+      "size_bytes": 88006
+    },
+    {
+      "period": "1987-12",
+      "path": "gistemp/1987-12.json",
+      "size_bytes": 87289
+    },
+    {
+      "period": "1988-01",
+      "path": "gistemp/1988-01.json",
+      "size_bytes": 86421
+    },
+    {
+      "period": "1988-02",
+      "path": "gistemp/1988-02.json",
+      "size_bytes": 86778
+    },
+    {
+      "period": "1988-03",
+      "path": "gistemp/1988-03.json",
+      "size_bytes": 86180
+    },
+    {
+      "period": "1988-04",
+      "path": "gistemp/1988-04.json",
+      "size_bytes": 85593
+    },
+    {
+      "period": "1988-05",
+      "path": "gistemp/1988-05.json",
+      "size_bytes": 85864
+    },
+    {
+      "period": "1988-06",
+      "path": "gistemp/1988-06.json",
+      "size_bytes": 85830
+    },
+    {
+      "period": "1988-07",
+      "path": "gistemp/1988-07.json",
+      "size_bytes": 86376
+    },
+    {
+      "period": "1988-08",
+      "path": "gistemp/1988-08.json",
+      "size_bytes": 86325
+    },
+    {
+      "period": "1988-09",
+      "path": "gistemp/1988-09.json",
+      "size_bytes": 86833
+    },
+    {
+      "period": "1988-10",
+      "path": "gistemp/1988-10.json",
+      "size_bytes": 87419
+    },
+    {
+      "period": "1988-11",
+      "path": "gistemp/1988-11.json",
+      "size_bytes": 87901
+    },
+    {
+      "period": "1988-12",
+      "path": "gistemp/1988-12.json",
+      "size_bytes": 89295
+    },
+    {
+      "period": "1989-01",
+      "path": "gistemp/1989-01.json",
+      "size_bytes": 89852
+    },
+    {
+      "period": "1989-02",
+      "path": "gistemp/1989-02.json",
+      "size_bytes": 89412
+    },
+    {
+      "period": "1989-03",
+      "path": "gistemp/1989-03.json",
+      "size_bytes": 88073
+    },
+    {
+      "period": "1989-04",
+      "path": "gistemp/1989-04.json",
+      "size_bytes": 87890
+    },
+    {
+      "period": "1989-05",
+      "path": "gistemp/1989-05.json",
+      "size_bytes": 88148
+    },
+    {
+      "period": "1989-06",
+      "path": "gistemp/1989-06.json",
+      "size_bytes": 87878
+    },
+    {
+      "period": "1989-07",
+      "path": "gistemp/1989-07.json",
+      "size_bytes": 86127
+    },
+    {
+      "period": "1989-08",
+      "path": "gistemp/1989-08.json",
+      "size_bytes": 87191
+    },
+    {
+      "period": "1989-09",
+      "path": "gistemp/1989-09.json",
+      "size_bytes": 86721
+    },
+    {
+      "period": "1989-10",
+      "path": "gistemp/1989-10.json",
+      "size_bytes": 87661
+    },
+    {
+      "period": "1989-11",
+      "path": "gistemp/1989-11.json",
+      "size_bytes": 87082
+    },
+    {
+      "period": "1989-12",
+      "path": "gistemp/1989-12.json",
+      "size_bytes": 86814
+    },
+    {
+      "period": "1990-01",
+      "path": "gistemp/1990-01.json",
+      "size_bytes": 85947
+    },
+    {
+      "period": "1990-02",
+      "path": "gistemp/1990-02.json",
+      "size_bytes": 87242
+    },
+    {
+      "period": "1990-03",
+      "path": "gistemp/1990-03.json",
+      "size_bytes": 85584
+    },
+    {
+      "period": "1990-04",
+      "path": "gistemp/1990-04.json",
+      "size_bytes": 85772
+    },
+    {
+      "period": "1990-05",
+      "path": "gistemp/1990-05.json",
+      "size_bytes": 85940
+    },
+    {
+      "period": "1990-06",
+      "path": "gistemp/1990-06.json",
+      "size_bytes": 85428
+    },
+    {
+      "period": "1990-07",
+      "path": "gistemp/1990-07.json",
+      "size_bytes": 84685
+    },
+    {
+      "period": "1990-08",
+      "path": "gistemp/1990-08.json",
+      "size_bytes": 86416
+    },
+    {
+      "period": "1990-09",
+      "path": "gistemp/1990-09.json",
+      "size_bytes": 87444
+    },
+    {
+      "period": "1990-10",
+      "path": "gistemp/1990-10.json",
+      "size_bytes": 86104
+    },
+    {
+      "period": "1990-11",
+      "path": "gistemp/1990-11.json",
+      "size_bytes": 86127
+    },
+    {
+      "period": "1990-12",
+      "path": "gistemp/1990-12.json",
+      "size_bytes": 86462
+    },
+    {
+      "period": "1991-01",
+      "path": "gistemp/1991-01.json",
+      "size_bytes": 86634
+    },
+    {
+      "period": "1991-02",
+      "path": "gistemp/1991-02.json",
+      "size_bytes": 86531
+    },
+    {
+      "period": "1991-03",
+      "path": "gistemp/1991-03.json",
+      "size_bytes": 87058
+    },
+    {
+      "period": "1991-04",
+      "path": "gistemp/1991-04.json",
+      "size_bytes": 86146
+    },
+    {
+      "period": "1991-05",
+      "path": "gistemp/1991-05.json",
+      "size_bytes": 86208
+    },
+    {
+      "period": "1991-06",
+      "path": "gistemp/1991-06.json",
+      "size_bytes": 84323
+    },
+    {
+      "period": "1991-07",
+      "path": "gistemp/1991-07.json",
+      "size_bytes": 84922
+    },
+    {
+      "period": "1991-08",
+      "path": "gistemp/1991-08.json",
+      "size_bytes": 84036
+    },
+    {
+      "period": "1991-09",
+      "path": "gistemp/1991-09.json",
+      "size_bytes": 85405
+    },
+    {
+      "period": "1991-10",
+      "path": "gistemp/1991-10.json",
+      "size_bytes": 88222
+    },
+    {
+      "period": "1991-11",
+      "path": "gistemp/1991-11.json",
+      "size_bytes": 87550
+    },
+    {
+      "period": "1991-12",
+      "path": "gistemp/1991-12.json",
+      "size_bytes": 86659
+    },
+    {
+      "period": "1992-01",
+      "path": "gistemp/1992-01.json",
+      "size_bytes": 88494
+    },
+    {
+      "period": "1992-02",
+      "path": "gistemp/1992-02.json",
+      "size_bytes": 88700
+    },
+    {
+      "period": "1992-03",
+      "path": "gistemp/1992-03.json",
+      "size_bytes": 87016
+    },
+    {
+      "period": "1992-04",
+      "path": "gistemp/1992-04.json",
+      "size_bytes": 86964
+    },
+    {
+      "period": "1992-05",
+      "path": "gistemp/1992-05.json",
+      "size_bytes": 87952
+    },
+    {
+      "period": "1992-06",
+      "path": "gistemp/1992-06.json",
+      "size_bytes": 87822
+    },
+    {
+      "period": "1992-07",
+      "path": "gistemp/1992-07.json",
+      "size_bytes": 88340
+    },
+    {
+      "period": "1992-08",
+      "path": "gistemp/1992-08.json",
+      "size_bytes": 89947
+    },
+    {
+      "period": "1992-09",
+      "path": "gistemp/1992-09.json",
+      "size_bytes": 88209
+    },
+    {
+      "period": "1992-10",
+      "path": "gistemp/1992-10.json",
+      "size_bytes": 88132
+    },
+    {
+      "period": "1992-11",
+      "path": "gistemp/1992-11.json",
+      "size_bytes": 89292
+    },
+    {
+      "period": "1992-12",
+      "path": "gistemp/1992-12.json",
+      "size_bytes": 88508
+    },
+    {
+      "period": "1993-01",
+      "path": "gistemp/1993-01.json",
+      "size_bytes": 88099
+    },
+    {
+      "period": "1993-02",
+      "path": "gistemp/1993-02.json",
+      "size_bytes": 87716
+    },
+    {
+      "period": "1993-03",
+      "path": "gistemp/1993-03.json",
+      "size_bytes": 86955
+    },
+    {
+      "period": "1993-04",
+      "path": "gistemp/1993-04.json",
+      "size_bytes": 87784
+    },
+    {
+      "period": "1993-05",
+      "path": "gistemp/1993-05.json",
+      "size_bytes": 87333
+    },
+    {
+      "period": "1993-06",
+      "path": "gistemp/1993-06.json",
+      "size_bytes": 87505
+    },
+    {
+      "period": "1993-07",
+      "path": "gistemp/1993-07.json",
+      "size_bytes": 86897
+    },
+    {
+      "period": "1993-08",
+      "path": "gistemp/1993-08.json",
+      "size_bytes": 89113
+    },
+    {
+      "period": "1993-09",
+      "path": "gistemp/1993-09.json",
+      "size_bytes": 88071
+    },
+    {
+      "period": "1993-10",
+      "path": "gistemp/1993-10.json",
+      "size_bytes": 88752
+    },
+    {
+      "period": "1993-11",
+      "path": "gistemp/1993-11.json",
+      "size_bytes": 88446
+    },
+    {
+      "period": "1993-12",
+      "path": "gistemp/1993-12.json",
+      "size_bytes": 88929
+    },
+    {
+      "period": "1994-01",
+      "path": "gistemp/1994-01.json",
+      "size_bytes": 89239
+    },
+    {
+      "period": "1994-02",
+      "path": "gistemp/1994-02.json",
+      "size_bytes": 88301
+    },
+    {
+      "period": "1994-03",
+      "path": "gistemp/1994-03.json",
+      "size_bytes": 87760
+    },
+    {
+      "period": "1994-04",
+      "path": "gistemp/1994-04.json",
+      "size_bytes": 85868
+    },
+    {
+      "period": "1994-05",
+      "path": "gistemp/1994-05.json",
+      "size_bytes": 87864
+    },
+    {
+      "period": "1994-06",
+      "path": "gistemp/1994-06.json",
+      "size_bytes": 85382
+    },
+    {
+      "period": "1994-07",
+      "path": "gistemp/1994-07.json",
+      "size_bytes": 87017
+    },
+    {
+      "period": "1994-08",
+      "path": "gistemp/1994-08.json",
+      "size_bytes": 88074
+    },
+    {
+      "period": "1994-09",
+      "path": "gistemp/1994-09.json",
+      "size_bytes": 87520
+    },
+    {
+      "period": "1994-10",
+      "path": "gistemp/1994-10.json",
+      "size_bytes": 86975
+    },
+    {
+      "period": "1994-11",
+      "path": "gistemp/1994-11.json",
+      "size_bytes": 87011
+    },
+    {
+      "period": "1994-12",
+      "path": "gistemp/1994-12.json",
+      "size_bytes": 86761
+    },
+    {
+      "period": "1995-01",
+      "path": "gistemp/1995-01.json",
+      "size_bytes": 88018
+    },
+    {
+      "period": "1995-02",
+      "path": "gistemp/1995-02.json",
+      "size_bytes": 84767
+    },
+    {
+      "period": "1995-03",
+      "path": "gistemp/1995-03.json",
+      "size_bytes": 85010
+    },
+    {
+      "period": "1995-04",
+      "path": "gistemp/1995-04.json",
+      "size_bytes": 86792
+    },
+    {
+      "period": "1995-05",
+      "path": "gistemp/1995-05.json",
+      "size_bytes": 87287
+    },
+    {
+      "period": "1995-06",
+      "path": "gistemp/1995-06.json",
+      "size_bytes": 84922
+    },
+    {
+      "period": "1995-07",
+      "path": "gistemp/1995-07.json",
+      "size_bytes": 86033
+    },
+    {
+      "period": "1995-08",
+      "path": "gistemp/1995-08.json",
+      "size_bytes": 86321
+    },
+    {
+      "period": "1995-09",
+      "path": "gistemp/1995-09.json",
+      "size_bytes": 85979
+    },
+    {
+      "period": "1995-10",
+      "path": "gistemp/1995-10.json",
+      "size_bytes": 85332
+    },
+    {
+      "period": "1995-11",
+      "path": "gistemp/1995-11.json",
+      "size_bytes": 85385
+    },
+    {
+      "period": "1995-12",
+      "path": "gistemp/1995-12.json",
+      "size_bytes": 88109
+    },
+    {
+      "period": "1996-01",
+      "path": "gistemp/1996-01.json",
+      "size_bytes": 88021
+    },
+    {
+      "period": "1996-02",
+      "path": "gistemp/1996-02.json",
+      "size_bytes": 85201
+    },
+    {
+      "period": "1996-03",
+      "path": "gistemp/1996-03.json",
+      "size_bytes": 86882
+    },
+    {
+      "period": "1996-04",
+      "path": "gistemp/1996-04.json",
+      "size_bytes": 85912
+    },
+    {
+      "period": "1996-05",
+      "path": "gistemp/1996-05.json",
+      "size_bytes": 87818
+    },
+    {
+      "period": "1996-06",
+      "path": "gistemp/1996-06.json",
+      "size_bytes": 88476
+    },
+    {
+      "period": "1996-07",
+      "path": "gistemp/1996-07.json",
+      "size_bytes": 86571
+    },
+    {
+      "period": "1996-08",
+      "path": "gistemp/1996-08.json",
+      "size_bytes": 86828
+    },
+    {
+      "period": "1996-09",
+      "path": "gistemp/1996-09.json",
+      "size_bytes": 87152
+    },
+    {
+      "period": "1996-10",
+      "path": "gistemp/1996-10.json",
+      "size_bytes": 87705
+    },
+    {
+      "period": "1996-11",
+      "path": "gistemp/1996-11.json",
+      "size_bytes": 85546
+    },
+    {
+      "period": "1996-12",
+      "path": "gistemp/1996-12.json",
+      "size_bytes": 86109
+    },
+    {
+      "period": "1997-01",
+      "path": "gistemp/1997-01.json",
+      "size_bytes": 88332
+    },
+    {
+      "period": "1997-02",
+      "path": "gistemp/1997-02.json",
+      "size_bytes": 88106
+    },
+    {
+      "period": "1997-03",
+      "path": "gistemp/1997-03.json",
+      "size_bytes": 86953
+    },
+    {
+      "period": "1997-04",
+      "path": "gistemp/1997-04.json",
+      "size_bytes": 87632
+    },
+    {
+      "period": "1997-05",
+      "path": "gistemp/1997-05.json",
+      "size_bytes": 86436
+    },
+    {
+      "period": "1997-06",
+      "path": "gistemp/1997-06.json",
+      "size_bytes": 85567
+    },
+    {
+      "period": "1997-07",
+      "path": "gistemp/1997-07.json",
+      "size_bytes": 88058
+    },
+    {
+      "period": "1997-08",
+      "path": "gistemp/1997-08.json",
+      "size_bytes": 87839
+    },
+    {
+      "period": "1997-09",
+      "path": "gistemp/1997-09.json",
+      "size_bytes": 85885
+    },
+    {
+      "period": "1997-10",
+      "path": "gistemp/1997-10.json",
+      "size_bytes": 86532
+    },
+    {
+      "period": "1997-11",
+      "path": "gistemp/1997-11.json",
+      "size_bytes": 86059
+    },
+    {
+      "period": "1997-12",
+      "path": "gistemp/1997-12.json",
+      "size_bytes": 85716
+    },
+    {
+      "period": "1998-01",
+      "path": "gistemp/1998-01.json",
+      "size_bytes": 85891
+    },
+    {
+      "period": "1998-02",
+      "path": "gistemp/1998-02.json",
+      "size_bytes": 86648
+    },
+    {
+      "period": "1998-03",
+      "path": "gistemp/1998-03.json",
+      "size_bytes": 85849
+    },
+    {
+      "period": "1998-04",
+      "path": "gistemp/1998-04.json",
+      "size_bytes": 87217
+    },
+    {
+      "period": "1998-05",
+      "path": "gistemp/1998-05.json",
+      "size_bytes": 87070
+    },
+    {
+      "period": "1998-06",
+      "path": "gistemp/1998-06.json",
+      "size_bytes": 84411
+    },
+    {
+      "period": "1998-07",
+      "path": "gistemp/1998-07.json",
+      "size_bytes": 84602
+    },
+    {
+      "period": "1998-08",
+      "path": "gistemp/1998-08.json",
+      "size_bytes": 85629
+    },
+    {
+      "period": "1998-09",
+      "path": "gistemp/1998-09.json",
+      "size_bytes": 87338
+    },
+    {
+      "period": "1998-10",
+      "path": "gistemp/1998-10.json",
+      "size_bytes": 87076
+    },
+    {
+      "period": "1998-11",
+      "path": "gistemp/1998-11.json",
+      "size_bytes": 86083
+    },
+    {
+      "period": "1998-12",
+      "path": "gistemp/1998-12.json",
+      "size_bytes": 87878
+    },
+    {
+      "period": "1999-01",
+      "path": "gistemp/1999-01.json",
+      "size_bytes": 86476
+    },
+    {
+      "period": "1999-02",
+      "path": "gistemp/1999-02.json",
+      "size_bytes": 87829
+    },
+    {
+      "period": "1999-03",
+      "path": "gistemp/1999-03.json",
+      "size_bytes": 87686
+    },
+    {
+      "period": "1999-04",
+      "path": "gistemp/1999-04.json",
+      "size_bytes": 87665
+    },
+    {
+      "period": "1999-05",
+      "path": "gistemp/1999-05.json",
+      "size_bytes": 88915
+    },
+    {
+      "period": "1999-06",
+      "path": "gistemp/1999-06.json",
+      "size_bytes": 87753
+    },
+    {
+      "period": "1999-07",
+      "path": "gistemp/1999-07.json",
+      "size_bytes": 87101
+    },
+    {
+      "period": "1999-08",
+      "path": "gistemp/1999-08.json",
+      "size_bytes": 87476
+    },
+    {
+      "period": "1999-09",
+      "path": "gistemp/1999-09.json",
+      "size_bytes": 86534
+    },
+    {
+      "period": "1999-10",
+      "path": "gistemp/1999-10.json",
+      "size_bytes": 86905
+    },
+    {
+      "period": "1999-11",
+      "path": "gistemp/1999-11.json",
+      "size_bytes": 86987
+    },
+    {
+      "period": "1999-12",
+      "path": "gistemp/1999-12.json",
+      "size_bytes": 87712
+    },
+    {
+      "period": "2000-01",
+      "path": "gistemp/2000-01.json",
+      "size_bytes": 89292
+    },
+    {
+      "period": "2000-02",
+      "path": "gistemp/2000-02.json",
+      "size_bytes": 87093
+    },
+    {
+      "period": "2000-03",
+      "path": "gistemp/2000-03.json",
+      "size_bytes": 86575
+    },
+    {
+      "period": "2000-04",
+      "path": "gistemp/2000-04.json",
+      "size_bytes": 87468
+    },
+    {
+      "period": "2000-05",
+      "path": "gistemp/2000-05.json",
+      "size_bytes": 88586
+    },
+    {
+      "period": "2000-06",
+      "path": "gistemp/2000-06.json",
+      "size_bytes": 87240
+    },
+    {
+      "period": "2000-07",
+      "path": "gistemp/2000-07.json",
+      "size_bytes": 86812
+    },
+    {
+      "period": "2000-08",
+      "path": "gistemp/2000-08.json",
+      "size_bytes": 86339
+    },
+    {
+      "period": "2000-09",
+      "path": "gistemp/2000-09.json",
+      "size_bytes": 87141
+    },
+    {
+      "period": "2000-10",
+      "path": "gistemp/2000-10.json",
+      "size_bytes": 87278
+    },
+    {
+      "period": "2000-11",
+      "path": "gistemp/2000-11.json",
+      "size_bytes": 86443
+    },
+    {
+      "period": "2000-12",
+      "path": "gistemp/2000-12.json",
+      "size_bytes": 87880
+    },
+    {
+      "period": "2001-01",
+      "path": "gistemp/2001-01.json",
+      "size_bytes": 87496
+    },
+    {
+      "period": "2001-02",
+      "path": "gistemp/2001-02.json",
+      "size_bytes": 86508
+    },
+    {
+      "period": "2001-03",
+      "path": "gistemp/2001-03.json",
+      "size_bytes": 87665
+    },
+    {
+      "period": "2001-04",
+      "path": "gistemp/2001-04.json",
+      "size_bytes": 86694
+    },
+    {
+      "period": "2001-05",
+      "path": "gistemp/2001-05.json",
+      "size_bytes": 87026
+    },
+    {
+      "period": "2001-06",
+      "path": "gistemp/2001-06.json",
+      "size_bytes": 85066
+    },
+    {
+      "period": "2001-07",
+      "path": "gistemp/2001-07.json",
+      "size_bytes": 83959
+    },
+    {
+      "period": "2001-08",
+      "path": "gistemp/2001-08.json",
+      "size_bytes": 85913
+    },
+    {
+      "period": "2001-09",
+      "path": "gistemp/2001-09.json",
+      "size_bytes": 84818
+    },
+    {
+      "period": "2001-10",
+      "path": "gistemp/2001-10.json",
+      "size_bytes": 85577
+    },
+    {
+      "period": "2001-11",
+      "path": "gistemp/2001-11.json",
+      "size_bytes": 84553
+    },
+    {
+      "period": "2001-12",
+      "path": "gistemp/2001-12.json",
+      "size_bytes": 85689
+    },
+    {
+      "period": "2002-01",
+      "path": "gistemp/2002-01.json",
+      "size_bytes": 84979
+    },
+    {
+      "period": "2002-02",
+      "path": "gistemp/2002-02.json",
+      "size_bytes": 86515
+    },
+    {
+      "period": "2002-03",
+      "path": "gistemp/2002-03.json",
+      "size_bytes": 84439
+    },
+    {
+      "period": "2002-04",
+      "path": "gistemp/2002-04.json",
+      "size_bytes": 85903
+    },
+    {
+      "period": "2002-05",
+      "path": "gistemp/2002-05.json",
+      "size_bytes": 84134
+    },
+    {
+      "period": "2002-06",
+      "path": "gistemp/2002-06.json",
+      "size_bytes": 84619
+    },
+    {
+      "period": "2002-07",
+      "path": "gistemp/2002-07.json",
+      "size_bytes": 84598
+    },
+    {
+      "period": "2002-08",
+      "path": "gistemp/2002-08.json",
+      "size_bytes": 84627
+    },
+    {
+      "period": "2002-09",
+      "path": "gistemp/2002-09.json",
+      "size_bytes": 84174
+    },
+    {
+      "period": "2002-10",
+      "path": "gistemp/2002-10.json",
+      "size_bytes": 85049
+    },
+    {
+      "period": "2002-11",
+      "path": "gistemp/2002-11.json",
+      "size_bytes": 86517
+    },
+    {
+      "period": "2002-12",
+      "path": "gistemp/2002-12.json",
+      "size_bytes": 86933
+    },
+    {
+      "period": "2003-01",
+      "path": "gistemp/2003-01.json",
+      "size_bytes": 84361
+    },
+    {
+      "period": "2003-02",
+      "path": "gistemp/2003-02.json",
+      "size_bytes": 85110
+    },
+    {
+      "period": "2003-03",
+      "path": "gistemp/2003-03.json",
+      "size_bytes": 85331
+    },
+    {
+      "period": "2003-04",
+      "path": "gistemp/2003-04.json",
+      "size_bytes": 84024
+    },
+    {
+      "period": "2003-05",
+      "path": "gistemp/2003-05.json",
+      "size_bytes": 85114
+    },
+    {
+      "period": "2003-06",
+      "path": "gistemp/2003-06.json",
+      "size_bytes": 85796
+    },
+    {
+      "period": "2003-07",
+      "path": "gistemp/2003-07.json",
+      "size_bytes": 85476
+    },
+    {
+      "period": "2003-08",
+      "path": "gistemp/2003-08.json",
+      "size_bytes": 84728
+    },
+    {
+      "period": "2003-09",
+      "path": "gistemp/2003-09.json",
+      "size_bytes": 84417
+    },
+    {
+      "period": "2003-10",
+      "path": "gistemp/2003-10.json",
+      "size_bytes": 84395
+    },
+    {
+      "period": "2003-11",
+      "path": "gistemp/2003-11.json",
+      "size_bytes": 86663
+    },
+    {
+      "period": "2003-12",
+      "path": "gistemp/2003-12.json",
+      "size_bytes": 83335
+    },
+    {
+      "period": "2004-01",
+      "path": "gistemp/2004-01.json",
+      "size_bytes": 85489
+    },
+    {
+      "period": "2004-02",
+      "path": "gistemp/2004-02.json",
+      "size_bytes": 85004
+    },
+    {
+      "period": "2004-03",
+      "path": "gistemp/2004-03.json",
+      "size_bytes": 85863
+    },
+    {
+      "period": "2004-04",
+      "path": "gistemp/2004-04.json",
+      "size_bytes": 84547
+    },
+    {
+      "period": "2004-05",
+      "path": "gistemp/2004-05.json",
+      "size_bytes": 87190
+    },
+    {
+      "period": "2004-06",
+      "path": "gistemp/2004-06.json",
+      "size_bytes": 85489
+    },
+    {
+      "period": "2004-07",
+      "path": "gistemp/2004-07.json",
+      "size_bytes": 87361
+    },
+    {
+      "period": "2004-08",
+      "path": "gistemp/2004-08.json",
+      "size_bytes": 85919
+    },
+    {
+      "period": "2004-09",
+      "path": "gistemp/2004-09.json",
+      "size_bytes": 86296
+    },
+    {
+      "period": "2004-10",
+      "path": "gistemp/2004-10.json",
+      "size_bytes": 84812
+    },
+    {
+      "period": "2004-11",
+      "path": "gistemp/2004-11.json",
+      "size_bytes": 85604
+    },
+    {
+      "period": "2004-12",
+      "path": "gistemp/2004-12.json",
+      "size_bytes": 85850
+    },
+    {
+      "period": "2005-01",
+      "path": "gistemp/2005-01.json",
+      "size_bytes": 84609
+    },
+    {
+      "period": "2005-02",
+      "path": "gistemp/2005-02.json",
+      "size_bytes": 86125
+    },
+    {
+      "period": "2005-03",
+      "path": "gistemp/2005-03.json",
+      "size_bytes": 84480
+    },
+    {
+      "period": "2005-04",
+      "path": "gistemp/2005-04.json",
+      "size_bytes": 84595
+    },
+    {
+      "period": "2005-05",
+      "path": "gistemp/2005-05.json",
+      "size_bytes": 85372
+    },
+    {
+      "period": "2005-06",
+      "path": "gistemp/2005-06.json",
+      "size_bytes": 85130
+    },
+    {
+      "period": "2005-07",
+      "path": "gistemp/2005-07.json",
+      "size_bytes": 85058
+    },
+    {
+      "period": "2005-08",
+      "path": "gistemp/2005-08.json",
+      "size_bytes": 85712
+    },
+    {
+      "period": "2005-09",
+      "path": "gistemp/2005-09.json",
+      "size_bytes": 83786
+    },
+    {
+      "period": "2005-10",
+      "path": "gistemp/2005-10.json",
+      "size_bytes": 84109
+    },
+    {
+      "period": "2005-11",
+      "path": "gistemp/2005-11.json",
+      "size_bytes": 84623
+    },
+    {
+      "period": "2005-12",
+      "path": "gistemp/2005-12.json",
+      "size_bytes": 84750
+    },
+    {
+      "period": "2006-01",
+      "path": "gistemp/2006-01.json",
+      "size_bytes": 85490
+    },
+    {
+      "period": "2006-02",
+      "path": "gistemp/2006-02.json",
+      "size_bytes": 85176
+    },
+    {
+      "period": "2006-03",
+      "path": "gistemp/2006-03.json",
+      "size_bytes": 85332
+    },
+    {
+      "period": "2006-04",
+      "path": "gistemp/2006-04.json",
+      "size_bytes": 86104
+    },
+    {
+      "period": "2006-05",
+      "path": "gistemp/2006-05.json",
+      "size_bytes": 85861
+    },
+    {
+      "period": "2006-06",
+      "path": "gistemp/2006-06.json",
+      "size_bytes": 83859
+    },
+    {
+      "period": "2006-07",
+      "path": "gistemp/2006-07.json",
+      "size_bytes": 85393
+    },
+    {
+      "period": "2006-08",
+      "path": "gistemp/2006-08.json",
+      "size_bytes": 85023
+    },
+    {
+      "period": "2006-09",
+      "path": "gistemp/2006-09.json",
+      "size_bytes": 84191
+    },
+    {
+      "period": "2006-10",
+      "path": "gistemp/2006-10.json",
+      "size_bytes": 85915
+    },
+    {
+      "period": "2006-11",
+      "path": "gistemp/2006-11.json",
+      "size_bytes": 84558
+    },
+    {
+      "period": "2006-12",
+      "path": "gistemp/2006-12.json",
+      "size_bytes": 86101
+    },
+    {
+      "period": "2007-01",
+      "path": "gistemp/2007-01.json",
+      "size_bytes": 84491
+    },
+    {
+      "period": "2007-02",
+      "path": "gistemp/2007-02.json",
+      "size_bytes": 86229
+    },
+    {
+      "period": "2007-03",
+      "path": "gistemp/2007-03.json",
+      "size_bytes": 84719
+    },
+    {
+      "period": "2007-04",
+      "path": "gistemp/2007-04.json",
+      "size_bytes": 85434
+    },
+    {
+      "period": "2007-05",
+      "path": "gistemp/2007-05.json",
+      "size_bytes": 85605
+    },
+    {
+      "period": "2007-06",
+      "path": "gistemp/2007-06.json",
+      "size_bytes": 84469
+    },
+    {
+      "period": "2007-07",
+      "path": "gistemp/2007-07.json",
+      "size_bytes": 85296
+    },
+    {
+      "period": "2007-08",
+      "path": "gistemp/2007-08.json",
+      "size_bytes": 84344
+    },
+    {
+      "period": "2007-09",
+      "path": "gistemp/2007-09.json",
+      "size_bytes": 84679
+    },
+    {
+      "period": "2007-10",
+      "path": "gistemp/2007-10.json",
+      "size_bytes": 85770
+    },
+    {
+      "period": "2007-11",
+      "path": "gistemp/2007-11.json",
+      "size_bytes": 85336
+    },
+    {
+      "period": "2007-12",
+      "path": "gistemp/2007-12.json",
+      "size_bytes": 85169
+    },
+    {
+      "period": "2008-01",
+      "path": "gistemp/2008-01.json",
+      "size_bytes": 87016
+    },
+    {
+      "period": "2008-02",
+      "path": "gistemp/2008-02.json",
+      "size_bytes": 87744
+    },
+    {
+      "period": "2008-03",
+      "path": "gistemp/2008-03.json",
+      "size_bytes": 86047
+    },
+    {
+      "period": "2008-04",
+      "path": "gistemp/2008-04.json",
+      "size_bytes": 85290
+    },
+    {
+      "period": "2008-05",
+      "path": "gistemp/2008-05.json",
+      "size_bytes": 86034
+    },
+    {
+      "period": "2008-06",
+      "path": "gistemp/2008-06.json",
+      "size_bytes": 85493
+    },
+    {
+      "period": "2008-07",
+      "path": "gistemp/2008-07.json",
+      "size_bytes": 84775
+    },
+    {
+      "period": "2008-08",
+      "path": "gistemp/2008-08.json",
+      "size_bytes": 86280
+    },
+    {
+      "period": "2008-09",
+      "path": "gistemp/2008-09.json",
+      "size_bytes": 84379
+    },
+    {
+      "period": "2008-10",
+      "path": "gistemp/2008-10.json",
+      "size_bytes": 85139
+    },
+    {
+      "period": "2008-11",
+      "path": "gistemp/2008-11.json",
+      "size_bytes": 85331
+    },
+    {
+      "period": "2008-12",
+      "path": "gistemp/2008-12.json",
+      "size_bytes": 84060
+    },
+    {
+      "period": "2009-01",
+      "path": "gistemp/2009-01.json",
+      "size_bytes": 85231
+    },
+    {
+      "period": "2009-02",
+      "path": "gistemp/2009-02.json",
+      "size_bytes": 86073
+    },
+    {
+      "period": "2009-03",
+      "path": "gistemp/2009-03.json",
+      "size_bytes": 86440
+    },
+    {
+      "period": "2009-04",
+      "path": "gistemp/2009-04.json",
+      "size_bytes": 86410
+    },
+    {
+      "period": "2009-05",
+      "path": "gistemp/2009-05.json",
+      "size_bytes": 84212
+    },
+    {
+      "period": "2009-06",
+      "path": "gistemp/2009-06.json",
+      "size_bytes": 84325
+    },
+    {
+      "period": "2009-07",
+      "path": "gistemp/2009-07.json",
+      "size_bytes": 84357
+    },
+    {
+      "period": "2009-08",
+      "path": "gistemp/2009-08.json",
+      "size_bytes": 83885
+    },
+    {
+      "period": "2009-09",
+      "path": "gistemp/2009-09.json",
+      "size_bytes": 84597
+    },
+    {
+      "period": "2009-10",
+      "path": "gistemp/2009-10.json",
+      "size_bytes": 84945
+    },
+    {
+      "period": "2009-11",
+      "path": "gistemp/2009-11.json",
+      "size_bytes": 84605
+    },
+    {
+      "period": "2009-12",
+      "path": "gistemp/2009-12.json",
+      "size_bytes": 85184
+    },
+    {
+      "period": "2010-01",
+      "path": "gistemp/2010-01.json",
+      "size_bytes": 84276
+    },
+    {
+      "period": "2010-02",
+      "path": "gistemp/2010-02.json",
+      "size_bytes": 84723
+    },
+    {
+      "period": "2010-03",
+      "path": "gistemp/2010-03.json",
+      "size_bytes": 84500
+    },
+    {
+      "period": "2010-04",
+      "path": "gistemp/2010-04.json",
+      "size_bytes": 85793
+    },
+    {
+      "period": "2010-05",
+      "path": "gistemp/2010-05.json",
+      "size_bytes": 84213
+    },
+    {
+      "period": "2010-06",
+      "path": "gistemp/2010-06.json",
+      "size_bytes": 85900
+    },
+    {
+      "period": "2010-07",
+      "path": "gistemp/2010-07.json",
+      "size_bytes": 86685
+    },
+    {
+      "period": "2010-08",
+      "path": "gistemp/2010-08.json",
+      "size_bytes": 85315
+    },
+    {
+      "period": "2010-09",
+      "path": "gistemp/2010-09.json",
+      "size_bytes": 85677
+    },
+    {
+      "period": "2010-10",
+      "path": "gistemp/2010-10.json",
+      "size_bytes": 84318
+    },
+    {
+      "period": "2010-11",
+      "path": "gistemp/2010-11.json",
+      "size_bytes": 84647
+    },
+    {
+      "period": "2010-12",
+      "path": "gistemp/2010-12.json",
+      "size_bytes": 86829
+    },
+    {
+      "period": "2011-01",
+      "path": "gistemp/2011-01.json",
+      "size_bytes": 85796
+    },
+    {
+      "period": "2011-02",
+      "path": "gistemp/2011-02.json",
+      "size_bytes": 86494
+    },
+    {
+      "period": "2011-03",
+      "path": "gistemp/2011-03.json",
+      "size_bytes": 86322
+    },
+    {
+      "period": "2011-04",
+      "path": "gistemp/2011-04.json",
+      "size_bytes": 86856
+    },
+    {
+      "period": "2011-05",
+      "path": "gistemp/2011-05.json",
+      "size_bytes": 86307
+    },
+    {
+      "period": "2011-06",
+      "path": "gistemp/2011-06.json",
+      "size_bytes": 85655
+    },
+    {
+      "period": "2011-07",
+      "path": "gistemp/2011-07.json",
+      "size_bytes": 84856
+    },
+    {
+      "period": "2011-08",
+      "path": "gistemp/2011-08.json",
+      "size_bytes": 84619
+    },
+    {
+      "period": "2011-09",
+      "path": "gistemp/2011-09.json",
+      "size_bytes": 86037
+    },
+    {
+      "period": "2011-10",
+      "path": "gistemp/2011-10.json",
+      "size_bytes": 84446
+    },
+    {
+      "period": "2011-11",
+      "path": "gistemp/2011-11.json",
+      "size_bytes": 85685
+    },
+    {
+      "period": "2011-12",
+      "path": "gistemp/2011-12.json",
+      "size_bytes": 85794
+    },
+    {
+      "period": "2012-01",
+      "path": "gistemp/2012-01.json",
+      "size_bytes": 87631
+    },
+    {
+      "period": "2012-02",
+      "path": "gistemp/2012-02.json",
+      "size_bytes": 85749
+    },
+    {
+      "period": "2012-03",
+      "path": "gistemp/2012-03.json",
+      "size_bytes": 86496
+    },
+    {
+      "period": "2012-04",
+      "path": "gistemp/2012-04.json",
+      "size_bytes": 85469
+    },
+    {
+      "period": "2012-05",
+      "path": "gistemp/2012-05.json",
+      "size_bytes": 84429
+    },
+    {
+      "period": "2012-06",
+      "path": "gistemp/2012-06.json",
+      "size_bytes": 86140
+    },
+    {
+      "period": "2012-07",
+      "path": "gistemp/2012-07.json",
+      "size_bytes": 85885
+    },
+    {
+      "period": "2012-08",
+      "path": "gistemp/2012-08.json",
+      "size_bytes": 84595
+    },
+    {
+      "period": "2012-09",
+      "path": "gistemp/2012-09.json",
+      "size_bytes": 85124
+    },
+    {
+      "period": "2012-10",
+      "path": "gistemp/2012-10.json",
+      "size_bytes": 82778
+    },
+    {
+      "period": "2012-11",
+      "path": "gistemp/2012-11.json",
+      "size_bytes": 84393
+    },
+    {
+      "period": "2012-12",
+      "path": "gistemp/2012-12.json",
+      "size_bytes": 84352
+    },
+    {
+      "period": "2013-01",
+      "path": "gistemp/2013-01.json",
+      "size_bytes": 84115
+    },
+    {
+      "period": "2013-02",
+      "path": "gistemp/2013-02.json",
+      "size_bytes": 86566
+    },
+    {
+      "period": "2013-03",
+      "path": "gistemp/2013-03.json",
+      "size_bytes": 85144
+    },
+    {
+      "period": "2013-04",
+      "path": "gistemp/2013-04.json",
+      "size_bytes": 85439
+    },
+    {
+      "period": "2013-05",
+      "path": "gistemp/2013-05.json",
+      "size_bytes": 85754
+    },
+    {
+      "period": "2013-06",
+      "path": "gistemp/2013-06.json",
+      "size_bytes": 82408
+    },
+    {
+      "period": "2013-07",
+      "path": "gistemp/2013-07.json",
+      "size_bytes": 85098
+    },
+    {
+      "period": "2013-08",
+      "path": "gistemp/2013-08.json",
+      "size_bytes": 84377
+    },
+    {
+      "period": "2013-09",
+      "path": "gistemp/2013-09.json",
+      "size_bytes": 84016
+    },
+    {
+      "period": "2013-10",
+      "path": "gistemp/2013-10.json",
+      "size_bytes": 84159
+    },
+    {
+      "period": "2013-11",
+      "path": "gistemp/2013-11.json",
+      "size_bytes": 84132
+    },
+    {
+      "period": "2013-12",
+      "path": "gistemp/2013-12.json",
+      "size_bytes": 84988
+    },
+    {
+      "period": "2014-01",
+      "path": "gistemp/2014-01.json",
+      "size_bytes": 85032
+    },
+    {
+      "period": "2014-02",
+      "path": "gistemp/2014-02.json",
+      "size_bytes": 86571
+    },
+    {
+      "period": "2014-03",
+      "path": "gistemp/2014-03.json",
+      "size_bytes": 86117
+    },
+    {
+      "period": "2014-04",
+      "path": "gistemp/2014-04.json",
+      "size_bytes": 84876
+    },
+    {
+      "period": "2014-05",
+      "path": "gistemp/2014-05.json",
+      "size_bytes": 82970
+    },
+    {
+      "period": "2014-06",
+      "path": "gistemp/2014-06.json",
+      "size_bytes": 85572
+    },
+    {
+      "period": "2014-07",
+      "path": "gistemp/2014-07.json",
+      "size_bytes": 86648
+    },
+    {
+      "period": "2014-08",
+      "path": "gistemp/2014-08.json",
+      "size_bytes": 83128
+    },
+    {
+      "period": "2014-09",
+      "path": "gistemp/2014-09.json",
+      "size_bytes": 83772
+    },
+    {
+      "period": "2014-10",
+      "path": "gistemp/2014-10.json",
+      "size_bytes": 84518
+    },
+    {
+      "period": "2014-11",
+      "path": "gistemp/2014-11.json",
+      "size_bytes": 84878
+    },
+    {
+      "period": "2014-12",
+      "path": "gistemp/2014-12.json",
+      "size_bytes": 84234
+    },
+    {
+      "period": "2015-01",
+      "path": "gistemp/2015-01.json",
+      "size_bytes": 85667
+    },
+    {
+      "period": "2015-02",
+      "path": "gistemp/2015-02.json",
+      "size_bytes": 84666
+    },
+    {
+      "period": "2015-03",
+      "path": "gistemp/2015-03.json",
+      "size_bytes": 83477
+    },
+    {
+      "period": "2015-04",
+      "path": "gistemp/2015-04.json",
+      "size_bytes": 84808
+    },
+    {
+      "period": "2015-05",
+      "path": "gistemp/2015-05.json",
+      "size_bytes": 86019
+    },
+    {
+      "period": "2015-06",
+      "path": "gistemp/2015-06.json",
+      "size_bytes": 85369
+    },
+    {
+      "period": "2015-07",
+      "path": "gistemp/2015-07.json",
+      "size_bytes": 85661
+    },
+    {
+      "period": "2015-08",
+      "path": "gistemp/2015-08.json",
+      "size_bytes": 84938
+    },
+    {
+      "period": "2015-09",
+      "path": "gistemp/2015-09.json",
+      "size_bytes": 85729
+    },
+    {
+      "period": "2015-10",
+      "path": "gistemp/2015-10.json",
+      "size_bytes": 84051
+    },
+    {
+      "period": "2015-11",
+      "path": "gistemp/2015-11.json",
+      "size_bytes": 84321
+    },
+    {
+      "period": "2015-12",
+      "path": "gistemp/2015-12.json",
+      "size_bytes": 85156
+    },
+    {
+      "period": "2016-01",
+      "path": "gistemp/2016-01.json",
+      "size_bytes": 84887
+    },
+    {
+      "period": "2016-02",
+      "path": "gistemp/2016-02.json",
+      "size_bytes": 85270
+    },
+    {
+      "period": "2016-03",
+      "path": "gistemp/2016-03.json",
+      "size_bytes": 85102
+    },
+    {
+      "period": "2016-04",
+      "path": "gistemp/2016-04.json",
+      "size_bytes": 84672
+    },
+    {
+      "period": "2016-05",
+      "path": "gistemp/2016-05.json",
+      "size_bytes": 83646
+    },
+    {
+      "period": "2016-06",
+      "path": "gistemp/2016-06.json",
+      "size_bytes": 85052
+    },
+    {
+      "period": "2016-07",
+      "path": "gistemp/2016-07.json",
+      "size_bytes": 85062
+    },
+    {
+      "period": "2016-08",
+      "path": "gistemp/2016-08.json",
+      "size_bytes": 83304
+    },
+    {
+      "period": "2016-09",
+      "path": "gistemp/2016-09.json",
+      "size_bytes": 84700
+    },
+    {
+      "period": "2016-10",
+      "path": "gistemp/2016-10.json",
+      "size_bytes": 84629
+    },
+    {
+      "period": "2016-11",
+      "path": "gistemp/2016-11.json",
+      "size_bytes": 83925
+    },
+    {
+      "period": "2016-12",
+      "path": "gistemp/2016-12.json",
+      "size_bytes": 83685
+    },
+    {
+      "period": "2017-01",
+      "path": "gistemp/2017-01.json",
+      "size_bytes": 84691
+    },
+    {
+      "period": "2017-02",
+      "path": "gistemp/2017-02.json",
+      "size_bytes": 83479
+    },
+    {
+      "period": "2017-03",
+      "path": "gistemp/2017-03.json",
+      "size_bytes": 83815
+    },
+    {
+      "period": "2017-04",
+      "path": "gistemp/2017-04.json",
+      "size_bytes": 83987
+    },
+    {
+      "period": "2017-05",
+      "path": "gistemp/2017-05.json",
+      "size_bytes": 84515
+    },
+    {
+      "period": "2017-06",
+      "path": "gistemp/2017-06.json",
+      "size_bytes": 85261
+    },
+    {
+      "period": "2017-07",
+      "path": "gistemp/2017-07.json",
+      "size_bytes": 84774
+    },
+    {
+      "period": "2017-08",
+      "path": "gistemp/2017-08.json",
+      "size_bytes": 83615
+    },
+    {
+      "period": "2017-09",
+      "path": "gistemp/2017-09.json",
+      "size_bytes": 84771
+    },
+    {
+      "period": "2017-10",
+      "path": "gistemp/2017-10.json",
+      "size_bytes": 83144
+    },
+    {
+      "period": "2017-11",
+      "path": "gistemp/2017-11.json",
+      "size_bytes": 83067
+    },
+    {
+      "period": "2017-12",
+      "path": "gistemp/2017-12.json",
+      "size_bytes": 85293
+    },
+    {
+      "period": "2018-01",
+      "path": "gistemp/2018-01.json",
+      "size_bytes": 83632
+    },
+    {
+      "period": "2018-02",
+      "path": "gistemp/2018-02.json",
+      "size_bytes": 86270
+    },
+    {
+      "period": "2018-03",
+      "path": "gistemp/2018-03.json",
+      "size_bytes": 84376
+    },
+    {
+      "period": "2018-04",
+      "path": "gistemp/2018-04.json",
+      "size_bytes": 83956
+    },
+    {
+      "period": "2018-05",
+      "path": "gistemp/2018-05.json",
+      "size_bytes": 84409
+    },
+    {
+      "period": "2018-06",
+      "path": "gistemp/2018-06.json",
+      "size_bytes": 84617
+    },
+    {
+      "period": "2018-07",
+      "path": "gistemp/2018-07.json",
+      "size_bytes": 84086
+    },
+    {
+      "period": "2018-08",
+      "path": "gistemp/2018-08.json",
+      "size_bytes": 83498
+    },
+    {
+      "period": "2018-09",
+      "path": "gistemp/2018-09.json",
+      "size_bytes": 84079
+    },
+    {
+      "period": "2018-10",
+      "path": "gistemp/2018-10.json",
+      "size_bytes": 83734
+    },
+    {
+      "period": "2018-11",
+      "path": "gistemp/2018-11.json",
+      "size_bytes": 83627
+    },
+    {
+      "period": "2018-12",
+      "path": "gistemp/2018-12.json",
+      "size_bytes": 83445
+    },
+    {
+      "period": "2019-01",
+      "path": "gistemp/2019-01.json",
+      "size_bytes": 85196
+    },
+    {
+      "period": "2019-02",
+      "path": "gistemp/2019-02.json",
+      "size_bytes": 83718
+    },
+    {
+      "period": "2019-03",
+      "path": "gistemp/2019-03.json",
+      "size_bytes": 84051
+    },
+    {
+      "period": "2019-04",
+      "path": "gistemp/2019-04.json",
+      "size_bytes": 83740
+    },
+    {
+      "period": "2019-05",
+      "path": "gistemp/2019-05.json",
+      "size_bytes": 84112
+    },
+    {
+      "period": "2019-06",
+      "path": "gistemp/2019-06.json",
+      "size_bytes": 84780
+    },
+    {
+      "period": "2019-07",
+      "path": "gistemp/2019-07.json",
+      "size_bytes": 83413
+    },
+    {
+      "period": "2019-08",
+      "path": "gistemp/2019-08.json",
+      "size_bytes": 83284
+    },
+    {
+      "period": "2019-09",
+      "path": "gistemp/2019-09.json",
+      "size_bytes": 82842
+    },
+    {
+      "period": "2019-10",
+      "path": "gistemp/2019-10.json",
+      "size_bytes": 84127
+    },
+    {
+      "period": "2019-11",
+      "path": "gistemp/2019-11.json",
+      "size_bytes": 81975
+    },
+    {
+      "period": "2019-12",
+      "path": "gistemp/2019-12.json",
+      "size_bytes": 82066
+    },
+    {
+      "period": "2020-01",
+      "path": "gistemp/2020-01.json",
+      "size_bytes": 84250
+    },
+    {
+      "period": "2020-02",
+      "path": "gistemp/2020-02.json",
+      "size_bytes": 83867
+    },
+    {
+      "period": "2020-03",
+      "path": "gistemp/2020-03.json",
+      "size_bytes": 84662
+    },
+    {
+      "period": "2020-04",
+      "path": "gistemp/2020-04.json",
+      "size_bytes": 83246
+    },
+    {
+      "period": "2020-05",
+      "path": "gistemp/2020-05.json",
+      "size_bytes": 83475
+    },
+    {
+      "period": "2020-06",
+      "path": "gistemp/2020-06.json",
+      "size_bytes": 83390
+    },
+    {
+      "period": "2020-07",
+      "path": "gistemp/2020-07.json",
+      "size_bytes": 83460
+    },
+    {
+      "period": "2020-08",
+      "path": "gistemp/2020-08.json",
+      "size_bytes": 84485
+    },
+    {
+      "period": "2020-09",
+      "path": "gistemp/2020-09.json",
+      "size_bytes": 83486
+    },
+    {
+      "period": "2020-10",
+      "path": "gistemp/2020-10.json",
+      "size_bytes": 85042
+    },
+    {
+      "period": "2020-11",
+      "path": "gistemp/2020-11.json",
+      "size_bytes": 84034
+    },
+    {
+      "period": "2020-12",
+      "path": "gistemp/2020-12.json",
+      "size_bytes": 84708
+    },
+    {
+      "period": "2021-01",
+      "path": "gistemp/2021-01.json",
+      "size_bytes": 86262
+    },
+    {
+      "period": "2021-02",
+      "path": "gistemp/2021-02.json",
+      "size_bytes": 86931
+    },
+    {
+      "period": "2021-03",
+      "path": "gistemp/2021-03.json",
+      "size_bytes": 84033
+    },
+    {
+      "period": "2021-04",
+      "path": "gistemp/2021-04.json",
+      "size_bytes": 84287
+    },
+    {
+      "period": "2021-05",
+      "path": "gistemp/2021-05.json",
+      "size_bytes": 83391
+    },
+    {
+      "period": "2021-06",
+      "path": "gistemp/2021-06.json",
+      "size_bytes": 84655
+    },
+    {
+      "period": "2021-07",
+      "path": "gistemp/2021-07.json",
+      "size_bytes": 83485
+    },
+    {
+      "period": "2021-08",
+      "path": "gistemp/2021-08.json",
+      "size_bytes": 84326
+    },
+    {
+      "period": "2021-09",
+      "path": "gistemp/2021-09.json",
+      "size_bytes": 83953
+    },
+    {
+      "period": "2021-10",
+      "path": "gistemp/2021-10.json",
+      "size_bytes": 84400
+    },
+    {
+      "period": "2021-11",
+      "path": "gistemp/2021-11.json",
+      "size_bytes": 84091
+    },
+    {
+      "period": "2021-12",
+      "path": "gistemp/2021-12.json",
+      "size_bytes": 84688
+    },
+    {
+      "period": "2022-01",
+      "path": "gistemp/2022-01.json",
+      "size_bytes": 85554
+    },
+    {
+      "period": "2022-02",
+      "path": "gistemp/2022-02.json",
+      "size_bytes": 84653
+    },
+    {
+      "period": "2022-03",
+      "path": "gistemp/2022-03.json",
+      "size_bytes": 83863
+    },
+    {
+      "period": "2022-04",
+      "path": "gistemp/2022-04.json",
+      "size_bytes": 84566
+    },
+    {
+      "period": "2022-05",
+      "path": "gistemp/2022-05.json",
+      "size_bytes": 84556
+    },
+    {
+      "period": "2022-06",
+      "path": "gistemp/2022-06.json",
+      "size_bytes": 83704
+    },
+    {
+      "period": "2022-07",
+      "path": "gistemp/2022-07.json",
+      "size_bytes": 83491
+    },
+    {
+      "period": "2022-08",
+      "path": "gistemp/2022-08.json",
+      "size_bytes": 83608
+    },
+    {
+      "period": "2022-09",
+      "path": "gistemp/2022-09.json",
+      "size_bytes": 83293
+    },
+    {
+      "period": "2022-10",
+      "path": "gistemp/2022-10.json",
+      "size_bytes": 84292
+    },
+    {
+      "period": "2022-11",
+      "path": "gistemp/2022-11.json",
+      "size_bytes": 85908
+    },
+    {
+      "period": "2022-12",
+      "path": "gistemp/2022-12.json",
+      "size_bytes": 85036
+    },
+    {
+      "period": "2023-01",
+      "path": "gistemp/2023-01.json",
+      "size_bytes": 86291
+    },
+    {
+      "period": "2023-02",
+      "path": "gistemp/2023-02.json",
+      "size_bytes": 85033
+    },
+    {
+      "period": "2023-03",
+      "path": "gistemp/2023-03.json",
+      "size_bytes": 82720
+    },
+    {
+      "period": "2023-04",
+      "path": "gistemp/2023-04.json",
+      "size_bytes": 83642
+    },
+    {
+      "period": "2023-05",
+      "path": "gistemp/2023-05.json",
+      "size_bytes": 84648
+    },
+    {
+      "period": "2023-06",
+      "path": "gistemp/2023-06.json",
+      "size_bytes": 82928
+    },
+    {
+      "period": "2023-07",
+      "path": "gistemp/2023-07.json",
+      "size_bytes": 84030
+    },
+    {
+      "period": "2023-08",
+      "path": "gistemp/2023-08.json",
+      "size_bytes": 83933
+    },
+    {
+      "period": "2023-09",
+      "path": "gistemp/2023-09.json",
+      "size_bytes": 82562
+    },
+    {
+      "period": "2023-10",
+      "path": "gistemp/2023-10.json",
+      "size_bytes": 84034
+    },
+    {
+      "period": "2023-11",
+      "path": "gistemp/2023-11.json",
+      "size_bytes": 83806
+    },
+    {
+      "period": "2023-12",
+      "path": "gistemp/2023-12.json",
+      "size_bytes": 84862
+    },
+    {
+      "period": "2024-01",
+      "path": "gistemp/2024-01.json",
+      "size_bytes": 85051
+    },
+    {
+      "period": "2024-02",
+      "path": "gistemp/2024-02.json",
+      "size_bytes": 84317
+    },
+    {
+      "period": "2024-03",
+      "path": "gistemp/2024-03.json",
+      "size_bytes": 82296
+    },
+    {
+      "period": "2024-04",
+      "path": "gistemp/2024-04.json",
+      "size_bytes": 84496
+    },
+    {
+      "period": "2024-05",
+      "path": "gistemp/2024-05.json",
+      "size_bytes": 82969
+    },
+    {
+      "period": "2024-06",
+      "path": "gistemp/2024-06.json",
+      "size_bytes": 83357
+    },
+    {
+      "period": "2024-07",
+      "path": "gistemp/2024-07.json",
+      "size_bytes": 82690
+    },
+    {
+      "period": "2024-08",
+      "path": "gistemp/2024-08.json",
+      "size_bytes": 82791
+    },
+    {
+      "period": "2024-09",
+      "path": "gistemp/2024-09.json",
+      "size_bytes": 83945
+    },
+    {
+      "period": "2024-10",
+      "path": "gistemp/2024-10.json",
+      "size_bytes": 82607
+    },
+    {
+      "period": "2024-11",
+      "path": "gistemp/2024-11.json",
+      "size_bytes": 84390
+    },
+    {
+      "period": "2024-12",
+      "path": "gistemp/2024-12.json",
+      "size_bytes": 82734
+    },
+    {
+      "period": "2025-01",
+      "path": "gistemp/2025-01.json",
+      "size_bytes": 83625
+    },
+    {
+      "period": "2025-02",
+      "path": "gistemp/2025-02.json",
+      "size_bytes": 84646
+    },
+    {
+      "period": "2025-03",
+      "path": "gistemp/2025-03.json",
+      "size_bytes": 83742
+    },
+    {
+      "period": "2025-04",
+      "path": "gistemp/2025-04.json",
+      "size_bytes": 82840
+    },
+    {
+      "period": "2025-05",
+      "path": "gistemp/2025-05.json",
+      "size_bytes": 82894
+    },
+    {
+      "period": "2025-06",
+      "path": "gistemp/2025-06.json",
+      "size_bytes": 84037
+    },
+    {
+      "period": "2025-07",
+      "path": "gistemp/2025-07.json",
+      "size_bytes": 83806
+    },
+    {
+      "period": "2025-08",
+      "path": "gistemp/2025-08.json",
+      "size_bytes": 82368
+    },
+    {
+      "period": "2025-09",
+      "path": "gistemp/2025-09.json",
+      "size_bytes": 80914
+    },
+    {
+      "period": "2025-10",
+      "path": "gistemp/2025-10.json",
+      "size_bytes": 81981
+    },
+    {
+      "period": "2025-11",
+      "path": "gistemp/2025-11.json",
+      "size_bytes": 82758
+    },
+    {
+      "period": "2025-12",
+      "path": "gistemp/2025-12.json",
+      "size_bytes": 83033
+    },
+    {
+      "period": "2026-01",
+      "path": "gistemp/2026-01.json",
+      "size_bytes": 84147
+    },
+    {
+      "period": "2026-02",
+      "path": "gistemp/2026-02.json",
+      "size_bytes": 83987
+    },
+    {
+      "period": "2026-03",
+      "path": "gistemp/2026-03.json",
+      "size_bytes": 83229
+    },
+    {
+      "period": "2026-04",
+      "path": "gistemp/2026-04.json",
+      "size_bytes": 83327
+    },
+    {
+      "period": "2026-05",
+      "path": "gistemp/2026-05.json",
+      "size_bytes": 82906
+    },
+    {
+      "period": "2026-06",
+      "path": "gistemp/2026-06.json",
+      "size_bytes": 84125
+    },
+    {
+      "period": "2026-07",
+      "path": "gistemp/2026-07.json",
+      "size_bytes": 83771
+    },
+    {
+      "period": "2026-08",
+      "path": "gistemp/2026-08.json",
+      "size_bytes": 83130
+    }
+  ]
+}

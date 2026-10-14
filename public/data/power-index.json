@@ -1,0 +1,67 @@
+{
+  "data_version": 1,
+  "generated_utc": "2026-10-09T03:31:24.938174+00:00",
+  "dataset": "NASA POWER monthly point API - PRECTOTCORR (MERRA2)",
+  "parameter": "PRECTOTCORR",
+  "units": "mm/day",
+  "locations": [
+    {
+      "id": "iquitos",
+      "name": "Iquitos (selva amazonica, Peru)",
+      "path": "power/iquitos.json",
+      "coords_requested": {
+        "lat": -3.75,
+        "lon": -73.25
+      },
+      "coords_effective": {
+        "lon": -73.25,
+        "lat": -3.75,
+        "elevation_m": 115.02
+      },
+      "period_start": "2000-01",
+      "period_end": "2025-12",
+      "period_count": 312,
+      "null_count": 0,
+      "size_bytes": 6191
+    },
+    {
+      "id": "mar-piura",
+      "name": "Oceano frente a Piura, Peru",
+      "path": "power/mar-piura.json",
+      "coords_requested": {
+        "lat": -5.0,
+        "lon": -81.5
+      },
+      "coords_effective": {
+        "lon": -81.5,
+        "lat": -5.0,
+        "elevation_m": 26.12
+      },
+      "period_start": "2000-01",
+      "period_end": "2025-12",
+      "period_count": 312,
+      "null_count": 0,
+      "size_bytes": 6045
+    },
+    {
+      "id": "quelccaya",
+      "name": "Glaciar Quelccaya (Andes, Peru)",
+      "path": "power/quelccaya.json",
+      "coords_requested": {
+        "lat": -13.93,
+        "lon": -70.82
+      },
+      "coords_effective": {
+        "lon": -70.82,
+        "lat": -13.93,
+        "elevation_m": 4350.06
+      },
+      "period_start": "2000-01",
+      "period_end": "2025-12",
+      "period_count": 312,
+      "null_count": 0,
+      "size_bytes": 6091
+    }
+  ],
+  "access_notes": "Estos 3 puntos vienen precargados en public/data/power/. Para cualquier otro punto del globo que el usuario seleccione a futuro, el frontend puede consultar en vivo la misma API (temporal/monthly/point) con el anio solicitado tras la seleccion; ver docs/power-data.md para el detalle de esa opcion (no implementada aqui)."
+}

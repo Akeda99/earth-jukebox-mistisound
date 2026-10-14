@@ -1,0 +1,6 @@
+netCDF4==1.7.4
+numpy==2.4.6
+pyproj==3.7.2
+pytest==9.1.1
+tifffile==2026.9.20
+imagecodecs==2026.8.16

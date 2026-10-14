@@ -1,0 +1,19 @@
+# Dependencias OPCIONALES de Python para repetir las verificaciones de
+# audio real (scripts/verify_audio_offline.py) y accesibilidad
+# (scripts/verify_accessibility.py) de este proyecto. NO son necesarias
+# para `npm test`/`npm run build` (esas son 100% JS/Node). Instalar solo
+# si se quiere repetir estas verificaciones concretas.
+#
+# Instalacion (usa el Python 3.13 del sistema que YA trae Playwright
+# instalado en este entorno; si se usa otro Python, instalar tambien
+# Playwright):
+#   py -3 -m pip install -r scripts/requirements-browser-tests.txt
+#   py -3 -m playwright install chromium   # solo si Chromium no esta ya descargado
+#
+# axe-core (verify_accessibility.py) NO esta en este archivo: se obtiene
+# via `npm pack axe-core` (registro oficial de npm, sin agregarlo a
+# package.json ni a node_modules), ver docs/accessibility-review.md para
+# el comando exacto y donde se extrae (work/axe-tmp/, fuera del ZIP; si el
+# ZIP no la incluye, repetir el `npm pack` reproduce lo mismo).
+playwright==1.58.0
+numpy==2.4.4

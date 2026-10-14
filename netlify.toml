@@ -1,0 +1,9 @@
+# Configuracion de Netlify: sitio estatico (Vite). Sin funciones, plugins ni redirecciones.
+# La app usa enlaces con hash (#), asi que no hace falta regla SPA: un JSON o
+# asset faltante debe devolver 404 y no una pagina HTML.
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"

@@ -1,0 +1,44 @@
+{
+  "resource_id": "svs-5603-gistemp-annual-map-2025",
+  "title": "Global Temperature Anomalies from 1880 to 2025 (annual map, 2025)",
+  "producer": "NASA Scientific Visualization Studio (SVS)",
+  "page_url": "https://svs.gsfc.nasa.gov/5603/",
+  "gallery_url": "https://svs.gsfc.nasa.gov/gallery/earth-information-center/",
+  "eic_tag_verified": true,
+  "dataset": {
+    "name": "GISTEMP v4",
+    "dataset_page": "https://data.giss.nasa.gov/gistemp/",
+    "baseline_period": "1951-1980",
+    "note": "Mismo dataset y baseline que public/data/gistemp/*.json; el indicador numerico aqui es el promedio GLOBAL ANUAL, no sustituye la rejilla mensual local."
+  },
+  "media": {
+    "frame_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005603/Map_HD_2025.png",
+    "frame_variant": "spatially smoothed, sin promedio temporal de 12/24 meses, proyeccion Robinson, colormap 'vik' (Crameri 2018)",
+    "resolution": "1920x1080",
+    "content_length_bytes": 1275529,
+    "last_modified_utc": "2026-01-12T20:28:58Z",
+    "verified_http_status": 200,
+    "verified_date_utc": "2026-10-09",
+    "cors_note": "Mostrar solo como <img> remoto apuntando a la URL oficial de SVS; no leer pixeles via canvas/getImageData ni derivar valores numericos del color de la imagen.",
+    "no_video_sync_note": "No se usa el video/espiral (SVS 5190) como fondo sincronizado: no existe mapeo frame->mes verificado para ese recurso. Este archivo usa en su lugar el mapa ANUAL estatico de 5603."
+  },
+  "excluded_media": {
+    "svs_5450_2024": "Pagina solo ofrece video/imagen cuyo frame final es un promedio movil de 24 meses terminando en 2024, no un mapa de un solo anio calendario. No es equivalente cientifico al mapa 2025 de 5603; se excluye.",
+    "svs_5190_spiral": "Espiral mensual 1880-presente sin manifiesto frame->fecha publico verificable; no se usa como fondo sincronizado con el dato mensual ni anual de este proyecto."
+  },
+  "units": {
+    "celsius": true
+  },
+  "attribution": {
+    "credit_text": "NASA Scientific Visualization Studio",
+    "guidelines_url": "https://www.nasa.gov/multimedia/guidelines/index.html",
+    "credits": [
+      { "role": "Scientist", "name": "Gavin A. Schmidt", "affiliation": "NASA/GSFC GISS" },
+      { "role": "Visualizer", "name": "Mark SubbaRao", "affiliation": "NASA/GSFC" }
+    ]
+  },
+  "integration_mode_recommended": "annual-global-overlay",
+  "integration_mode_note": "Mostrar el mapa estatico 2025 (Map_HD_2025.png) junto al indicador GLOBAL ANUAL del mismo anio/baseline (ver public/data/eic-annual.json). Panel de demostracion adicional; no reemplaza el modo mensual/rejilla local 2000-2025.",
+  "numeric_data_file": "public/data/eic-annual.json",
+  "verification_notes": "URLs verificadas con peticiones HTTP directas (curl -I/GET) el 2026-10-09. La descarga del CSV anual oficial (data.giss.nasa.gov) fallo por timeouts de red intermitentes durante esta entrega; el valor numerico 2025 en eic-annual.json proviene de un snapshot de publicacion oficial de NASA (ver numeric_source en ese archivo), no de este archivo de recurso ni de lectura de imagen."
+}

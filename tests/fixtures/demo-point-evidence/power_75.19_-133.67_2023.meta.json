@@ -1,0 +1,19 @@
+{
+  "purpose": "Snapshot publico SOLO para reproducir el WAV demo (scripts/verify_audio_offline.py). La app en vivo NO usa este archivo: consulta la API POWER en tiempo real (src/data/power-repository.js).",
+  "file": "power_75.19_-133.67_2023.json",
+  "sha256": "37ef255e6bc396371d692781d8b60fd4495e13ecb3f2f3710f1c8add6d8399a6",
+  "size_bytes": 683,
+  "official_endpoint": "https://power.larc.nasa.gov/api/temporal/monthly/point",
+  "request_url_equivalent": "https://power.larc.nasa.gov/api/temporal/monthly/point?parameters=PRECTOTCORR&community=RE&longitude=-133.67&latitude=75.19&start=2023&end=2023&format=JSON",
+  "request_url_note": "Reconstruida con los mismos parametros que arma src/data/power-repository.js; el JSON crudo (683 bytes) NO guarda la URL ni el SHA, por eso se declaran aqui.",
+  "fetch_date": "2026-10-10",
+  "fetch_date_note": "Fecha de la captura local (mtime del archivo original); la respuesta no incluye marca de tiempo.",
+  "api_version_in_payload": "v2.10.0",
+  "source_in_payload": "MERRA2",
+  "variable": "PRECTOTCORR",
+  "unit": "mm/day",
+  "point": {"latitude": 75.19, "longitude": -133.67},
+  "demo_period_key": "202312",
+  "demo_value": 0.33,
+  "documentation": "https://power.larc.nasa.gov/docs/services/api/temporal/monthly/"
+}

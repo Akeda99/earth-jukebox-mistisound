@@ -1,0 +1,298 @@
+<!doctype html>
+<html lang="es" data-mode="history">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>Earth Jukebox</title>
+  </head>
+  <body>
+    <a id="skip-link" href="#app-main" data-i18n="skipToContent">Saltar al contenido principal</a>
+    <div id="app">
+      <header id="app-header">
+        <div id="brand">
+          <svg id="brand-mark" viewBox="0 0 32 32" width="32" height="32" aria-hidden="true" focusable="false">
+            <rect x="2" y="12" width="3" height="8" rx="1.5"/>
+            <rect x="8" y="7" width="3" height="18" rx="1.5"/>
+            <rect x="14" y="3" width="3" height="26" rx="1.5"/>
+            <rect x="20" y="9" width="3" height="14" rx="1.5"/>
+            <rect x="26" y="13" width="3" height="6" rx="1.5"/>
+          </svg>
+          <h1 data-i18n="title">Earth Jukebox</h1>
+        </div>
+        <nav id="section-tabs" aria-label="Secciones / Sections">
+          <button type="button" class="tab-btn" data-tab="history" aria-pressed="true" data-i18n="tabHistory"></button>
+          <button type="button" class="tab-btn" data-tab="explore" aria-pressed="false" data-i18n="tabExplore"></button>
+          <button type="button" class="tab-btn" data-tab="peru" aria-pressed="false" data-i18n="tabPeru"></button>
+          <button type="button" class="tab-btn" data-tab="accessible" aria-pressed="false" data-i18n="tabAccessible"></button>
+          <button type="button" class="tab-btn" data-tab="dj" aria-pressed="false" data-i18n="tabDj"></button>
+        </nav>
+        <div id="lang-switch" role="group" aria-label="Idioma / Language">
+          <button type="button" data-lang="es" class="lang-btn" aria-pressed="false">ES</button>
+          <button type="button" data-lang="en" class="lang-btn" aria-pressed="false">EN</button>
+        </div>
+      </header>
+
+      <!-- Barra global de audio: FUERA de toda pestana/panel a proposito.
+           Silencio y volumen deben estar visibles y operables ANTES de
+           activar sonido y en TODOS los modos (Explorar/Peru/Accesible/DJ),
+           incluso tras hacer scroll en movil (ver docs/accessibility-review.md). -->
+      <section id="audio-controls" aria-label="Controles de audio (siempre visibles)">
+        <button type="button" id="audio-toggle" class="action-btn" data-i18n="audioActivate"></button>
+        <div id="volume-row">
+          <button type="button" id="mute-toggle" class="icon-btn" aria-pressed="false">
+            <svg id="mute-icon" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+              <path fill="currentColor" d="M3 10v4h4l5 5V5L7 10H3z"/>
+            </svg>
+            <span id="mute-text" data-i18n="muteVisibleLabel"></span>
+          </button>
+          <label for="volume-slider" data-i18n="volumeLabel"></label>
+          <input type="range" id="volume-slider" min="-40" max="0" step="1" value="-12" />
+          <span id="volume-value" aria-hidden="true"></span>
+        </div>
+      </section>
+
+      <main id="app-main">
+        <section id="globe-section" aria-label="Globo 3D">
+          <div id="globe-container"></div>
+          <div id="globe-fallback" hidden>
+            <p data-i18n="globeErrorWebgl"></p>
+          </div>
+          <div id="gibs-warning" hidden role="status">
+            <p data-i18n="gibsError"></p>
+          </div>
+        </section>
+
+        <aside id="side-panel" aria-label="Panel de informacion y controles">
+          <div id="history-panel" aria-label="Historia">
+            <h2 data-i18n="historyTitle"></h2>
+            <p class="lead" data-i18n="historyIntro"></p>
+            <form id="history-form" novalidate>
+              <div class="history-place-group">
+              <div class="form-row">
+                <label for="history-place-q" data-i18n="historyPlaceLabel"></label>
+                <div class="inline-row">
+                  <input type="search" id="history-place-q" autocomplete="off" aria-describedby="history-place-help" />
+                  <button type="button" id="history-place-search" class="action-btn" data-i18n="historySearchBtn"></button>
+                </div>
+                <p id="history-place-help" class="field-help" data-i18n="historyPlaceHelp"></p>
+                <p class="field-help"><span data-i18n="historyCredit"></span> <a href="https://www.geonames.org/" target="_blank" rel="noopener">GeoNames</a> · <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></p>
+              </div>
+              <p id="history-place-status" role="status"></p>
+              <ul id="history-place-results" class="choice-list"></ul>
+              <button type="button" id="history-use-globe" class="secondary-btn" data-i18n="historyUseGlobe"></button>
+              <p id="history-place-chosen"></p>
+              </div>
+              <div class="history-when-group">
+                <div class="when-pair">
+                  <div class="form-row">
+                    <label for="history-month" data-i18n="historyMonthLabel"></label>
+                    <select id="history-month"></select>
+                  </div>
+                  <div class="form-row">
+                    <label for="history-year" data-i18n="historyYearLabel"></label>
+                    <input type="text" id="history-year" inputmode="numeric" maxlength="4" autocomplete="off" aria-describedby="history-birth-note history-form-error" />
+                  </div>
+                </div>
+                <p id="history-birth-note" class="field-help"></p>
+                <p id="history-form-error" role="alert"></p>
+                <button type="submit" id="history-submit" class="action-btn" data-i18n="historySubmit"></button>
+              </div>
+            </form>
+            <p id="history-latest-note" class="field-help"></p>
+            <p id="history-load-status" role="status"></p>
+
+            <section id="history-result" hidden aria-label="Resultado">
+              <h3 id="history-result-title" tabindex="-1"></h3>
+              <p id="history-summary"></p>
+              <div id="history-compare">
+                <article class="compare-card compare-before">
+                  <p class="compare-caption" aria-hidden="true" data-i18n="historyCardBefore"></p>
+                  <p class="compare-period" id="history-card-a-period" aria-hidden="true"></p>
+                  <p class="compare-value" id="history-card-a-value" aria-hidden="true"></p>
+                  <button type="button" id="history-listen-a" class="action-btn"></button>
+                </article>
+                <article class="compare-card compare-after">
+                  <p class="compare-caption" aria-hidden="true" data-i18n="historyCardAfter"></p>
+                  <p class="compare-period" id="history-card-b-period" aria-hidden="true"></p>
+                  <p class="compare-value" id="history-card-b-value" aria-hidden="true"></p>
+                  <button type="button" id="history-listen-b" class="action-btn"></button>
+                </article>
+                <p class="compare-delta" id="history-card-delta" aria-hidden="true"></p>
+              </div>
+              <p id="history-short-note" class="field-help" data-i18n="historyShortNote"></p>
+              <div id="history-actions" class="button-row">
+                <button type="button" id="history-listen-auto" class="secondary-btn"></button>
+                <button type="button" id="history-repeat" class="secondary-btn"></button>
+                <button type="button" id="history-stop" class="secondary-btn"></button>
+              </div>
+              <div class="form-row check-row">
+                <input type="checkbox" id="history-voice" />
+                <label for="history-voice" data-i18n="historyVoiceLabel"></label>
+              </div>
+              <button type="button" id="history-speak" class="secondary-btn" data-i18n="historySpeak"></button>
+              <p id="history-play-status" role="status"></p>
+              <p id="history-audio-hint"></p>
+              <details id="history-details">
+                <summary data-i18n="historyDetailsSummary"></summary>
+                <div id="history-story"></div>
+                <dl id="history-data"></dl>
+                <section id="history-learn" aria-label="Educación">
+                  <h3 data-i18n="historyLearnTitle"></h3>
+                  <p data-i18n="historyHowTo"></p>
+                  <p data-i18n="historyVariability"></p>
+                  <ul>
+                    <li data-i18n="historyQuestion1"></li>
+                    <li data-i18n="historyQuestion2"></li>
+                  </ul>
+                  <p id="history-missing"></p>
+                </section>
+              </details>
+              <button type="button" id="history-clear" class="secondary-btn" data-i18n="historyClear"></button>
+              <p class="field-help" data-i18n="historyPrivacy"></p>
+            </section>
+          </div>
+
+          <div id="explore-panel" hidden>
+            <section id="point-info" aria-label="Informacion del punto seleccionado">
+              <h2 data-i18n="pointTitle"></h2>
+              <p id="point-empty" data-i18n="pointEmpty"></p>
+              <div id="point-details" hidden>
+                <dl class="point-hero">
+                  <div class="point-value-row"><dt data-i18n="fieldValue"></dt><dd><span id="field-value"></span> <span id="field-units"></span></dd></div>
+                  <div><dt data-i18n="fieldPeriod"></dt><dd id="field-period"></dd></div>
+                  <div><dt data-i18n="fieldCoords"></dt><dd id="field-coords"></dd></div>
+                  <div><dt data-i18n="fieldBaseline"></dt><dd id="field-baseline"></dd></div>
+                </dl>
+                <details class="point-more">
+                  <summary data-i18n="pointMoreSummary"></summary>
+                  <dl>
+                    <div><dt data-i18n="fieldCell"></dt><dd id="field-cell"></dd></div>
+                    <div><dt data-i18n="fieldResolution"></dt><dd id="field-resolution"></dd></div>
+                    <div><dt data-i18n="fieldSmoothing"></dt><dd id="field-smoothing"></dd></div>
+                  </dl>
+                </details>
+              </div>
+              <button type="button" id="listen-btn" class="action-btn" disabled data-i18n="listenBtn"></button>
+              <div id="compare-row">
+                <button type="button" id="compare-a-btn" disabled data-i18n="compareSetA"></button>
+                <button type="button" id="compare-b-btn" disabled data-i18n="compareSetB"></button>
+                <button type="button" id="compare-listen-a-btn" disabled data-i18n="compareListenA"></button>
+                <button type="button" id="compare-listen-b-btn" disabled data-i18n="compareListenB"></button>
+                <p id="compare-result" hidden></p>
+              </div>
+            </section>
+
+            <section id="legend-section" aria-label="Leyenda de anomalia">
+              <h2 data-i18n="legendTitle"></h2>
+              <canvas id="legend-canvas" width="240" height="14"></canvas>
+              <div id="legend-labels">
+                <span>-5</span><span>0</span><span>+5</span>
+              </div>
+            </section>
+
+            <section id="eic-panel" aria-label="Recursos EIC"></section>
+          </div>
+
+          <div id="peru-panel" hidden aria-label="Peru">
+            <h2 data-i18n="peruTitle"></h2>
+            <p data-i18n="peruIntro"></p>
+            <div id="peru-sites"></div>
+            <article id="peru-detail" hidden>
+              <h3 class="peru-title"></h3>
+              <p class="peru-body"></p>
+              <p class="peru-question"></p>
+              <p class="peru-note"></p>
+              <p>
+                <span data-i18n="peruCellValueLabel"></span>:
+                <span class="peru-cell-value"></span>
+              </p>
+              <a class="peru-source" href="#" target="_blank" rel="noopener"></a>
+              <button type="button" id="peru-listen-btn" class="action-btn" hidden></button>
+            </article>
+          </div>
+
+          <div id="accessible-panel" hidden aria-label="Accesible">
+            <h2 data-i18n="accessibleTitle"></h2>
+            <p data-i18n="accessibleIntro"></p>
+            <form id="accessible-form" novalidate>
+              <div class="form-row">
+                <label for="acc-lat" data-i18n="accessibleLatLabel"></label>
+                <input type="number" id="acc-lat" step="0.01" min="-90" max="90" inputmode="decimal" required />
+              </div>
+              <div class="form-row">
+                <label for="acc-lon" data-i18n="accessibleLonLabel"></label>
+                <input type="number" id="acc-lon" step="0.01" min="-180" max="180" inputmode="decimal" required />
+              </div>
+              <div class="form-row">
+                <label for="acc-period" data-i18n="accessiblePeriodLabel"></label>
+                <select id="acc-period"></select>
+              </div>
+              <div class="form-row">
+                <label for="acc-variable" data-i18n="accessibleVariableLabel"></label>
+                <select id="acc-variable" disabled>
+                  <option value="gistemp" selected data-i18n="accessibleVariableGistemp"></option>
+                </select>
+              </div>
+              <p id="acc-form-error" role="alert"></p>
+              <button type="submit" class="action-btn" data-i18n="accessibleQueryBtn"></button>
+            </form>
+
+            <section id="acc-result" aria-live="polite">
+              <p id="acc-description"></p>
+              <button type="button" id="acc-listen-btn" class="action-btn" disabled data-i18n="listenBtn"></button>
+              <button type="button" id="acc-describe-btn" class="action-btn" data-i18n="accessibleDescribeBtn"></button>
+              <div class="form-row acc-narration-row">
+                <input type="checkbox" id="acc-narration-auto" />
+                <label for="acc-narration-auto" data-i18n="accessibleNarrationAutoLabel"></label>
+              </div>
+            </section>
+
+            <section id="acc-compare" aria-label="Comparar A/B">
+              <h3 data-i18n="accessibleCompareTitle"></h3>
+              <button type="button" id="acc-compare-a-btn" disabled data-i18n="compareSetA"></button>
+              <button type="button" id="acc-compare-b-btn" disabled data-i18n="compareSetB"></button>
+              <p id="acc-compare-result" hidden></p>
+            </section>
+
+            <section id="acc-places">
+              <h3 data-i18n="accessiblePlacesTitle"></h3>
+              <ul id="acc-places-list"></ul>
+            </section>
+          </div>
+
+          <div id="dj-panel" hidden aria-label="DJ"></div>
+
+          <!-- Compartir: FUERA de explore-panel/peru-panel/accessible-panel/
+               dj-panel a proposito y AL FINAL de #side-panel, para que el
+               boton "Guardar y generar enlace" (que incluye semilla/BPM/
+               ganancias/solo del DJ en la mezcla compartida) este disponible
+               desde cualquier pestana sin ocupar los primeros pixeles de su
+               contenido principal. Mismo id/listeners/accesibilidad. -->
+          <section id="share-section" aria-label="Compartir">
+            <h2 data-i18n="shareTitle"></h2>
+            <button type="button" id="share-save-btn" class="action-btn" data-i18n="shareSaveBtn"></button>
+            <label for="share-url" data-i18n="shareUrlLabel"></label>
+            <input type="text" id="share-url" readonly />
+            <p class="share-local-note" data-i18n="shareLocalNote"></p>
+            <p id="share-error" role="alert"></p>
+            <h3 data-i18n="shareSavedTitle"></h3>
+            <ul id="share-saved-list"></ul>
+          </section>
+        </aside>
+      </main>
+
+      <footer id="timeline-bar" aria-label="Linea de tiempo">
+        <label for="year-select" data-i18n="yearLabel"></label>
+        <select id="year-select"></select>
+        <label for="month-select" data-i18n="monthLabel"></label>
+        <select id="month-select"></select>
+        <label for="year-range" data-i18n="yearRangeLabel"></label>
+        <input type="range" id="year-range" />
+        <button type="button" id="play-pause-btn" class="action-btn" data-i18n="playBtn"></button>
+        <button type="button" id="period-retry-btn" class="action-btn" hidden data-i18n="periodRetryBtn"></button>
+        <span id="period-status" aria-live="polite"></span>
+      </footer>
+    </div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

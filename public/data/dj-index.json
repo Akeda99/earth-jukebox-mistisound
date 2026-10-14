@@ -1,0 +1,69 @@
+{
+  "sea_ice_g02135": {
+    "files": [
+      {
+        "path": "sea-ice-g02135/2023-01.json",
+        "size_bytes": 156017
+      },
+      {
+        "path": "sea-ice-g02135/2023-02.json",
+        "size_bytes": 155688
+      },
+      {
+        "path": "sea-ice-g02135/2023-03.json",
+        "size_bytes": 155739
+      },
+      {
+        "path": "sea-ice-g02135/2023-04.json",
+        "size_bytes": 155962
+      },
+      {
+        "path": "sea-ice-g02135/2023-05.json",
+        "size_bytes": 157027
+      },
+      {
+        "path": "sea-ice-g02135/2023-06.json",
+        "size_bytes": 157366
+      },
+      {
+        "path": "sea-ice-g02135/2023-07.json",
+        "size_bytes": 157196
+      },
+      {
+        "path": "sea-ice-g02135/2023-08.json",
+        "size_bytes": 157092
+      },
+      {
+        "path": "sea-ice-g02135/2023-09.json",
+        "size_bytes": 156744
+      },
+      {
+        "path": "sea-ice-g02135/2023-10.json",
+        "size_bytes": 157569
+      },
+      {
+        "path": "sea-ice-g02135/2023-11.json",
+        "size_bytes": 157687
+      },
+      {
+        "path": "sea-ice-g02135/2023-12.json",
+        "size_bytes": 157457
+      }
+    ],
+    "periods": [
+      "2023-01",
+      "2023-02",
+      "2023-03",
+      "2023-04",
+      "2023-05",
+      "2023-06",
+      "2023-07",
+      "2023-08",
+      "2023-09",
+      "2023-10",
+      "2023-11",
+      "2023-12"
+    ]
+  },
+  "generated_utc": "2026-10-10T14:36:53.221281+00:00"
+}

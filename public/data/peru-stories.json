@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "sites": [
+    {
+      "id": "iquitos",
+      "lat": -3.75,
+      "lon": -73.25,
+      "source": "https://science.nasa.gov/earth/earth-observatory/drought-fuels-wildfires-in-the-amazon-151965/",
+      "es": {
+        "title": "Sequía e incendios en la Amazonía",
+        "body": "Durante el episodio de El Nino de 2023, una sequia severa en la cuenca amazonica favorecio una intensa actividad de incendios entre julio y noviembre, detectada por los satelites MODIS, Landsat 9 y VIIRS de la NASA. El articulo original documenta estos efectos en estados brasilenos (Amazonas, Para, Amapa), NO en Iquitos: aqui solo mostramos la anomalia de temperatura registrada por GISTEMP en la celda de la rejilla mas cercana a esta ciudad peruana de la Amazonia, para que compares la senal climatica regional con lo que la fuente documento en Brasil.",
+        "question": "¿La anomalia de esta celda en los meses de sequia (2023) es mas alta que en otros anos? Compara cambiando el periodo en la linea de tiempo.",
+        "note": "Este valor es una anomalia de temperatura del aire en superficie (GISTEMP), no una medicion de incendios, humo ni sequia: solo indica cuanto se desvia la temperatura del promedio de referencia en esa celda."
+      },
+      "en": {
+        "title": "Drought and wildfires in the Amazon",
+        "body": "During the 2023 El Nino event, severe drought in the Amazon basin fueled intense wildfire activity between July and November, detected by NASA's MODIS, Landsat 9 and VIIRS satellites. The original article documents these effects in Brazilian states (Amazonas, Para, Amapa), NOT in Iquitos: here we only show the GISTEMP temperature anomaly for the grid cell nearest to this Peruvian Amazon city, so you can compare the regional climate signal with what the source documented in Brazil.",
+        "question": "Is this cell's anomaly during the drought months (2023) higher than in other years? Compare by changing the period on the timeline.",
+        "note": "This value is a surface air temperature anomaly (GISTEMP), not a measurement of fires, smoke, or drought: it only shows how far temperature deviates from the baseline average in that cell."
+      }
+    },
+    {
+      "id": "quelccaya",
+      "lat": -13.93,
+      "lon": -70.82,
+      "source": "https://science.nasa.gov/earth/earth-observatory/quelccaya-ice-cap-then-and-now-152124/",
+      "es": {
+        "title": "El casquete de hielo de Quelccaya, entonces y ahora",
+        "body": "El casquete de hielo Quelccaya, en los Andes peruanos, se redujo de unos 58 km2 en 1988 a poco mas de 40 km2 en 2023 (NASA Earth Observatory), retrocediendo alrededor de 14 metros por ano y formando nuevos lagos de deshielo. Los nucleos de hielo extraidos desde 1974 conservan un registro climatico de 1800 anos que podria perderse si el hielo sigue derritiendose.",
+        "question": "¿Como se compara la anomalia GISTEMP de esta celda entre 1988 y los anos recientes disponibles en esta app?",
+        "note": "Importante: este valor es la anomalia de temperatura del aire en una celda de la rejilla GISTEMP (varios grados de lado), NO la masa ni el area del hielo de Quelccaya. La perdida de hielo documentada por NASA viene de otras mediciones satelitales directas sobre el glaciar, no de este dataset."
+      },
+      "en": {
+        "title": "The Quelccaya ice cap, then and now",
+        "body": "The Quelccaya ice cap, in the Peruvian Andes, shrank from about 58 sq km in 1988 to just over 40 sq km in 2023 (NASA Earth Observatory), retreating by roughly 14 meters per year and forming new meltwater lakes. Ice cores extracted since 1974 preserve an 1,800-year climate record that could be lost if the ice keeps melting.",
+        "question": "How does this cell's GISTEMP anomaly compare between 1988 and the most recent years available in this app?",
+        "note": "Important: this value is the air temperature anomaly for a GISTEMP grid cell (several degrees wide), NOT the mass or area of Quelccaya's ice. The ice loss documented by NASA comes from separate direct satellite measurements of the glacier, not from this dataset."
+      }
+    },
+    {
+      "id": "piura-pacific",
+      "lat": -5.0,
+      "lon": -81.5,
+      "source": "https://science.nasa.gov/earth/explore/el-nino/",
+      "es": {
+        "title": "El Pacífico frente a Piura y El Niño",
+        "body": "El Nino es un cambio periodico en los vientos y corrientes del Pacifico que calienta la superficie del oceano en el Pacifico central y oriental, debilitando el afloramiento de aguas frias y ricas en nutrientes frente a la costa de Sudamerica, incluido Peru. La NASA senala que se declara El Nino cuando la temperatura promedio supera en mas de 0.5 grados Celsius el promedio de referencia durante cinco meses consecutivos en una region del Pacifico ecuatorial.",
+        "question": "¿La anomalia GISTEMP de esta celda del Pacifico sube en anos de El Nino que conoces (por ejemplo 2015-16 o 2023)?",
+        "note": "Importante: este valor es la anomalia de temperatura de GISTEMP (rejilla global de tierra y oceano), NO el indice oficial de El Nino (que se calcula con la temperatura superficial del mar en una region especifica del Pacifico ecuatorial). Pueden parecerse pero no son lo mismo."
+      },
+      "en": {
+        "title": "The Pacific off Piura and El Niño",
+        "body": "El Nino is a periodic shift in Pacific winds and currents that warms the ocean surface in the central and eastern Pacific, weakening the upwelling of cold, nutrient-rich water along the coast of South America, including Peru. NASA notes that an El Nino is declared when the average temperature stays more than 0.5 degrees Celsius above the long-term average for five consecutive months in a specific equatorial Pacific region.",
+        "question": "Does this Pacific cell's GISTEMP anomaly rise in El Nino years you know about (e.g. 2015-16 or 2023)?",
+        "note": "Important: this value is the GISTEMP temperature anomaly (global land+ocean grid), NOT the official El Nino index (which is calculated from sea surface temperature in a specific equatorial Pacific region). They can look similar but are not the same thing."
+      }
+    }
+  ]
+}

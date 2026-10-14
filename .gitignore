@@ -1,0 +1,30 @@
+# Dependencias y salidas de build
+node_modules/
+dist/
+.netlify/
+
+# Assets de Cesium: se regeneran en cada build (scripts/prepare-cesium-assets.mjs)
+public/cesium/
+
+# Area de trabajo local (descargas crudas, venvs, artefactos de navegador, capturas)
+work/
+
+# Caches y bytecode
+.pytest_cache/
+__pycache__/
+*.pyc
+
+# Entorno y credenciales
+.env
+.env.*
+!.env.example
+.netrc
+.npmrc
+*.pem
+*.key
+
+# Logs y sistema
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db

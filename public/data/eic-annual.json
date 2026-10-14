@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "dataset": "GISTEMP v4 (GHCNv4 land + ERSSTv5 ocean)",
+  "variable": "global_annual_surface_temperature_anomaly",
+  "units": "deg C",
+  "baseline_period": "1951-1980",
+  "scope": "global-annual",
+  "integration_mode": "annual-global-overlay",
+  "integration_mode_note": "Cada entrada empareja un mapa EIC/SVS ANUAL estatico con el indicador GLOBAL ANUAL del mismo anio y mismo baseline. Panel de demostracion agregada adicional; NO reemplaza el modo mensual/rejilla local de public/data/gistemp/*.json ni se sincroniza con un video/espiral.",
+  "numeric_provenance": {
+    "type": "nasa_publication_snapshot",
+    "method": "manual_verified_extraction",
+    "note": "Valor transcrito manualmente de un comunicado oficial de NASA ya publicado, no leido de color de imagen ni calculado por este proyecto. La descarga del CSV anual de NASA GISS (data.giss.nasa.gov) fallo por timeouts de red intermitentes al preparar esta entrega; se usa este snapshot de publicacion en su lugar.",
+    "rounding": "0.01 deg C (tal como lo publica NASA; no se re-redondea)"
+  },
+  "csv_fallback": {
+    "status": "not_used_this_run",
+    "intended_source_url": "https://data.giss.nasa.gov/gistemp/tabledata_v4/GLB.Ts+dSST.csv",
+    "intended_column": "J-D",
+    "preparer_script": "scripts/prepare_eic_annual.py",
+    "note": "El script queda listo para cuando la descarga del CSV funcione, pero NO se ejecuto en esta entrega (la descarga seguia fallando por timeouts de red). No se promete una actualizacion automatica futura; cualquier cambio de fuente debe quedar explicito en una proxima ejecucion documentada."
+  },
+  "revision_warning": "GISTEMP revisa sus resultados cuando llegan datos de estaciones nuevos o corregidos. Este valor es el que NASA publico el 14 de enero de 2026 (release 26-003), coincidiendo con la ventana temporal en que se genero el frame del mapa (Last-Modified 12 de enero de 2026). Una version futura del CSV anual podria diferir ligeramente de este snapshot si GISTEMP revisa 2025 mas adelante.",
+  "excluded_years": {
+    "2024": "svs.gsfc.nasa.gov/5450/: el unico contenido disponible es un video/imagen cuyo frame final es un promedio movil de 24 meses que termina en 2024, no un mapa de anomalia de un solo anio calendario como el de 2025 (5603). No se declara equivalente cientifico ni se incluye."
+  },
+  "entries": [
+    {
+      "year": 2025,
+      "value": 1.19,
+      "units": "deg C",
+      "baseline_period": "1951-1980",
+      "representation_note": "El frame es un mapa espacial de la anomalia anual 2025; el indicador sonificado es el promedio GLOBAL ANUAL del mismo dataset/anio/baseline, no el valor de una celda especifica ni una lectura de color de la imagen.",
+      "frame_page": "https://svs.gsfc.nasa.gov/5603/",
+      "frame_page_title": "Global Temperature Anomalies from 1880 to 2025",
+      "frame_url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005603/Map_HD_2025.png",
+      "frame_variant": "spatially smoothed, no 12-month temporal averaging, Robinson projection",
+      "frame_verified_http_status": 200,
+      "frame_verified_date_utc": "2026-10-09",
+      "frame_content_length_bytes": 1275529,
+      "frame_publication_date": "2026-01-14",
+      "frame_last_modified_utc": "2026-01-12T20:28:58Z",
+      "eic_tag_verified": true,
+      "credit": "NASA Scientific Visualization Studio",
+      "credits": [
+        { "role": "Scientist", "name": "Gavin A. Schmidt", "affiliation": "NASA/GSFC GISS" },
+        { "role": "Visualizer", "name": "Mark SubbaRao", "affiliation": "NASA/GSFC" }
+      ],
+      "numeric_source": {
+        "type": "nasa_press_release",
+        "source_url": "https://www.nasa.gov/news-release/nasa-releases-global-temperature-data/",
+        "source_url_es": "https://www.nasa.gov/news-release/la-nasa-publica-datos-de-la-temperatura-global/",
+        "title": "NASA Releases Global Temperature Data",
+        "release_id": "26-003",
+        "publication_date": "2026-01-14",
+        "access_date_utc": "2026-10-09",
+        "quoted_text": "Global temperatures in 2025 were cooler than 2024, with average temperatures of 2.14 degrees Fahrenheit (1.19 degrees Celsius) above the 1951 to 1980 average.",
+        "raw_html_copy": "work/raw-eic/nasa_pr_2025_global_temp.html"
+      }
+    }
+  ],
+  "generated_utc": "2026-10-09T04:00:00Z"
+}
