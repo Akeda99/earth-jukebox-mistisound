@@ -347,6 +347,19 @@ export function createShare({ store, getSnapshot, onApplyPreset }) {
   const urlOutput = document.getElementById('share-url');
   const errorEl = document.getElementById('share-error');
   const savedList = document.getElementById('share-saved-list');
+  const copyBtn = document.getElementById('share-copy');
+  const copyStatus = document.getElementById('share-copy-status');
+  copyBtn?.addEventListener('click', async () => {
+    if (!urlOutput?.value) return;
+    try {
+      await navigator.clipboard.writeText(urlOutput.value);
+      if (copyStatus) copyStatus.textContent = t(store.get().lang, 'auroraCopied');
+    } catch {
+      urlOutput.focus();
+      urlOutput.select();
+      if (copyStatus) copyStatus.textContent = t(store.get().lang, 'auroraCopyFailed');
+    }
+  });
 
   function currentMode() {
     return store.get().activeTab;
@@ -382,6 +395,8 @@ export function createShare({ store, getSnapshot, onApplyPreset }) {
   saveBtn?.addEventListener('click', () => {
     const { url, encoded } = buildUrl();
     if (urlOutput) urlOutput.value = url; // input.value, no innerHTML
+    if (copyBtn) copyBtn.disabled = false;
+    if (copyStatus) copyStatus.textContent = '';
     if (window.history?.replaceState) {
       window.history.replaceState(null, '', url);
     }

@@ -36,6 +36,17 @@ export function createGibsImageryProvider(layerConfig = BLUE_MARBLE_LAYER) {
  * globo con el color base en vez de quedar en blanco).
  */
 export function addGibsBaseLayer(viewer, { onError } = {}) {
+  // Bundled cartography gives an immediate base even when NASA tiles are slow.
+  // Insert underneath the scientific overlays and the GIBS layer.
+  Cesium.TileMapServiceImageryProvider.fromUrl(
+    Cesium.buildModuleUrl('Assets/Textures/NaturalEarthII'),
+    { credit: 'Natural Earth II · naturalearthdata.com' }
+  ).then((fallback) => {
+    if (!viewer.isDestroyed()) {
+      viewer.imageryLayers.addImageryProvider(fallback, 0);
+      viewer.scene.requestRender();
+    }
+  }).catch(() => { /* GIBS remains the primary imagery layer. */ });
   const provider = createGibsImageryProvider();
   const layer = viewer.imageryLayers.addImageryProvider(provider);
   viewer.scene?.requestRender();
