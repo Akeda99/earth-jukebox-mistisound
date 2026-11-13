@@ -58,8 +58,19 @@ export function createControls({ store, audioEngine, narrator, onListen, onCompa
   drawLegend(els.legendCanvas);
 
   els.audioToggle.addEventListener('click', async () => {
-    await audioEngine.start();
-    store.set((s) => ({ audio: { ...s.audio, started: true } }));
+    const errorEl = document.getElementById('audio-start-error');
+    els.audioToggle.disabled = true;
+    if (errorEl) errorEl.hidden = true;
+    try {
+      await audioEngine.start();
+      store.set((s) => ({ audio: { ...s.audio, started: true } }));
+    } catch {
+      els.audioToggle.disabled = false;
+      if (errorEl) {
+        errorEl.textContent = t(store.get().lang, 'auroraAudioError');
+        errorEl.hidden = false;
+      }
+    }
   });
 
   els.muteToggle.addEventListener('click', () => {

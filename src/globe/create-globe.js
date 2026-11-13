@@ -2,6 +2,16 @@ import '../bootstrap-cesium.js';
 import * as Cesium from 'cesium';
 import { t } from '../i18n/index.js';
 
+/** Fit the complete Earth inside the shortest canvas dimension. */
+export function globeOverviewHeight(viewer) {
+  const canvas = viewer.scene.canvas;
+  const aspect = Math.max(1, canvas.clientWidth) / Math.max(1, canvas.clientHeight);
+  const fov = viewer.camera.frustum.fov ?? Math.PI / 3;
+  const narrowFov = 2 * Math.atan(Math.tan(fov / 2) / Math.max(aspect, 1 / aspect));
+  const radius = Cesium.Ellipsoid.WGS84.maximumRadius;
+  return Math.min(30_000_000, radius / Math.sin(narrowFov / 2) * 1.04 - radius);
+}
+
 /**
  * Crea el Viewer de Cesium sin ningun servicio de Cesium ion: sin token,
  * terreno elipsoidal (sin pedir el terreno mundial de ion), geocoder y
@@ -18,7 +28,9 @@ export function createGlobe(container) {
   let viewer;
   try {
     viewer = new Cesium.Viewer(container, {
-      imageryProvider: false,
+      baseLayer: false,
+      contextOptions: { webgl: { alpha: true } },
+      skyBox: false,
       terrainProvider: new Cesium.EllipsoidTerrainProvider(),
       baseLayerPicker: false,
       geocoder: false,
@@ -39,10 +51,23 @@ export function createGlobe(container) {
   }
 
   viewer.scene.globe.enableLighting = false;
+  viewer.scene.backgroundColor = Cesium.Color.TRANSPARENT;
+  if (viewer.scene.sun) viewer.scene.sun.show = false;
+  if (viewer.scene.moon) viewer.scene.moon.show = false;
   viewer.scene.globe.baseColor = Cesium.Color.fromCssColorString('#12344A');
   viewer.scene.screenSpaceCameraController.enableTilt = true;
   viewer.scene.screenSpaceCameraController.enableRotate = true;
   viewer.scene.screenSpaceCameraController.enableZoom = true;
+  viewer.scene.screenSpaceCameraController.minimumZoomDistance = 400_000;
+  viewer.scene.screenSpaceCameraController.maximumZoomDistance = 30_000_000;
+
+  const overviewDestination = () => Cesium.Cartesian3.fromDegrees(-68, -8, globeOverviewHeight(viewer));
+  viewer.camera.setView({ destination: overviewDestination() });
+  viewer.homeButton.viewModel.command.beforeExecute.addEventListener((event) => {
+    event.cancel = true;
+    const reduced = window.matchMedia?.('(prefers-reduced-motion: reduce)').matches;
+    viewer.camera.flyTo({ destination: overviewDestination(), duration: reduced ? 0 : 1.4 });
+  });
 
   viewer.creditDisplay.addStaticCredit(
     new Cesium.Credit(

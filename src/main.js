@@ -8,7 +8,7 @@ import { GistempRepository, LruCache } from './data/repository.js';
 import { PowerRepository } from './data/power-repository.js';
 import { IceRepository } from './data/sea-ice-repository.js';
 import { findNearestCell } from './data/grid.js';
-import { createGlobe, localizeGlobeWidgets } from './globe/create-globe.js';
+import { createGlobe, globeOverviewHeight, localizeGlobeWidgets } from './globe/create-globe.js';
 import { addGibsBaseLayer } from './globe/imagery.js';
 import { setupPicking } from './globe/picking.js';
 import { createOverlayProvider, addOverlayLayer, removeOverlayLayer } from './globe/numeric-overlay.js';
@@ -28,6 +28,7 @@ import { createShare, resolvePresetPeriod, ALLOWED_DJ_CHANNELS } from './sharing
 import { createNarrator } from './accessibility/narration.js';
 import { setupKeyboardSupport } from './accessibility/keyboard.js';
 import { createActionCoordinator, runGuardedAction } from './app/action-coordinator.js';
+import { createAuroraExperience } from './ui/aurora-experience.js';
 
 const DATA_BASE_URL = `${import.meta.env.BASE_URL}data/`;
 
@@ -39,6 +40,7 @@ let overlayLayer = null;
 let overlayGeneration = 0;
 let globeHandle = null;
 let pointMarker = null;
+let showAnomalies = false;
 
 function applyStaticTexts() {
   for (const el of document.querySelectorAll('[data-i18n]')) {
@@ -101,10 +103,10 @@ function placeMarker(lat, lon) {
     pointMarker = globeHandle.viewer.entities.add({
       position,
       point: {
-        pixelSize: 12,
-        color: Cesium.Color.WHITE,
-        outlineColor: Cesium.Color.BLACK,
-        outlineWidth: 2,
+        pixelSize: 9,
+        color: Cesium.Color.fromCssColorString('#d6ffe5'),
+        outlineColor: Cesium.Color.fromCssColorString('#a4f4cb').withAlpha(.4),
+        outlineWidth: 6,
         heightReference: Cesium.HeightReference.NONE
       }
     });
@@ -165,6 +167,7 @@ async function changePeriod(repository, period, { sonify = true } = {}) {
       const provider = await createOverlayProvider(result.data);
       if (generation !== overlayGeneration) return { ok: false, reason: 'stale' }; // descartado: ya no es la mas reciente
       newLayer = addOverlayLayer(globeHandle.viewer, provider);
+      newLayer.show = showAnomalies;
     } catch (err) {
       if (generation !== overlayGeneration) return { ok: false, reason: 'stale' };
       console.error('No se pudo preparar el overlay numerico', err);
@@ -314,7 +317,8 @@ async function init() {
   function flyToPoint(lat, lon) {
     if (!globeHandle?.viewer) return;
     const reducedMotion = window.matchMedia?.('(prefers-reduced-motion: reduce)').matches;
-    const destination = Cesium.Cartesian3.fromDegrees(lon, lat, 1_500_000);
+    const height = store.get().activeTab === 'history' ? globeOverviewHeight(globeHandle.viewer) : 6_000_000;
+    const destination = Cesium.Cartesian3.fromDegrees(lon, lat, height);
     if (reducedMotion) {
       globeHandle.viewer.camera.setView({ destination });
     } else {
@@ -634,6 +638,29 @@ async function init() {
   });
 
   setupKeyboardSupport({ store });
+  tabs.render(store.get());
+
+  const aurora = createAuroraExperience({
+    store, audioEngine,
+    onViewChange: (mode) => {
+      const viewer = globeHandle?.viewer;
+      if (!viewer) return;
+      viewer.resize();
+      if (mode === 'history' || mode === 'dj') {
+        const position = viewer.camera.positionCartographic;
+        viewer.camera.setView({ destination: Cesium.Cartesian3.fromRadians(
+          position.longitude, position.latitude, globeOverviewHeight(viewer)
+        ) });
+      }
+      viewer.scene.requestRender();
+    },
+    onOverlayVisibility: (visible) => {
+      showAnomalies = visible;
+      if (overlayLayer) overlayLayer.show = visible;
+      globeHandle?.viewer?.scene.requestRender();
+    }
+  });
+  if (import.meta.hot) import.meta.hot.dispose(() => aurora.dispose());
 
   store.subscribe((state) => {
     langSwitch.render(state);
@@ -647,6 +674,7 @@ async function init() {
     historyPanel.render(state);
     historyController.enforce(state);
     share.render(state);
+    aurora.render(state);
     maybeAutoNarrate(state);
   });
   langSwitch.render(store.get());

@@ -85,6 +85,7 @@ export function createHistoryPanel({ store, controller, repository, loadCities, 
   function setPlace(next) {
     controller.cancelQuery();
     place = next;
+    if (place?.name) queryInput.value = formatPlaceLabel(place, lang());
     renderPlace();
   }
 
@@ -174,6 +175,24 @@ export function createHistoryPanel({ store, controller, repository, loadCities, 
   }
 
   searchBtn.addEventListener('click', runSearch);
+  $('history-demo')?.addEventListener('click', async () => {
+    const token = ++searchToken;
+    lastSearch = { state: 'loading' };
+    renderSearchResults();
+    try {
+      const catalog = await loadCities();
+      if (token !== searchToken || store.get().activeTab !== 'history') return;
+      const row = searchCities(catalog.rows, 'Iquitos').items[0];
+      if (!row) throw new Error('Demo city missing from catalog');
+      setPlace(cityRowToPlace(row));
+      monthSelect.value = '1'; yearInput.value = '1990';
+      lastSearch = null; placeResults.replaceChildren(); setText(placeStatus, '');
+      form.requestSubmit();
+    } catch {
+      if (token !== searchToken) return;
+      lastSearch = { state: 'error' }; renderSearchResults();
+    }
+  });
   queryInput.addEventListener('keydown', (ev) => {
     if (ev.key === 'Enter') {
       ev.preventDefault();
@@ -232,7 +251,9 @@ export function createHistoryPanel({ store, controller, repository, loadCities, 
     if (resultSection.hidden) return;
     const reduce = window.matchMedia?.('(prefers-reduced-motion: reduce)').matches;
     resultTitle.focus({ preventScroll: true });
-    resultTitle.scrollIntoView({ block: 'start', behavior: reduce ? 'auto' : 'smooth' });
+    if (window.matchMedia?.('(max-width: 960px)').matches) {
+      resultTitle.scrollIntoView({ block: 'start', behavior: reduce ? 'auto' : 'smooth' });
+    }
   }
 
   listenA.addEventListener('click', async () => {
@@ -371,8 +392,10 @@ export function createHistoryPanel({ store, controller, repository, loadCities, 
       }
     }
 
-    setText(listenA, t(l, 'historyListenA', { period: periodA }));
-    setText(listenB, t(l, 'historyListenB', { period: periodB }));
+    setText(listenA, t(l, 'auroraListen'));
+    setText(listenB, t(l, 'auroraListen'));
+    listenA.setAttribute('aria-label', t(l, 'historyListenA', { period: periodA }));
+    listenB.setAttribute('aria-label', t(l, 'historyListenB', { period: periodB }));
     setText(listenAuto, t(l, 'historyListenAuto'));
     setText(repeatBtn, t(l, 'historyRepeat'));
     setText(stopBtn, t(l, 'historyStop'));
